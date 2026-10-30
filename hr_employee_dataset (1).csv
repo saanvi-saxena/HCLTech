@@ -1,0 +1,513 @@
+employee_id,employee_name,age,gender,city,department,job_role,education_level,annual_salary_inr,years_at_company,hire_date,performance_rating,job_satisfaction,overtime,leave_days_taken,employment_status,work_mode,email
+EMP01001,Zoya Iyer,27.0,Female,Kolkata,Customer Support,Support Agent,High School,1017107.0,8.7,2022-05-03,EXCELLENT,4.0,No,21.0,Active,Office,
+EMP01002,Ira Iyer,28.0,Non-binary,Jaipur,Engineering,ML Engineer,Bachelor's,593713.0,1.9,2020-07-31,Poor,3.0,No,8.0,Active,Office,ira.iyer@company.com
+EMP01003,Ananya Roy,22.0,Male,Chennai,Customer Support,Customer Success Associate,High School,785881.0,7.7,2026-03-06,Good,3.0,Yes,14.0,Active,Hybrid,ananya.roy@company.com
+EMP01004,Kavya Joshi,29.0,Prefer not to say,Mumbai,Operations,Operations Manager,PhD,1399870.0,5.3,2021-10-03,Poor,1.0,Yes,12.0,On Leave,Remote,kavya.joshi@company.com
+EMP01005,Sana Reddy,19.0,Non-binary,Ghaziabad,Customer Support,Customer Success Associate,PhD,948091.0,4.7,2018-06-14,Good,4.0,No,7.0,Active,Hybrid,sana.reddy@example.org
+EMP01006,Priya Mehta,23.0,Male,Jaipur,Human Resources,HR Business Partner,High School,1289581.0,16.7,2024-10-08,Excellent,2.0,No,5.0,Active,Office,
+EMP01007,Arjun Saxena,31.0,Non-binary,,Sales,Sales Executive,Diploma,1738734.0,1.5,2018-05-16,Excellent,5.0,No,6.0,Active,Remote,arjun.saxena@workmail.in
+EMP01008,Dev Sharma,30.0,Male,Jaipur,IT,Cloud Engineer,Bachelor's,914293.0,1.8,2025-10-04,Average,2.0,Yes,10.0,Active,Office,dev.sharma@company.com
+EMP01009,Farhan Nair,49.0,Female,Kolkata,Sales,Sales Executive,High School,639970.0,6.5,2018-01-02,EXCELLENT,4.0,Yes,11.0,Active,Hybrid,farhan.nair@workmail.in
+EMP01334,Aisha Singh,40.0,Prefer not to say,Ghaziabad,Engineering,ML Engineer,Diploma,771653.0,6.6,2023-07-20,,3.0,No,13.0,Active,Office,aisha.singh@workmail.in
+EMP01011,Kabir Iyer,19.0,Female,Kolkata,Sales,Sales Executive,High School,1560797.0,3.2,2020-08-18,Good,4.0,Yes,14.0,Resigned,Office,kabir.iyer@workmail.in
+EMP01012,Aisha Iyer,34.0,Male,Lucknow,Sales,Account Manager,Diploma,954126.0,7.9,2026-03-26,Good,4.0,Yes,11.0,Active,Hybrid,aisha.iyer@workmail.in
+EMP01013,Ira Das,42.0,Prefer not to say,Ghaziabad,Sales,Business Development Rep,Bachelor's,1630446.0,0.3,2021-12-19,Poor,2.0,Yes,1.0,Active,Office,ira.das@example.org
+EMP01014,Vikram Sharma,40.0,Prefer not to say,Lucknow,Sales,Account Manager,High School,974933.0,5.6,2021-03-24,Excellent,3.0,Yes,17.0,Resigned,Office,vikram.sharma@workmail.in
+EMP01015,Neha Yadav,45.0,female,Lucknow,customer support,Support Lead,Bachelor's,,4.4,2023-03-02,Poor,4.0,Yes,0.0,Active,Remote,neha.yadav@example.org
+EMP01016,Arjun Iyer,26.0,Prefer not to say,Lucknow,Finance,Accountant,Master's,unknown,3.3,2019-03-23,excellent,3.0,No,0.0,Active,Remote,arjun.iyer@workmail.in
+EMP01017,Ishaan Patel,41.0,Non-binary,Mumbai,Finance,Financial Analyst,High School,1438324.0,6.5,2021-09-24,Poor,4.0,No,12.0,Active,Remote,person@@company.com
+EMP01018,Aisha Nair,24.0,Male,Pune,Operations,Supply Chain Analyst,Bachelor's,,2.2,02/01/2021,Poor,3.0,No,25.0,Active,Hybrid,aisha.nair@example.org
+EMP01019,Vikram Das,45.0,Prefer not to say,Jaipur,Finance,Financial Analyst,Diploma,763797.0,3.6,2018-01-03,Poor,2.0,Yes,12.0,Active,Hybrid,vikram.das@company.com
+EMP01020,Priya Malik,23.0,Male,Lucknow,Finance,Financial Analyst,Diploma,973715.0,5.9,2023-07-31,Poor,4.0,Yes,8.0,Active,Remote,priya.malik@example.org
+EMP01021,Kavya Sharma,30.0,Prefer not to say,DELHI,Finance,Financial Analyst,Bachelor's,371782.0,4.9,2020-01-06,Excellent,3.0,No,18.0,Active,Remote,kavya.sharma@workmail.in
+EMP01022,Rohan Bose,24.0,Prefer not to say,Delhi,Marketing,Content Strategist,Diploma,505915.0,1.1,2019-12-22,,3.0,Yes,11.0,Active,Office,rohan.bose@workmail.in
+EMP01023,Rahul Sharma,40.0,Female,Lucknow,Sales,Business Development Rep,PhD,1050159.0,-2.0,2025-01-23,Excellent,1.0,No,21.0,Active,Office,rahul.sharma@example.org
+EMP01024,Zoya Iyer,42.0,Prefer not to say,Ghaziabad,Sales,Account Manager,High School,949550.0,4.1,2023-08-05,Poor,3.0,Yes,15.0,Resigned,Hybrid,zoya.iyer@example.org
+EMP01025,Ishaan Das,37.0,Non-binary,Mumbai,Customer Support,Support Lead,Master's,,1.5,2025-12-29,Excellent,3.0,Yes,14.0,Active,Hybrid,ishaan.das@example.org
+EMP01026,Aarav Kapoor,38.0,Non-binary,Pune,Sales,Account Manager,Diploma,810591.0,4.1,2020-05-13,Poor,3.0,Yes,15.0,Active,Remote,aarav.kapoor@workmail.in
+EMP01027,Aisha Malik,46.0,Prefer not to say,Delhi,Sales,Business Development Rep,Diploma,599300.0,3.6,"Jul 15, 2022",Average,3.0,No,6.0,Active,Hybrid,aisha.malik@workmail.in
+EMP01028,Kavya Nair,38.0,Male,Bengaluru,human resources,HR Business Partner,High School,1293547.0,4.3,2024-08-13,Poor,2.0,No,13.0,Active,Office,kavya.nair@company.com
+EMP01029,Neha Patel,,Prefer not to say,Pune,Marketing,Content Strategist,Diploma,1688509.0,100.0,2021-11-27,Poor,,Yes,16.0,Active,Remote,neha.patel@company.com
+EMP01030,Ananya Patel,33.0,Non-binary,Mumbai,Human Resources,HR Business Partner,Master's,201504.0,0.2,2024-04-09,Good,2.0,Yes,12.0,Active,Remote,ananya.patel@company.com
+EMP01031,Kavya Qureshi,31.0,,Jaipur,Operations,Operations Manager,High School,513994.0,0.8,2022-11-22,Good,4.0,No,12.0,Active,Office,kavya.qureshi@workmail.in
+EMP01032,Tara Chopra,37.0,Non-binary,Kolkata,Customer Support,Support Agent,High School,1358378.0,2.8,2019-05-24,Poor,2.0,No,19.0,Active,Hybrid,tara.chopra@company.com
+EMP01033,Zoya Bose,36.0,Female,Lucknow,Marketing,Content Strategist,PhD,491787.0,2.1,2020-07-28,Excellent,3.0,Yes,12.0,On Leave,Hybrid,zoya.bose@company.com
+EMP01034,Neha Malik,30.0,Female,Ghaziabad,Marketing,Content Strategist,High School,451815.0,6.5,2024-10-12,Poor,3.0,Yes,9.0,Active,Hybrid,neha.malik@example.org
+EMP01035,Kavya Mehta,30.0,Female,Pune,Customer Support,Support Agent,Diploma,561063.0,6.5,2023-01-07,Good,2.0,No,16.0,Active,Remote,kavya.mehta@workmail.in
+EMP01036,Priya Chopra,25.0,Prefer not to say,Hyderabad,Finance,Financial Analyst,Master's,273722.0,4.0,2020-11-17,Excellent,4.0,No,5.0,Active,Hybrid,priya.chopra@company.com
+EMP01037,Rahul Mehta,36.0,,Jaipur,Engineering,Software Engineer,High School,1329006.0,8.3,2021-11-14,Excellent,3.0,No,8.0,Active,Office,rahul.mehta@workmail.in
+EMP01038,Rohan Gupta,34.0,Non-binary,Delhi,IT,System Administrator,High School,1110011.0,4.6,2023-04-20,Average,2.0,Yes,4.0,On Leave,Remote,rohan.gupta@company.com
+EMP01039,Kavya Mehta,36.0,Prefer not to say,Delhi,Engineering,ML Engineer,Diploma,916066.0,4.8,2020-05-27,,3.0,No,16.0,On Leave,Hybrid,kavya.mehta@example.org
+EMP01040,Ananya Sharma,23.0,Male,Lucknow,Customer Support,Customer Success Associate,Diploma,772235.0,1.4,2018-07-19,Poor,1.0,Yes,9.0,Active,Office,ananya.sharma@workmail.in
+EMP01041,Rahul Yadav,31.0,Prefer not to say,Lucknow,Engineering,Software Engineer,Master's,1052469.0,12.9,2025-07-28,Average,3.0,Yes,4.0,On Leave,Office,rahul.yadav@workmail.in
+EMP01042,Tara Malik,35.0,Non-binary,Mumbai,Sales,Account Manager,Master's,961714.0,4.8,2026-03-04,Poor,3.0,No,1.0,Active,Hybrid,missing-at-sign.com
+EMP01043,Rahul Kapoor,36.0,Male,Bengaluru,Customer Support,Support Agent,Diploma,1233414.0,8.9,2024-06-13,AVG,4.0,No,20.0,Active,Office,rahul.kapoor@workmail.in
+EMP01044,Zoya Chopra,37.0,Prefer not to say,Lucknow,Sales,Sales Executive,PhD,654541.0,3.3,2019-06-07,Excellent,1.0,No,8.0,Active,Hybrid,zoya.chopra@company.com
+EMP01045,Aisha Qureshi,37.0,Female,Lucknow,Marketing,Marketing Executive,Bachelor's,unknown,1.3,2018-03-13,Average,4.0,Yes,6.0,Active,Remote,missing-at-sign.com
+EMP01046,Tara Chopra,30.0,Male,Hyderabad,Finance,Payroll Specialist,High School,,3.4,2024-09-14,Excellent,3.0,Yes,18.0,Active,Office,tara.chopra@workmail.in
+EMP01047,Ira Bose,20.0,Male,Delhi,Finance,Payroll Specialist,PhD,747075.0,2.4,2023-01-17,Excellent,3.0,No,11.0,Active,Hybrid,ira.bose@workmail.in
+EMP01048,Zoya Das,24.0,Prefer not to say,Delhi,IT,Cloud Engineer,Diploma,740056.0,1.4,2021-06-12,Good,1.0,No,2.0,Resigned,Remote,zoya.das@example.org
+EMP01049,Vikram Kapoor,37.0,Non-binary,Ghaziabad,Finance,Accountant,Bachelor's,602470.0,1.1,2022-02-15,Poor,2.0,Yes,5.0,Active,Office,vikram.kapoor@workmail.in
+EMP01050,Neha Roy,42.0,Non-binary,Pune,Finance,Financial Analyst,Master's,786057.0,4.0,2021-08-17,Poor,2.0,No,21.0,Active,Hybrid,neha.roy@company.com
+EMP01051,Neha Roy,26.0,Non-binary,Bengaluru,Sales,Sales Executive,Diploma,unknown,6.0,2020-10-03,Average,3.0,No,9.0,Active,Hybrid,neha.roy@example.org
+EMP01052,Neha Qureshi,43.0,Male,Hyderabad,Sales,Sales Executive,High School,774657.0,4.8,2025-03-03,average,2.0,No,11.0,Active,Hybrid,neha.qureshi@workmail.in
+EMP01053,Ira Roy,33.0,Female,Jaipur,Operations,Operations Executive,Master's,1419052.0,3.1,2026-03-02,average,4.0,Yes,15.0,Active,Remote,ira.roy@workmail.in
+EMP01054,Priya Singh,31.0,Non-binary,Mumbai,Sales,Account Manager,PhD,1068661.0,8.7,2019-03-31,Average,0.0,No,12.0,Active,Hybrid,priya.singh@example.org
+EMP01055,Arjun Roy,150.0,Non-binary,Jaipur,Human Resources,Recruiter,Master's,1020453.0,7.2,2024-12-07,Good,3.0,Yes,17.0,Active,Office,arjun.roy@company.com
+EMP01056,Neha Joshi,36.0,Non-binary,Ghaziabad,Marketing,Content Strategist,Bachelor's,1000085.0,6.2,2020-05-01,Good,4.0,No,5.0,Active,Office,neha.joshi@company.com
+EMP01057,Rohan Kapoor,44.0,Male,Kolkata,IT,System Administrator,Bachelor's,849796.0,3.1,2022-09-14,Poor,3.0,Yes,15.0,Active,Office,rohan.kapoor@example.org
+EMP01058,Meera Iyer,34.0,Female,Chennai,Human Resources,HR Business Partner,PhD,"₹1,238,953",2.3,2022-03-12,Poor,4.0,No,12.0,Active,Office,meera.iyer@company.com
+EMP01059,Rohan Iyer,35.0,Non-binary,Kolkata,Sales,Business Development Rep,Master's,696607.0,3.1,2018-09-01,Good,3.0,No,14.0,Resigned,Remote,rohan.iyer@example.org
+EMP01060,Arjun Yadav,46.0,Male,Ghaziabad,Engineering,Software Engineer,Master's,1099911.0,3.4,2022-11-23,average,4.0,No,15.0,Active,Remote,arjun.yadav@workmail.in
+EMP01061,Neha Mehta,19.0,Non-binary,Ghaziabad,Human Resources,HR Business Partner,Master's,787668.0,3.2,2024-10-26,average,1.0,Yes,13.0,Active,Office,neha.mehta@workmail.in
+EMP01062,Tara Iyer,39.0,Male,Bengaluru,Customer Support,Customer Success Associate,PhD,1192484.0,8.4,2021-09-04,Good,4.0,Yes,8.0,Active,Office,missing-at-sign.com
+EMP01063,Vikram Yadav,46.0,Non-binary,Chennai,Engineering,QA Engineer,Master's,998138.0,1.9,2025-10-22,Good,3.0,Yes,20.0,Resigned,Remote,vikram.yadav@example.org
+EMP01064,Zoya Patel,35.0,Male,Bengaluru,Human Resources,HR Business Partner,Master's,446929.0,2.6,2021-04-10,Good,3.0,No,0.0,Active,Office,zoya.patel@company.com
+EMP01065,Ishaan Qureshi,48.0,Non-binary,Lucknow,Finance,Accountant,PhD,1010406.0,6.0,2025-01-25,Excellent,4.0,Yes,8.0,Active,Remote,ishaan.qureshi@example.org
+EMP01066,Vikram Khan,32.0,Male,Hyderabad,Human Resources,Recruiter,High School,1128416.0,2.6,2022-07-07,Poor,5.0,Yes,3.0,Active,Hybrid,vikram.khan@example.org
+EMP01067,Aditya Verma,23.0,Male,Hyderabad,IT,Cloud Engineer,Master's,845748.0,12.2,2024-08-09,Poor,4.0,No,10.0,Active,Remote,aditya.verma@company.com
+EMP01068,Kavya Bose,37.0,Male,Pune,Customer Support,Support Agent,Bachelor's,587124.0,2.7,2023-11-21,Good,4.0,No,11.0,Active,Office,kavya.bose@company.com
+EMP01069,Vikram Patel,24.0,Non-binary,Lucknow,Marketing,Marketing Executive,Bachelor's,707061.0,8.5,2025-01-11,Good,2.0,Yes,6.0,Terminated,Hybrid,vikram.patel@company.com
+EMP01070,Neha Patel,42.0,Female,Pune,Customer Support,Support Agent,High School,950586.0,5.6,2023-09-17,Average,5.0,Yes,18.0,Resigned,Hybrid,neha.patel@company.com
+EMP01071,Vikram Joshi,31.0,Male,Bengaluru,Marketing,Marketing Executive,Bachelor's,1018714.0,1.1,2026-06-16,Poor,2.0,No,10.0,Active,Remote,vikram.joshi@example.org
+EMP01072,Sana Joshi,33.0,Female,Kolkata,Human Resources,HR Business Partner,Bachelor's,889588.0,5.0,"Feb 12, 2020",Excellent,3.0,Yes,16.0,Active,Hybrid,sana.joshi@workmail.in
+EMP01073,Vikram Sharma,41.0,Male,Ghaziabad,IT,IT Support Engineer,High School,980498.0,7.3,2020-01-04,Good,5.0,Yes,7.0,Active,Office,vikram.sharma@company.com
+EMP01074,Rahul Malik,25.0,Prefer not to say,Pune,Support,Customer Success Associate,Bachelor's,668612.0,1.5,2018-06-28,Good,2.0,Yes,6.0,Active,Hybrid,rahul.malik@workmail.in
+EMP01049,Neha Iyer,40.0,Female,Pune,IT,IT Support Engineer,High School,845530.0,1.6,2024-11-11,Good,4.0,No,8.0,Active,Remote,neha.iyer@workmail.in
+EMP01076,Tara Kapoor,39.0,Male,Lucknow,Sales,Business Development Rep,Diploma,1195165.0,4.7,2025-05-19,Excellent,3.0,Yes,6.0,Active,Hybrid,tara.kapoor@workmail.in
+EMP01077,Neha Joshi,30.0,Prefer not to say,Bangalore,IT,Cloud Engineer,High School,920535.0,9.5,2019-05-26,Excellent,4.0,No,18.0,On Leave,Remote,neha.joshi@example.org
+EMP01078,Meera Sharma,27.0,Non-binary,Hyderabad,Operations,Operations Executive,Master's,962k,7.3,2022-06-13,Good,1.0,Yes,11.0,Resigned,Office,meera.sharma@workmail.in
+EMP01079,Neha Roy,38.0,Non-binary,Ghaziabad,Engineering,Data Analyst,Master's,488083.0,6.9,2023-08-07,Good,4.0,No,17.0,Active,Office,neha.roy@example.org
+EMP01080,Ira Reddy,29.0,Male,Lucknow,Engineering,ML Engineer,Master's,509636.0,4.5,2021-02-25,Poor,2.0,No,2.0,Active,Office,ira.reddy@workmail.in
+EMP01081,Kabir Joshi,27.0,Prefer not to say,Hyderabad,Marketing,SEO Specialist,Bachelor's,513548.0,3.2,2020-12-06,Excellent,4.0,Yes,14.0,Active,Office,not-an-email
+EMP01082,Aditya Singh,31.0,M,Hyderabad,Sales,Account Manager,High School,731448.0,10.2,03-13-19,Excellent,3.0,No,5.0,Active,Office,aditya.singh@workmail.in
+EMP01083,Sana Joshi,30.0,F,Chennai,IT,System Administrator,Master's,1444226.0,2.2,2022-09-17,Poor,4.0,No,7.0,Active,Remote,sana.joshi@company.com
+EMP01084,Kabir Reddy,37.0,Female,Ghaziabad,Human Resources,HR Business Partner,Master's,717791.0,5.1,2026-04-23,Excellent,2.0,Yes,9.0,Active,Office,kabir.reddy@company.com
+EMP01085,Meera Bose,30.0,Prefer not to say,Ghaziabad,Customer Support,Support Agent,Diploma,433609.0,8.2,"Oct 06, 2022",Good,3.0,Yes,7.0,Resigned,Office,meera.bose@company.com
+EMP01086,Vikram Reddy,22.0,Prefer not to say,Hyderabad,Engineering,QA Engineer,PhD,966433.0,6.9,2023-10-01,Excellent,4.0,Yes,9.0,Active,Office,vikram.reddy@company.com
+EMP01087,Ira Saxena,28.0,Prefer not to say,Ghaziabad,Engineering,Data Analyst,Bachelor's,709758.0,14.9,2021-06-09,Poor,4.0,No,18.0,Active,Remote,ira.saxena@workmail.in
+EMP01088,Ishaan Bose,19.0,Male,Kolkata,Engineering,Data Analyst,Master's,1285980.0,5.2,2024-02-06,Excellent,3.0,No,17.0,Resigned,Office,ishaan.bose@example.org
+EMP01089,Priya Roy,29.0,Male,Delhi,Customer Support,Customer Success Associate,Diploma,330087.0,1.4,2019-09-19,Good,2.0,No,14.0,Active,Hybrid,priya.roy@company.com
+EMP01090,Ananya Roy,28.0,Male,Mumbai,Finance,Accountant,Bachelor's,924143.0,3.2,2024-03-18,Good,3.0,Yes,8.0,Active,Hybrid,ananya.roy@company.com
+EMP01091,Neha Kapoor,31.0,Male,,Engineering,Data Analyst,PhD,1006739.0,2.3,2023-12-21,Good,3.0,Yes,11.0,Active,Remote,neha.kapoor@company.com
+EMP01092,Ananya Joshi,34.0,Prefer not to say,Bengaluru,Finance,Accountant,Master's,745663.0,8.0,2023-03-20,Poor,2.0,No,13.0,Active,Office,ananya.joshi@workmail.in
+EMP01093,Priya Khan,19.0,MALE,Chennai,Human Resources,HR Executive,High School,598551.0,12.1,2025-07-26,Excellent,3.0,No,12.0,Active,Remote,priya.khan@workmail.in
+EMP01094,Meera Bose,28.0,Male,Lucknow,Marketing,Content Strategist,Diploma,717372.0,1.9,2023-07-30,Excellent,4.0,No,9.0,Active,Hybrid,meera.bose@workmail.in
+EMP01095,Vikram Singh,30.0,Male,Lucknow,Human Resources,Recruiter,PhD,863324.0,8.4,2021-09-24,Average,2.0,Yes,19.0,Resigned,Office,vikram.singh@company.com
+EMP01096,Zoya Bose,25.0,Female,Lucknow,Finance,Payroll Specialist,High School,743838.0,3.1,2022-10-20,excellent,2.0,Yes,,Active,Office,zoya.bose@example.org
+EMP01097,Ira Mehta,25.0,Non-binary,Mumbai,Sales,Sales Executive,High School,548546.0,6.1,2020-11-25,Poor,2.0,Yes,3.0,Active,Hybrid,ira.mehta@example.org
+EMP01098,Arjun Qureshi,42.0,Prefer not to say,delhi,IT,IT Support Engineer,PhD,1096666.0,3.7,"Nov 25, 2020",Excellent,4.0,No,11.0,Active,Remote,arjun.qureshi@example.org
+EMP01099,Rohan Mehta,36.0,Male,Jaipur,Engineering,QA Engineer,Diploma,927702.0,3.0,2024-07-25,Good,,Yes,11.0,Active,Remote,rohan.mehta@company.com
+EMP01100,Tara Iyer,38.0,Non-binary,Bengaluru,Sales,Account Manager,Master's,1152981.0,8.3,2019-09-08,Poor,4.0,No,6.0,Active,Hybrid,tara.iyer@workmail.in
+EMP01101,Kavya Nair,42.0,Non-binary,Bengaluru,Marketing,SEO Specialist,Diploma,1346653.0,18.5,2022-07-24,average,2.0,Yes,13.0,On Leave,Hybrid,kavya.nair@workmail.in
+EMP01102,Zoya Gupta,19.0,F,Bengaluru,Engineering,Software Engineer,PhD,720387.0,2.3,2018-11-10,Poor,3.0,Yes,8.0,Active,Office,zoya.gupta@company.com
+EMP01103,Ira Sharma,38.0,Male,,Sales,Business Development Rep,Bachelor's,1119925.0,3.6,2026-03-27,Poor,3.0,Yes,13.0,Active,Office,ira.sharma@company.com
+EMP01104,Neha Chopra,49.0,Prefer not to say,Lucknow,Engineering,QA Engineer,Diploma,1183294.0,1.7,2020-09-26,Poor,3.0,Yes,11.0,Terminated,Office,neha.chopra@workmail.in
+EMP01105,Ananya Joshi,48.0,Female,Lucknow,Customer Support,Support Agent,Master's,1045109.0,2.1,2018-07-02,AVG,4.0,Yes,5.0,Active,Hybrid,ananya.joshi@company.com
+EMP01106,Dev Khan,28.0,,Hyderabad,Operations,Operations Manager,Diploma,806810.0,0.9,2020-01-20,Good,3.0,No,,Active,Office,dev.khan@workmail.in
+EMP01107,Arjun Chopra,37.0,Prefer not to say,Mumbai,IT,IT Support Engineer,High School,686175.0,2.3,2018-08-02,Excellent,2.0,Yes,19.0,Active,Remote,arjun.chopra@example.org
+EMP01108,Arjun Das,27.0,Non-binary,Hyderabad,Customer Support,Support Agent,Master's,1533069.0,1.3,2022-03-31,Poor,1.0,Yes,-10.0,Active,Hybrid,arjun.das@workmail.in
+EMP01109,Ira Gupta,21.0,Male,Mumbai,IT,IT Support Engineer,High School,781797.0,2.2,2021-08-18,Excellent,1.0,No,6.0,Active,Hybrid,ira.gupta@company.com
+EMP01110,Vikram Singh,28.0,female,Pune,Human Resources,Recruiter,Master's,681722.0,4.7,2021-03-07,Poor,2.0,Yes,16.0,Active,Hybrid,vikram.singh@workmail.in
+EMP01111,Rohan Joshi,50.0,Non-binary,Ghaziabad,Customer Support,Support Agent,PhD,605782.0,1.7,2023-03-28,Poor,4.0,No,7.0,Active,Office,rohan.joshi@workmail.in
+EMP01112,Vikram Chopra,31.0,Female,Pune,Finance,Accountant,PhD,736941.0,1.6,2018-07-08,Good,1.0,Yes,20.0,Active,Hybrid,vikram.chopra@company.com
+EMP01113,Aisha Joshi,40.0,F,Mumbai,Human Resources,HR Executive,Bachelor's,633049.0,5.1,2019-06-30,Average,3.0,Yes,15.0,Active,Remote,aisha.joshi@example.org
+EMP01114,Tara Gupta,37.0,Non-binary,bengaluru,Marketing,Content Strategist,Diploma,1304996.0,1.9,2018-01-29,Poor,2.0,No,6.0,Active,Office,tara.gupta@workmail.in
+EMP01115,Sana Chopra,46.0,Non-binary,Kolkata,Finance,Payroll Specialist,Master's,1129998.0,13.8,2020-05-26,Good,2.0,No,9.0,Active,Remote,sana.chopra@workmail.in
+EMP01116,Ananya Saxena,44.0,Female,Mumbai,Human Resources,HR Executive,High School,813555.0,4.1,2021-12-12,Poor,3.0,No,15.0,Active,Remote,ananya.saxena@example.org
+EMP01117,Kabir Gupta,29.0,Prefer not to say,Hyderabad,Operations,Operations Manager,PhD,871628.0,6.2,2022-02-09,Average,3.0,No,13.0,Active,Remote,kabir.gupta@workmail.in
+EMP01118,Kavya Bose,39.0,Prefer not to say,Delhi,Sales,Business Development Rep,Bachelor's,668k,,2024-04-21,Average,2.0,Yes,14.0,Active,Remote,kavya.bose@company.com
+EMP01119,Meera Verma,,Prefer not to say,Kolkata,Operations,Supply Chain Analyst,PhD,964944.0,6.2,2024-08-09,Average,2.0,Yes,11.0,Active,Office,meera.verma@example.org
+EMP01120,Ishaan Nair,38.0,Male,Bengaluru,Marketing,Marketing Executive,Bachelor's,905124.0,9.9,2025-03-30,Good,3.0,Yes,14.0,Active,Office,ishaan.nair@company.com
+EMP01121,Ishaan Sharma,40.0,Non-binary,Kolkata,Engineering,ML Engineer,Bachelor's,798932.0,2.0,2026-05-16,Average,3.0,Yes,10.0,Active,Hybrid,
+EMP01122,Neha Saxena,38.0,Male,Kolkata,IT,IT Support Engineer,Master's,895543.0,3.0,2020-01-14,Excellent,4.0,Yes,,Active,Office,neha.saxena@example.org
+EMP01123,Ishaan Malik,36.0,Prefer not to say,Bengaluru,Engineering,QA Engineer,Master's,1274070.0,3.0,2021-06-07,Average,,No,11.0,Active,Office,ishaan.malik@workmail.in
+EMP01124,Meera Mehta,32.0,Non-binary,Delhi,customer support,Customer Success Associate,High School,1157k,11.3,2020-07-13,Excellent,1.0,No,14.0,Resigned,Hybrid,meera.mehta@workmail.in
+EMP01125,Farhan Khan,28.0,Male,Chennai,Engineering,ML Engineer,High School,1112057.0,2.3,2020-11-13,Excellent,4.0,Yes,10.0,Active,Hybrid,farhan.khan@example.org
+EMP01126,Ishaan Gupta,0.0,Female,Bengaluru,Human Resources,HR Executive,Diploma,887476.0,7.0,2018-09-03,Good,2.0,Yes,7.0,Active,Remote,ishaan.gupta@workmail.in
+EMP01127,Ananya Yadav,42.0,Female,Kolkata,Operations,Supply Chain Analyst,Diploma,905828.0,9.8,2024-08-25,excellent,3.0,No,10.0,Resigned,Remote,ananya.yadav@company.com
+EMP01128,Ananya Chopra,27.0,Non-binary,Pune,IT,System Administrator,Diploma,424023.0,5.0,2026-05-18,Average,4.0,Yes,15.0,Active,Office,ananya.chopra@company.com
+EMP01129,Ishaan Patel,,Non-binary,Hyderabad,IT,IT Support Engineer,Bachelor's,,1.7,2023-08-02,Excellent,3.0,No,13.0,Active,Hybrid,ishaan.patel@company.com
+EMP01130,Rahul Khan,40.0,Prefer not to say,Ghaziabad,Human Resources,HR Executive,High School,770477.0,4.6,2025-02-06,Good,3.0,No,17.0,On Leave,Remote,rahul.khan@workmail.in
+EMP01131,Ishaan Patel,28.0,F,Lucknow,Marketing,Marketing Executive,Diploma,665459.0,2.7,2025-07-02,Good,2.0,No,13.0,Active,Remote,ishaan.patel@company.com
+EMP01132,Zoya Joshi,33.0,Male,Ghaziabad,Customer Support,Customer Success Associate,Diploma,753467.0,0.6,2023-07-30,Good,2.0,No,12.0,Active,Remote,zoya.joshi@workmail.in
+EMP01133,Sana Khan,29.0,Prefer not to say,Ghaziabad,Marketing,SEO Specialist,Diploma,704616.0,5.3,2026-06-21,Excellent,4.0,No,14.0,Active,Remote,sana.khan@workmail.in
+EMP01134,Tara Sharma,41.0,Prefer not to say,Bengaluru,IT,Cloud Engineer,Bachelor's,,2.1,2024-04-21,Good,2.0,No,14.0,Active,Hybrid,tara.sharma@workmail.in
+EMP01135,Vikram Khan,38.0,Non-binary,Lucknow,Operations,Operations Manager,Diploma,480041.0,1.3,2025-01-17,Good,3.0,No,17.0,Active,Office,vikram.khan@example.org
+EMP01136,Rohan Khan,44.0,Female,Hyderabad,Sales,Business Development Rep,Diploma,917299.0,15.3,2021-07-18,Average,4.0,No,15.0,Resigned,Remote,rohan.khan@example.org
+EMP01137,Dev Verma,35.0,Prefer not to say,Delhi,Finance,Accountant,Bachelor's,180000.0,4.0,2020-01-23,Average,4.0,No,13.0,Active,Office,dev.verma@company.com
+EMP01138,Vikram Patel,43.0,Male,Mumbai,Customer Support,Support Agent,Bachelor's,749975.0,1.2,2026-02-07,Poor,3.0,No,15.0,On Leave,Office,vikram.patel@company.com
+EMP01139,Neha Qureshi,40.0,Female,Lucknow,Human Resources,HR Executive,Bachelor's,1251647.0,1.6,2023-04-07,Average,1.0,No,22.0,Active,Office,neha.qureshi@example.org
+EMP01140,Rohan Joshi,33.0,Male,Pune,Engineering,ML Engineer,Diploma,848777.0,3.1,2020-07-11,Excellent,2.0,No,15.0,Resigned,Remote,rohan.joshi@example.org
+EMP01141,Rahul Malik,33.0,Male,Hyderabad,Marketing,Content Strategist,Diploma,802069.0,2.7,2018-06-22,Average,1.0,Yes,2.0,Active,Office,missing-at-sign.com
+EMP01142,Meera Iyer,38.0,Female,Lucknow,,Operations Manager,Diploma,unknown,0.7,2023-04-04,Poor,4.0,Yes,7.0,Active,Office,meera.iyer@example.org
+EMP01143,Rahul Malik,29.0,Non-binary,Pune,Marketing,Content Strategist,Master's,423767.0,2.4,2023-07-27,Good,2.0,No,11.0,Resigned,Hybrid,rahul.malik@company.com
+EMP01144,Dev Saxena,31.0,Female,Delhi,Sales,Business Development Rep,PhD,659342.0,13.0,2018-06-15,Good,3.0,No,11.0,Active,Remote,dev.saxena@workmail.in
+EMP01145,Kavya Malik,26.0,Female,Chennai,IT,Cloud Engineer,Bachelor's,904864.0,4.6,2025-03-30,Excellent,1.0,No,4.0,Active,Hybrid,
+EMP01146,Sana Roy,46.0,Male,Hyderabad,IT,Cloud Engineer,PhD,550297.0,6.5,2020-05-28,Good,4.0,No,6.0,Active,Hybrid,sana.roy@company.com
+EMP01149,Rahul Das,40.0,Female,Delhi,Finance,Accountant,Bachelor's,1448664.0,3.2,2022-09-20,Excellent,1.0,Yes,9.0,Resigned,Hybrid,rahul.das@workmail.in
+EMP01148,Ira Verma,27.0,Female,Kolkata,Marketing,Content Strategist,PhD,328068.0,11.0,2018-03-24,Poor,2.0,Yes,19.0,Active,Remote,ira.verma@company.com
+EMP01149,Farhan Singh,22.0,Female,Kolkata,Human Resources,HR Executive,Diploma,1112999.0,1.8,2019-10-16,Excellent,4.0,No,15.0,Active,Hybrid,farhan.singh@example.org
+EMP01150,Neha Singh,35.0,Male,Lucknow,Finance,Payroll Specialist,High School,180000.0,5.1,2020-11-12,Average,2.0,No,6.0,Active,Office,neha.singh@company.com
+EMP01151,Vikram Gupta,,Female,Bangalore,Finance,Financial Analyst,PhD,1555643.0,5.3,2025-11-27,Excellent,3.0,No,14.0,Active,Remote,vikram.gupta@workmail.in
+EMP01152,Zoya Yadav,34.0,Non-binary,Bengaluru,Finance,Payroll Specialist,PhD,1090696.0,0.4,,Excellent,2.0,No,,Active,Remote,zoya.yadav@workmail.in
+EMP01153,Dev Kapoor,33.0,Female,Ghaziabad,Sales,Sales Executive,Bachelor's,1156572.0,8.1,2018-06-20,Average,1.0,Yes,13.0,Active,Hybrid,dev.kapoor@company.com
+EMP01154,Zoya Malik,37.0,Female,Delhi,Customer Support,Customer Success Associate,High School,467868.0,2.0,2026-01-13,Poor,5.0,No,10.0,Active,Remote,zoya.malik@company.com
+EMP01155,Priya Iyer,36.0,Prefer not to say,delhi,Sales,Sales Executive,High School,1770571.0,3.7,2019-08-11,Poor,3.0,Yes,0.0,Active,Remote,priya.iyer@example.org
+EMP01156,Neha Mehta,31.0,Prefer not to say,Mumbai,Finance,Financial Analyst,High School,972677.0,3.1,2018-12-13,Average,2.0,No,9.0,Resigned,Hybrid,neha.mehta@workmail.in
+EMP01157,Aisha Bose,37.0,Prefer not to say,Chennai,IT,IT Support Engineer,PhD,,4.0,2019-04-26,Excellent,4.0,Yes,12.0,Active,Hybrid,aisha.bose@workmail.in
+EMP01158,Zoya Bose,23.0,Non-binary,Kolkata,Marketing,SEO Specialist,Diploma,934095.0,0.4,2021-10-03,Average,2.0,No,20.0,On Leave,Hybrid,zoya.bose@example.org
+EMP01159,Kabir Reddy,32.0,Prefer not to say,Chennai,IT,IT Support Engineer,High School,1120949.0,2.8,2021-06-07,Good,3.0,Yes,17.0,Resigned,Hybrid,kabir.reddy@company.com
+EMP01160,Ishaan Saxena,45.0,Female,Pune,Engineering,QA Engineer,Bachelor's,180000.0,1.7,2025-03-08,Good,2.0,Yes,12.0,Active,Remote,ishaan.saxena@company.com
+EMP01161,Sana Verma,33.0,Non-binary,Kolkata,IT,Cloud Engineer,PhD,933232.0,1.2,2022-09-12,Excellent,2.0,No,15.0,Active,Office,sana.verma@company.com
+EMP01387,Aisha Qureshi,,Female,Jaipur,Finance,Financial Analyst,Diploma,585764.0,4.1,,Good,2.0,Yes,16.0,Active,Hybrid,aisha.qureshi@example.org
+EMP01163,Zoya Roy,46.0,Non-binary,Mumbai,Finance,Payroll Specialist,Diploma,1317341.0,9.6,2022-04-30,Average,3.0,Yes,0.0,Active,Remote,zoya.roy@workmail.in
+EMP01164,Vikram Saxena,19.0,Prefer not to say,Kolkata,Human Resources,HR Business Partner,Master's,511482.0,10.1,2021-12-14,Average,1.0,Yes,16.0,On Leave,Hybrid,vikram.saxena@workmail.in
+EMP01165,Neha Gupta,45.0,Non-binary,Kolkata,Finance,Financial Analyst,Master's,1312841.0,2.3,2022-01-02,Average,3.0,No,15.0,Terminated,Hybrid,person@@company.com
+EMP01166,Rahul Khan,35.0,Non-binary,Kolkata,Finance,Accountant,PhD,601634.0,1.6,2021-08-23,Poor,2.0,No,19.0,Active,Office,rahul.khan@company.com
+EMP01167,Ananya Sharma,37.0,Female,Kolkata,Operations,Operations Executive,PhD,652317.0,4.1,2024-12-01,Poor,4.0,No,13.0,Active,Hybrid,ananya.sharma@workmail.in
+EMP01168,Ananya Khan,36.0,Prefer not to say,Delhi,Customer Support,Support Lead,Master's,884879.0,17.8,2023-08-15,Good,4.0,No,13.0,Active,Hybrid,not-an-email
+EMP01169,Aisha Qureshi,,Non-binary,Lucknow,Customer Support,Customer Success Associate,High School,835369.0,9.9,2024-11-28,Excellent,1.0,Yes,4.0,Resigned,Hybrid,aisha.qureshi@company.com
+EMP01170,Aditya Kapoor,28.0,Prefer not to say,Jaipur,IT,Cloud Engineer,Master's,844703.0,6.7,2023-03-04,Good,3.0,Yes,6.0,Active,Office,aditya.kapoor@company.com
+EMP01171,Kavya Kapoor,37.0,Male,Pune,Operations,Supply Chain Analyst,High School,735360.0,2.3,2025-11-29,,3.0,Yes,10.0,Active,Office,kavya.kapoor@company.com
+EMP01172,Vikram Reddy,35.0,Prefer not to say,Chennai,IT,System Administrator,Bachelor's,752852.0,3.7,2021-02-25,Excellent,2.0,Yes,17.0,On Leave,Hybrid,vikram.reddy@example.org
+EMP01173,Ananya Reddy,40.0,Non-binary,Lucknow,Customer Support,Support Lead,High School,701618.0,1.0,"Feb 23, 2026",Good,4.0,No,21.0,Active,Remote,ananya.reddy@company.com
+EMP01174,Rohan Joshi,24.0,Non-binary,Ghaziabad,Marketing,SEO Specialist,Bachelor's,793901.0,1.3,"Aug 01, 2018",Excellent,1.0,Yes,9.0,Active,Hybrid,rohan.joshi@company.com
+EMP01175,Rohan Reddy,30.0,Male,Pune,Operations,Operations Manager,Master's,823423.0,4.6,2024-05-17,Excellent,4.0,No,6.0,Active,Office,rohan.reddy@company.com
+EMP01176,Rohan Mehta,30.0,Non-binary,Pune,Marketing,SEO Specialist,High School,815047.0,5.7,2025-07-17,Excellent,3.0,No,22.0,Active,Hybrid,rohan.mehta@company.com
+EMP01177,Aditya Saxena,37.0,Male,Pune,Operations,Supply Chain Analyst,PhD,1202280.0,16.7,2021-07-06,AVG,5.0,Yes,9.0,Active,Office,aditya.saxena@company.com
+EMP01178,Kabir Yadav,52.0,Prefer not to say,Pune,Marketing,Content Strategist,High School,550982.0,2.6,2024-04-12,Average,1.0,Yes,6.0,Active,Hybrid,kabir.yadav@example.org
+EMP01179,Vikram Bose,42.0,Female,Mumbai,Finance,Payroll Specialist,Diploma,,1.2,2018-01-17,Poor,3.0,Yes,23.0,Resigned,Hybrid,vikram.bose@example.org
+EMP01180,Sana Yadav,27.0,Prefer not to say,Lucknow,Marketing,SEO Specialist,Bachelor's,1122577.0,2.4,2022-12-24,Good,3.0,No,17.0,Resigned,Hybrid,sana.yadav@company.com
+EMP01181,Farhan Kapoor,37.0,Female,Ghaziabad,Engineering,Software Engineer,PhD,393349.0,3.5,2019-01-30,Poor,1.0,Yes,8.0,Active,Office,missing-at-sign.com
+EMP01182,Ananya Yadav,43.0,Non-binary,Mumbai,Customer Support,Support Lead,Master's,680350.0,4.7,2022-08-31,Good,3.0,Yes,11.0,Active,Office,ananya.yadav@example.org
+EMP01183,Aditya Saxena,51.0,Female,Hyderabad,IT,Cloud Engineer,Bachelor's,395497.0,4.8,2020-02-09,Good,2.0,No,5.0,Active,Remote,aditya.saxena@example.org
+EMP01184,Ira Yadav,33.0,Male,Jaipur,Finance,Accountant,Master's,677185.0,2.5,2021-01-21,Average,4.0,No,3.0,Terminated,Office,ira.yadav@workmail.in
+EMP01185,Sana Gupta,35.0,Prefer not to say,Chennai,Engineering,Software Engineer,PhD,950146.0,9.9,2023-09-23,Excellent,3.0,Yes,4.0,Active,Remote,sana.gupta@company.com
+EMP01186,Rohan Reddy,19.0,Female,Delhi,Human Resources,HR Business Partner,Diploma,384310.0,2.7,2021-07-20,EXCELLENT,3.0,Yes,22.0,Active,Remote,
+EMP01187,Aisha Roy,27.0,Non-binary,Bengaluru,Customer Support,Support Agent,High School,600528.0,2.4,2023-08-02,Poor,3.0,No,4.0,Active,Office,aisha.roy@workmail.in
+EMP01188,Rohan Reddy,19.0,Non-binary,Kolkata,Marketing,Marketing Executive,PhD,382645.0,4.6,2019-04-13,Good,,Yes,26.0,Active,Remote,rohan.reddy@example.org
+EMP01189,Ishaan Reddy,40.0,Prefer not to say,Bengaluru,Operations,Supply Chain Analyst,PhD,708384.0,2.6,2024-05-11,excellent,2.0,No,9.0,Active,Office,
+EMP01190,Aarav Singh,34.0,Non-binary,Bengaluru,Marketing,SEO Specialist,Master's,434857.0,9.2,2018-08-01,Poor,3.0,Yes,16.0,Active,Remote,aarav.singh@company.com
+EMP01191,Ishaan Verma,29.0,Female,Lucknow,Operations,Supply Chain Analyst,Bachelor's,710475.0,3.4,2021-07-06,Excellent,2.0,No,12.0,Active,Office,ishaan.verma@example.org
+EMP01192,Arjun Iyer,41.0,Prefer not to say,Delhi,Finance,Payroll Specialist,Master's,1020539.0,2.2,2021-05-04,Average,4.0,No,16.0,Terminated,Office,arjun.iyer@example.org
+EMP01193,Kabir Joshi,35.0,Non-binary,Bengaluru,Finance,Financial Analyst,Master's,1308848.0,0.6,2023-06-02,Poor,4.0,No,21.0,Active,Office,kabir.joshi@workmail.in
+EMP01194,Dev Malik,-5.0,Female,Ghaziabad,Sales,Sales Executive,High School,905756.0,3.3,2026-03-28,Excellent,1.0,Yes,3.0,Terminated,Remote,dev.malik@workmail.in
+EMP01195,Ira Nair,37.0,Non-binary,Bengaluru,IT,Cloud Engineer,PhD,982822.0,2.4,2026-03-21,Average,2.0,Yes,0.0,Active,Remote,ira.nair@workmail.in
+EMP01196,Aarav Yadav,25.0,Female,Ghaziabad,Human Resources,HR Executive,High School,451981.0,1.0,2024-02-17,AVG,3.0,Yes,8.0,Resigned,Office,aarav.yadav@example.org
+EMP01197,Priya Bose,37.0,Female,Lucknow,Human Resources,HR Business Partner,Master's,1027266.0,9.2,2025-12-02,Excellent,4.0,Yes,12.0,Active,Hybrid,priya.bose@example.org
+EMP01198,Aarav Roy,31.0,Female,Delhi,,IT Support Engineer,PhD,927277.0,3.0,2020-12-10,Poor,4.0,No,19.0,Resigned,Remote,aarav.roy@workmail.in
+EMP01199,Aisha Qureshi,42.0,,Hyderabad,Sales,Sales Executive,PhD,,4.4,2022-12-30,Poor,1.0,No,5.0,Active,Hybrid,aisha.qureshi@example.org
+EMP01200,Ananya Khan,30.0,Prefer not to say,Hyderabad,Human Resources,HR Executive,PhD,1106929.0,2.3,2020-12-23,Poor,4.0,Yes,3.0,Active,Hybrid,ananya.khan@workmail.in
+EMP01201,Kabir Malik,26.0,Prefer not to say,Chennai,Operations,Operations Manager,Bachelor's,247709.0,0.8,2018-10-05,Good,2.0,No,14.0,Active,Hybrid,kabir.malik@workmail.in
+EMP01202,Aditya Mehta,,Non-binary,Mumbai,Engineering,ML Engineer,High School,1141212.0,4.5,2023-09-04,Poor,3.0,Yes,7.0,Active,Office,aditya.mehta@example.org
+EMP01203,Meera Reddy,27.0,Non-binary,Jaipur,IT,Cloud Engineer,Master's,759111.0,8.6,2022-01-04,excellent,5.0,No,6.0,Active,Hybrid,meera.reddy@example.org
+EMP01204,Neha Malik,41.0,Non-binary,Delhi,Finance,Payroll Specialist,PhD,662545.0,1.1,2021-01-31,Average,2.0,Yes,13.0,Active,Remote,neha.malik@company.com
+EMP01205,Farhan Patel,35.0,Male,Mumbai,Sales,Sales Executive,High School,947051.0,1.9,2025-08-27,Good,4.0,Yes,3.0,Active,Hybrid,farhan.patel@company.com
+EMP01206,Aditya Joshi,23.0,Non-binary,Mumbai,Marketing,Content Strategist,High School,815105.0,6.4,06-03-22,Average,1.0,No,,Active,Office,aditya.joshi@example.org
+EMP01207,Tara Gupta,35.0,Female,Pune,Human Resources,HR Business Partner,High School,794603.0,3.6,2021-08-20,Excellent,5.0,No,0.0,Active,Hybrid,tara.gupta@example.org
+EMP01208,Priya Chopra,46.0,Non-binary,Ghaziabad,Engineering,Software Engineer,Bachelor's,1039626.0,11.1,2022-05-06,Good,4.0,No,5.0,Active,Hybrid,priya.chopra@example.org
+EMP01209,Rahul Nair,37.0,Male,Chennai,Human Resources,HR Executive,High School,602652.0,3.1,2023-03-08,Excellent,1.0,No,15.0,On Leave,Hybrid,rahul.nair@example.org
+EMP01210,Rohan Verma,26.0,Non-binary,Kolkata,Engineering,ML Engineer,PhD,948881.0,4.6,2023-08-22,Excellent,4.0,No,17.0,Active,Hybrid,rohan.verma@workmail.in
+EMP01211,Ananya Kapoor,27.0,Prefer not to say,Bengaluru,Sales,Business Development Rep,Diploma,1014699.0,3.1,2024-02-10,Good,4.0,Yes,11.0,Active,Hybrid,ananya.kapoor@workmail.in
+EMP01212,Kavya Nair,28.0,Male,Jaipur,Marketing,Content Strategist,High School,995747.0,3.4,2023-07-08,Poor,2.0,No,10.0,Active,Office,kavya.nair@company.com
+EMP01213,Sana Joshi,44.0,Male,,Operations,Operations Manager,Diploma,977208.0,2.5,2021-02-18,Poor,1.0,No,17.0,Active,Office,sana.joshi@company.com
+EMP01214,Vikram Mehta,34.0,Male,Chennai,Customer Support,Support Lead,Master's,1322128.0,4.3,2018-03-27,Excellent,3.0,Yes,18.0,Active,Office,vikram.mehta@example.org
+EMP01215,Zoya Qureshi,19.0,Female,Jaipur,IT,Cloud Engineer,PhD,787070.0,2.4,2023-11-12,Good,4.0,No,19.0,Active,Hybrid,zoya.qureshi@workmail.in
+EMP01216,Vikram Gupta,41.0,Non-binary,Pune,Sales,Business Development Rep,Bachelor's,983937.0,2.9,2023-10-11,average,3.0,No,7.0,Active,Office,vikram.gupta@example.org
+EMP01217,Kabir Qureshi,36.0,Prefer not to say,Hyderabad,Human Resources,Recruiter,Master's,827568.0,12.7,2022-10-16,Excellent,3.0,Yes,11.0,Active,Office,kabir.qureshi@workmail.in
+EMP01218,Priya Yadav,19.0,Female,Kolkata,Marketing,SEO Specialist,Master's,1095215.0,2.3,2020-11-13,Good,3.0,Yes,11.0,Active,Office,priya.yadav@workmail.in
+EMP01219,Kabir Gupta,38.0,FEMALE,Bengaluru,Sales,Sales Executive,High School,929567.0,3.0,2018-01-19,Average,3.0,Yes,5.0,Active,Hybrid,kabir.gupta@example.org
+EMP01220,Ananya Sharma,37.0,Prefer not to say,Hyderabad,Engineering,Software Engineer,Bachelor's,986812.0,2.5,2018-01-16,Good,3.0,No,12.0,On Leave,Hybrid,ananya.sharma@company.com
+EMP01221,Priya Verma,25.0,Male,Mumbai,Operations,Supply Chain Analyst,Diploma,1066351.0,3.4,2019-12-23,Poor,2.0,No,21.0,Terminated,Remote,priya.verma@example.org
+EMP01222,Ira Yadav,19.0,Non-binary,Pune,Customer Support,Support Agent,High School,1197826.0,5.6,2024-03-09,Average,4.0,No,9.0,Active,Office,ira.yadav@workmail.in
+EMP01223,Ishaan Qureshi,44.0,Male,Mumbai,Operations,Supply Chain Analyst,High School,958986.0,5.8,2022-08-02,Average,3.0,Yes,7.0,Active,Office,ishaan.qureshi@example.org
+EMP01224,Aarav Saxena,42.0,Male,Pune,IT,System Administrator,High School,380717.0,6.6,2023-03-04,Good,3.0,Yes,12.0,Active,Hybrid,aarav.saxena@company.com
+EMP01225,Sana Yadav,40.0,Prefer not to say,Kolkata,Customer Support,Customer Success Associate,High School,874156.0,7.8,2018-05-18,Poor,5.0,No,21.0,On Leave,Office,sana.yadav@company.com
+EMP01226,Kavya Malik,26.0,Female,Lucknow,Marketing,SEO Specialist,Master's,691308.0,2.5,2020-11-05,Poor,2.0,No,,Active,Hybrid,kavya.malik@company.com
+EMP01227,Neha Gupta,36.0,Non-binary,Kolkata,Marketing,Content Strategist,High School,639602.0,5.8,2018-07-17,Excellent,2.0,Yes,11.0,Active,Office,neha.gupta@workmail.in
+EMP01228,Farhan Bose,43.0,Female,Chennai,Operations,Supply Chain Analyst,Master's,1067453.0,5.7,2019-12-09,Good,1.0,Yes,14.0,Active,Office,farhan.bose@workmail.in
+EMP01229,Zoya Kapoor,32.0,Prefer not to say,Delhi,IT,IT Support Engineer,PhD,724539.0,45.0,2023-08-05,Excellent,3.0,No,3.0,Active,Remote,zoya.kapoor@company.com
+EMP01230,Rahul Yadav,40.0,Non-binary,Mumbai,Human Resources,HR Executive,Master's,,1.3,2025-02-04,Good,3.0,No,13.0,Active,Hybrid,rahul.yadav@company.com
+EMP01231,Priya Saxena,36.0,Male,Mumbai,Engineering,QA Engineer,Bachelor's,180000.0,6.3,2025-11-06,Excellent,3.0,Yes,999.0,Active,Remote,priya.saxena@company.com
+EMP01232,Dev Sharma,26.0,Male,Pune,Operations,Operations Executive,High School,782020.0,5.8,2019-11-02,Average,4.0,Yes,10.0,Active,Office,dev.sharma@example.org
+EMP01233,Kavya Gupta,45.0,Prefer not to say,Hyderabad,Marketing,Content Strategist,Diploma,946055.0,2.0,2023-04-15,Average,3.0,Yes,16.0,Active,Office,kavya.gupta@company.com
+EMP01234,Meera Joshi,23.0,Prefer not to say,Delhi,Marketing,Content Strategist,High School,861390.0,5.9,2023-12-14,Average,4.0,Yes,15.0,Active,Hybrid,meera.joshi@example.org
+EMP01235,Rohan Yadav,49.0,Male,Lucknow,Finance,Accountant,Master's,180000.0,4.1,04-22-20,Good,3.0,Yes,19.0,Active,Remote,rohan.yadav@company.com
+EMP01236,Dev Mehta,44.0,Female,Chennai,Sales,Business Development Rep,PhD,858624.0,5.3,2024-09-05,Good,2.0,No,15.0,Terminated,Remote,dev.mehta@company.com
+EMP01237,Zoya Gupta,23.0,Non-binary,Hyderabad,Engineering,Data Analyst,Master's,"₹774,782",6.1,"Dec 07, 2025",Poor,3.0,No,16.0,Active,Remote,zoya.gupta@workmail.in
+EMP01238,Dev Saxena,19.0,Male,Jaipur,Engineering,Data Analyst,High School,798705.0,4.2,2018-07-07,Excellent,3.0,Yes,18.0,Active,Remote,dev.saxena@example.org
+EMP01239,Priya Yadav,27.0,Female,Kolkata,Engineering,Software Engineer,High School,1017036.0,5.4,2024-05-16,Good,4.0,Yes,6.0,Active,Hybrid,priya.yadav@company.com
+EMP01240,Kavya Nair,32.0,,Kolkata,Marketing,Content Strategist,Diploma,786185.0,7.7,2024-08-29,Excellent,5.0,Yes,6.0,Active,Office,kavya.nair@company.com
+EMP01241,Zoya Reddy,34.0,Male,Pune,Operations,Operations Manager,Diploma,734953.0,5.0,,EXCELLENT,4.0,Yes,9.0,Active,Hybrid,zoya.reddy@example.org
+EMP01242,Rohan Joshi,34.0,Male,Chennai,Marketing,SEO Specialist,Bachelor's,891952.0,9.5,2024-09-16,Poor,2.0,Yes,17.0,Active,Office,rohan.joshi@example.org
+EMP01243,Farhan Singh,31.0,Prefer not to say,Pune,Engineering,Data Analyst,High School,1000199.0,4.3,2024-07-03,Good,2.0,No,4.0,Active,Hybrid,farhan.singh@example.org
+EMP01244,Kavya Reddy,54.0,Male,Mumbai,IT,Cloud Engineer,PhD,1018700.0,2.3,2023-05-27,Good,4.0,Yes,11.0,On Leave,Office,kavya.reddy@workmail.in
+EMP01245,Aditya Das,25.0,Prefer not to say,Pune,human resources,HR Business Partner,Diploma,,6.6,2023-05-04,Poor,5.0,No,21.0,Active,Office,aditya.das@company.com
+EMP01246,Zoya Verma,26.0,Prefer not to say,Ghaziabad,,Support Agent,Diploma,721259.0,0.7,2026-05-02,Poor,2.0,No,6.0,Resigned,Remote,zoya.verma@company.com
+EMP01247,Zoya Sharma,30.0,Non-binary,Hyderabad,Customer Support,Customer Success Associate,High School,855510.0,10.4,03-08-20,Excellent,3.0,No,19.0,Resigned,Remote,zoya.sharma@example.org
+EMP01248,Zoya Qureshi,23.0,Non-binary,Pune,Engineering,Software Engineer,Diploma,408203.0,5.6,2022-02-22,Average,3.0,No,19.0,Active,Hybrid,zoya.qureshi@example.org
+EMP01249,Ira Mehta,31.0,male,Delhi,Operations,Operations Executive,PhD,595356.0,4.0,2022-02-05,EXCELLENT,3.0,No,18.0,Active,Office,ira.mehta@example.org
+EMP01250,Ishaan Roy,34.0,male,,IT,System Administrator,Bachelor's,688140.0,8.8,2018-04-19,Poor,4.0,No,22.0,Active,Remote,ishaan.roy@example.org
+EMP01251,Rohan Patel,31.0,Non-binary,Pune,Human Resources,HR Business Partner,PhD,808750.0,5.1,2022-03-10,Average,4.0,Yes,0.0,On Leave,Remote,rohan.patel@workmail.in
+EMP01252,Rahul Yadav,,Prefer not to say,Mumbai,Marketing,Content Strategist,Master's,923380.0,7.5,2020-12-24,Good,3.0,No,5.0,Active,Hybrid,rahul.yadav@workmail.in
+EMP01253,Tara Joshi,38.0,Female,Jaipur,Finance,Payroll Specialist,Master's,1100891.0,2.5,2024-06-29,,2.0,No,9.0,Terminated,Hybrid,tara.joshi@example.org
+EMP01254,Tara Qureshi,30.0,Non-binary,Lucknow,Engineering,QA Engineer,Bachelor's,1717k,7.8,2026-05-14,EXCELLENT,2.0,Yes,13.0,On Leave,Remote,tara.qureshi@workmail.in
+EMP01255,Rahul Verma,41.0,Male,Hyderabad,Human Resources,Recruiter,Diploma,1044k,,,Poor,2.0,Yes,20.0,Active,Office,rahul.verma@example.org
+EMP01256,Tara Verma,19.0,Female,Jaipur,Engineering,Software Engineer,Bachelor's,1175607.0,4.0,2018-05-20,excellent,3.0,Yes,11.0,Active,Office,tara.verma@workmail.in
+EMP01257,Vikram Joshi,28.0,Male,Kolkata,Finance,Accountant,Bachelor's,788936.0,0.6,2025-02-01,Average,3.0,Yes,8.0,Resigned,Remote,vikram.joshi@workmail.in
+EMP01258,Arjun Chopra,32.0,Female,Pune,Sales,Business Development Rep,Diploma,816865.0,4.2,2024-04-14,Excellent,2.0,Yes,15.0,Active,Hybrid,arjun.chopra@example.org
+EMP01093,Aditya Verma,38.0,MALE,Pune,Engineering,Software Engineer,Diploma,1736k,1.9,2024-01-05,average,3.0,No,15.0,Active,Office,person@@company.com
+EMP01260,Neha Gupta,43.0,Female,Lucknow,Customer Support,Support Lead,PhD,716667.0,6.0,2024-06-13,Good,3.0,Yes,13.0,Active,Office,neha.gupta@company.com
+EMP01261,Farhan Chopra,38.0,Female,Ghaziabad,Human Resources,HR Business Partner,Master's,692511.0,3.5,2023-01-08,Average,5.0,No,11.0,Active,Hybrid,farhan.chopra@company.com
+EMP01262,Kabir Mehta,30.0,Prefer not to say,Chennai,Engineering,ML Engineer,Bachelor's,792787.0,3.0,2022-05-11,Poor,3.0,No,18.0,Active,Hybrid,kabir.mehta@example.org
+EMP01263,Rohan Nair,25.0,Prefer not to say,Lucknow,Finance,Accountant,Master's,1071087.0,7.7,2023-11-07,Good,3.0,Yes,13.0,On Leave,Office, 
+EMP01264,Vikram Saxena,35.0,Male,Lucknow,Sales,Business Development Rep,Master's,959095.0,1.3,2021-04-17,Excellent,,No,14.0,Active,Office,vikram.saxena@workmail.in
+EMP01265,Zoya Kapoor,53.0,Male,Bengaluru,Operations,Supply Chain Analyst,Master's,unknown,0.8,2020-10-23,Average,4.0,Yes,10.0,Active,Hybrid,zoya.kapoor@example.org
+EMP01266,Neha Patel,27.0,Female,Lucknow,Customer Support,Support Lead,Bachelor's,496318.0,0.5,2021-04-13,Poor,3.0,No,14.0,Active,Hybrid,neha.patel@workmail.in
+EMP01267,Rohan Malik,55.0,M,Mumbai,Sales,Business Development Rep,High School,1100072.0,5.5,2025-05-24,Excellent,2.0,No,12.0,Active,Office,rohan.malik@company.com
+EMP01268,Kabir Nair,24.0,Non-binary,Pune,Customer Support,Support Agent,Diploma,890428.0,3.4,2022-10-19,Poor,4.0,Yes,13.0,Active,Hybrid,kabir.nair@workmail.in
+EMP01269,Zoya Yadav,39.0,Male,Bengaluru,IT,Cloud Engineer,PhD,825078.0,10.5,2019-11-20,Excellent,3.0,No,5.0,Active,Remote,zoya.yadav@workmail.in
+EMP01270,Farhan Malik,30.0,Female,Delhi,Marketing,Marketing Executive,PhD,1117366.0,6.4,2023-12-22,Poor,4.0,Yes,15.0,Resigned,Hybrid,farhan.malik@workmail.in
+EMP01271,Kabir Yadav,30.0,FEMALE,Lucknow,Customer Support,Support Lead,Diploma,799408.0,6.9,2023-09-07,Poor,3.0,No,2.0,Active,Remote,kabir.yadav@workmail.in
+EMP01272,Zoya Khan,31.0,Female,Kolkata,Operations,Supply Chain Analyst,Bachelor's,1076001.0,0.3,2022-07-18,Average,2.0,No,7.0,On Leave,Office,zoya.khan@workmail.in
+EMP01273,Farhan Malik,33.0,Non-binary,Hyderabad,Engineering,Data Analyst,PhD,1262718.0,5.5,09/07/2019,Excellent,3.0,Yes,5.0,Active,Office,farhan.malik@example.org
+EMP01274,Farhan Das,25.0,Prefer not to say,,Engineering,Data Analyst,Diploma,unknown,1.6,2021-03-07,Average,3.0,Yes,22.0,Active,Office,farhan.das@workmail.in
+EMP01275,Zoya Gupta,32.0,Prefer not to say,Bengaluru,Human Resources,HR Business Partner,Master's,835644.0,6.1,2023-08-20,average,3.0,No,16.0,Active,Hybrid,zoya.gupta@company.com
+EMP01276,Meera Chopra,31.0,Male,Pune,Human Resources,HR Executive,Bachelor's,821246.0,3.6,2022-05-11,Excellent,3.0,Yes,12.0,Active,Remote,meera.chopra@company.com
+EMP01277,Ishaan Joshi,35.0,M,Mumbai,customer support,Customer Success Associate,Bachelor's,573417.0,3.1,2023-03-26,Excellent,2.0,Yes,18.0,Active,Hybrid,ishaan.joshi@example.org
+EMP01278,Rahul Singh,32.0,Prefer not to say,Chennai,Operations,Supply Chain Analyst,PhD,956366.0,0.9,2025-07-04,Excellent,2.0,Yes,13.0,Active,Office,rahul.singh@workmail.in
+EMP01279,Ishaan Singh,33.0,Non-binary,Ghaziabad,Marketing,Content Strategist,High School,,5.8,2020-03-23,Average,4.0,Yes,16.0,Active,Hybrid,ishaan.singh@example.org
+EMP01280,Zoya Gupta,41.0,Prefer not to say,Bengaluru,,Marketing Executive,PhD,621134.0,,2024-07-07,Good,1.0,No,9.0,Active,Office,zoya.gupta@workmail.in
+EMP01281,Neha Bose,41.0,Non-binary,Jaipur,Human Resources,HR Business Partner,Master's,1049557.0,3.7,2020-10-28,Good,1.0,Yes,5.0,Active,Office,neha.bose@example.org
+EMP01282,Rohan Sharma,27.0,Prefer not to say,Lucknow,Sales,Sales Executive,Bachelor's,1031536.0,2.8,2021-03-21,Excellent,4.0,Yes,21.0,Active,Remote,rohan.sharma@company.com
+EMP01283,Dev Das,37.0,Prefer not to say,Chennai,Customer Support,Customer Success Associate,Master's,831739.0,7.6,2021-11-18,Average,2.0,No,23.0,Active,Hybrid,dev.das@company.com
+EMP01284,Kabir Joshi,36.0,Male,Mumbai,Customer Support,Support Lead,High School,427696.0,3.3,2018-05-01,Average,3.0,No,12.0,Active,Office,kabir.joshi@example.org
+EMP01285,Rohan Khan,38.0,Male,Jaipur,Finance,Financial Analyst,Diploma,907086.0,5.8,2026-04-22,Excellent,3.0,Yes,21.0,Resigned,Office,rohan.khan@company.com
+EMP01286,Zoya Iyer,38.0,Male,Hyderabad,IT,IT Support Engineer,Diploma,821653.0,5.4,"Oct 15, 2018",Good,4.0,No,12.0,Active,Hybrid,zoya.iyer@workmail.in
+EMP01287,Aditya Malik,25.0,Male,Kolkata,Marketing,Marketing Executive,Bachelor's,647262.0,7.9,2023-12-13,Average,2.0,No,16.0,Active,Office,aditya.malik@workmail.in
+EMP01288,Kabir Joshi,26.0,Prefer not to say,Ghaziabad,Marketing,SEO Specialist,Master's,978491.0,3.2,2023-04-07,Poor,3.0,No,16.0,Active,Remote,kabir.joshi@workmail.in
+EMP01289,Dev Chopra,29.0,Male,Pune,Engineering,ML Engineer,Diploma,947104.0,7.7,2024-06-12,Average,,No,5.0,Active,Hybrid,dev.chopra@example.org
+EMP01290,Tara Iyer,35.0,Male,Ghaziabad,Operations,Operations Executive,PhD,1141604.0,3.1,2021-06-02,Average,,Yes,16.0,Active,Hybrid,tara.iyer@company.com
+EMP01291,Aditya Patel,31.0,Prefer not to say,Kolkata,Human Resources,HR Business Partner,Bachelor's,1270263.0,3.2,2019-10-11,Good,3.0,Yes,11.0,Active,Office,aditya.patel@company.com
+EMP01292,Meera Roy,48.0,Prefer not to say,Hyderabad,Human Resources,HR Executive,Diploma,1192351.0,3.7,2018-10-16,Poor,4.0,Yes,15.0,Active,Office,meera.roy@example.org
+EMP01293,Rohan Joshi,43.0,Male,Lucknow,Engineering,Data Analyst,Diploma,457856.0,1.5,2021-08-26,Average,4.0,No,4.0,Active,Hybrid,rohan.joshi@example.org
+EMP01294,Aarav Nair,34.0,Non-binary,Lucknow,Engineering,ML Engineer,Bachelor's,846956.0,3.9,2023-02-17,Excellent,2.0,No,11.0,Active,Hybrid,aarav.nair@company.com
+EMP01295,Tara Chopra,43.0,Female,Lucknow,Marketing,Content Strategist,Diploma,924836.0,7.5,"Jul 30, 2018",Excellent,4.0,No,9.0,Active,Hybrid,tara.chopra@company.com
+EMP01296,Ishaan Verma,33.0,Male,Chennai,Engineering,ML Engineer,Master's,948820.0,1.2,2020-01-19,Excellent,10.0,No,22.0,Active,Office,ishaan.verma@example.org
+EMP01297,Arjun Chopra,35.0,Female,Delhi,Sales,Sales Executive,Diploma,1435030.0,,2025-09-20,Excellent,3.0,Yes,11.0,Active,Remote,arjun.chopra@example.org
+EMP01298,Aarav Verma,35.0,Male,Pune,Finance,Accountant,High School,1154282.0,3.4,2025-01-10,Good,3.0,No,5.0,Resigned,Remote,aarav.verma@workmail.in
+EMP01299,Aisha Roy,41.0,Male,Bengaluru,Human Resources,Recruiter,PhD,730407.0,11.2,2024-01-10,Good,4.0,No,8.0,Active,Office,aisha.roy@example.org
+EMP01300,Aisha Das,29.0,Female,Ghaziabad,IT,System Administrator,Bachelor's,1508935.0,4.9,2025-04-17,Poor,4.0,Yes,14.0,On Leave,Hybrid,aisha.das@example.org
+EMP01301,Ananya Gupta,34.0,Male,Mumbai,Customer Support,Support Lead,PhD,1266477.0,3.3,2020-10-05,Poor,4.0,Yes,20.0,Resigned,Remote,ananya.gupta@workmail.in
+EMP01302,Kavya Qureshi,37.0,Non-binary,Chennai,Marketing,SEO Specialist,High School,954039.0,1.4,2018-12-07,Good,2.0,No,9.0,Active,Office,kavya.qureshi@example.org
+EMP01303,Rohan Iyer,35.0,Male,Chennai,Operations,Operations Manager,Diploma,unknown,3.4,2024-12-22,Average,5.0,Yes,17.0,Resigned,Remote,rohan.iyer@example.org
+EMP01304,Dev Qureshi,21.0,Prefer not to say,Ghaziabad,Customer Support,Customer Success Associate,Master's,897582.0,1.8,2021-08-20,Good,4.0,No,6.0,On Leave,Hybrid,dev.qureshi@workmail.in
+EMP01305,Dev Kapoor,48.0,Prefer not to say,Lucknow,Human Resources,HR Executive,Master's,626293.0,4.9,12-14-21,Good,2.0,Yes,15.0,Active,Hybrid,dev.kapoor@company.com
+EMP01306,Dev Roy,46.0,Male,Hyderabad,Support,Support Agent,PhD,667217.0,3.8,2019-04-12,Average,4.0,No,,Active,Office,dev.roy@company.com
+EMP01307,Tara Mehta,36.0,Female,Hyderabad,Sales,Business Development Rep,Diploma,665588.0,5.1,2024-08-25,Average,2.0,Yes,12.0,Active,Office,tara.mehta@company.com
+EMP01089,Ishaan Bose,34.0,Female,Lucknow,Finance,Accountant,Bachelor's,,7.6,2023-11-22,Excellent,3.0,Yes,15.0,Resigned,Remote,ishaan.bose@example.org
+EMP01309,Zoya Bose,37.0,Prefer not to say,Bengaluru,Human Resources,HR Executive,Bachelor's,1096978.0,4.6,2024-06-20,Good,2.0,Yes,10.0,Resigned,Hybrid,zoya.bose@example.org
+EMP01310,Rahul Bose,23.0,Non-binary,Jaipur,Customer Support,Support Agent,High School,1414317.0,4.6,2022-11-17,Poor,1.0,Yes,3.0,Active,Remote,rahul.bose@company.com
+EMP01311,Rohan Bose,33.0,Non-binary,Lucknow,IT,System Administrator,High School,930213.0,6.1,2023-04-02,Average,1.0,No,365.0,Active,Hybrid,rohan.bose@example.org
+EMP01312,Arjun Singh,37.0,Female,Ghaziabad,Marketing,Content Strategist,Bachelor's,1031779.0,12.0,2025-02-22,Poor,3.0,Yes,14.0,Active,Remote,arjun.singh@workmail.in
+EMP01313,Kavya Qureshi,21.0,Female,Jaipur,Customer Support,Customer Success Associate,PhD,879520.0,3.2,2023-08-11,Average,3.0,No,9.0,Active,Remote,kavya.qureshi@workmail.in
+EMP01314,Sana Khan,54.0,M,Lucknow,Finance,Financial Analyst,PhD,933627.0,0.7,,Average,4.0,No,2.0,Active,Office,sana.khan@workmail.in
+EMP01315,Meera Kapoor,35.0,Non-binary,Kolkata,Engineering,Software Engineer,Bachelor's,518836.0,1.1,2024-06-06,Good,2.0,Yes,10.0,Active,Hybrid,meera.kapoor@example.org
+EMP01316,Priya Reddy,39.0,Male,Jaipur,Human Resources,HR Business Partner,Diploma,466679.0,1.6,2020-07-12,Good,2.0,Yes,16.0,Active,Remote,
+EMP01317,Aisha Roy,36.0,Prefer not to say,Bengaluru,Finance,Accountant,Master's,984962.0,2.6,2019-11-02,Good,3.0,No,15.0,Terminated,Hybrid,aisha.roy@company.com
+EMP01318,Farhan Singh,34.0,Prefer not to say,Chennai,Human Resources,HR Executive,Bachelor's,812894.0,1.0,2018-05-16,Poor,3.0,Yes,6.0,Active,Remote,farhan.singh@workmail.in
+EMP01319,Ishaan Qureshi,42.0,Female,Mumbai,Sales,Sales Executive,Bachelor's,1114140.0,,2025-03-04,Good,1.0,No,12.0,Active,Hybrid,ishaan.qureshi@example.org
+EMP01320,Rohan Bose,36.0,Non-binary,DELHI,human resources,Recruiter,Master's,434760.0,5.5,2022-05-06,Average,4.0,Yes,11.0,Active,Hybrid,rohan.bose@workmail.in
+EMP01321,Priya Iyer,32.0,F,Ghaziabad,Operations,Supply Chain Analyst,Bachelor's,1106970.0,10.4,2020-04-30,Poor,2.0,No,14.0,Active,Office,priya.iyer@company.com
+EMP01322,Rohan Reddy,31.0,Prefer not to say,DELHI,Operations,Operations Executive,Master's,954970.0,3.9,2023-07-04,Average,4.0,No,11.0,Active,Hybrid,rohan.reddy@workmail.in
+EMP01323,Meera Joshi,45.0,Non-binary,Chennai,IT,Cloud Engineer,Diploma,889132.0,2.9,2024-06-06,Poor,1.0,Yes,14.0,Terminated,Hybrid,meera.joshi@example.org
+EMP01324,Vikram Kapoor,,Female,Mumbai,IT,IT Support Engineer,Bachelor's,1040865.0,0.7,2024-04-25,,4.0,Yes,27.0,Active,Office,vikram.kapoor@workmail.in
+EMP01325,Arjun Mehta,27.0,Non-binary,Kolkata,Operations,Operations Executive,Diploma,622077.0,2.2,2021-01-21,Average,3.0,No,16.0,Resigned,Office,arjun.mehta@company.com
+EMP01326,Aisha Iyer,27.0,Female,Chennai,Finance,Financial Analyst,Bachelor's,881157.0,0.7,2019-09-08,Poor,4.0,No,10.0,Active,Remote,missing-at-sign.com
+EMP01327,Aisha Yadav,40.0,Prefer not to say,Kolkata,Human Resources,Recruiter,PhD,1349391.0,3.4,2020-01-19,Excellent,4.0,Yes,9.0,Active,Hybrid,aisha.yadav@example.org
+EMP01328,Kavya Singh,32.0,Female,Hyderabad,IT,System Administrator,PhD,290136.0,1.9,2022-08-04,Poor,2.0,Yes,15.0,Active,Hybrid,kavya.singh@company.com
+EMP01329,Ishaan Singh,21.0,Non-binary,Chennai,Sales,Account Manager,High School,1200718.0,6.1,2024-04-22,Good,1.0,No,20.0,Active,Remote,ishaan.singh@example.org
+EMP01330,Aarav Singh,36.0,Female,Delhi,Sales,Sales Executive,PhD,488169.0,1.9,2020-05-03,Good,4.0,No,,Resigned,Remote,aarav.singh@example.org
+EMP01331,Rahul Nair,26.0,Male,Lucknow,Finance,Accountant,Diploma,578129.0,1.5,2020-03-01,Average,3.0,Yes,15.0,Active,Office,rahul.nair@example.org
+EMP01332,Rohan Verma,35.0,female,Pune,,Data Analyst,High School,1152917.0,6.6,2020-06-04,Excellent,1.0,No,12.0,Active,Hybrid,
+EMP01333,Dev Malik,38.0,Female,Jaipur,Operations,Supply Chain Analyst,High School,1042547.0,3.5,2018-12-24,Excellent,2.0,No,23.0,Active,Hybrid,dev.malik@company.com
+EMP01334,Kabir Roy,37.0,Prefer not to say,Jaipur,Customer Support,Support Lead,Bachelor's,1087436.0,2.9,2025-08-27,Good,2.0,No,13.0,Active,Hybrid,kabir.roy@workmail.in
+EMP01335,Neha Das,34.0,MALE,Jaipur,IT,System Administrator,Diploma,838581.0,3.5,2024-06-13,EXCELLENT,2.0,Yes,1.0,Active,Hybrid,neha.das@workmail.in
+EMP01336,Zoya Reddy,26.0,Non-binary,Hyderabad,Customer Support,Support Agent,Master's,1164867.0,6.3,2025-07-22,Excellent,2.0,Yes,18.0,Active,Remote,zoya.reddy@company.com
+EMP01337,Farhan Malik,34.0,Female,Kolkata,Human resources,HR Executive,Bachelor's,1015417.0,1.5,2021-04-05,Good,4.0,Yes,1.0,Active,Hybrid,farhan.malik@company.com
+EMP01338,Rahul Reddy,42.0,Male,Mumbai,Engineering,QA Engineer,Bachelor's,929023.0,5.4,2018-06-30,Excellent,2.0,Yes,10.0,Active,Remote,rahul.reddy@example.org
+EMP01339,Farhan Gupta,40.0,Female,Chennai,,Support Lead,Master's,455634.0,1.5,2019-04-18,Excellent,3.0,No,23.0,Active,Office,farhan.gupta@example.org
+EMP01340,Rohan Gupta,35.0,Non-binary,Kolkata,Finance,Accountant,PhD,748486.0,3.3,2026-06-15,Poor,4.0,No,11.0,Active,Office,rohan.gupta@example.org
+EMP01341,Kavya Singh,19.0,male,Delhi,Human Resources,HR Executive,Diploma,386530.0,6.2,2020-07-24,Poor,3.0,Yes,12.0,Active,Hybrid,kavya.singh@example.org
+EMP01342,Meera Sharma,40.0,Female,Delhi,Operations,Supply Chain Analyst,Master's,980935.0,5.2,2023-09-18,average,4.0,No,13.0,Active,Office,meera.sharma@company.com
+EMP01343,Rahul Khan,40.0,Non-binary,Kolkata,Finance,Financial Analyst,Master's,777273.0,2.9,2023-08-02,Poor,4.0,Yes,7.0,Active,Office,rahul.khan@example.org
+EMP01344,Tara Sharma,26.0,male,Ghaziabad,Marketing,Content Strategist,Master's,998106.0,8.4,2023-07-08,Good,2.0,No,4.0,Active,Remote,tara.sharma@workmail.in
+EMP01345,Zoya Nair,30.0,Prefer not to say,Bengaluru,Sales,Business Development Rep,Master's,918229.0,10.5,07-09-25,,2.0,Yes,16.0,Active,Remote,zoya.nair@workmail.in
+EMP01346,Ira Roy,23.0,Prefer not to say,Chennai,Engineering,Software Engineer,Master's,793706.0,2.8,2025-04-27,Poor,3.0,Yes,10.0,Active,Office,ira.roy@company.com
+EMP01347,Ishaan Joshi,35.0,Female,Ghaziabad,Engineering,QA Engineer,Bachelor's,713568.0,3.2,2018-08-09,Excellent,3.0,Yes,11.0,Resigned,Office,ishaan.joshi@workmail.in
+EMP01348,Aditya Singh,27.0,Non-binary,Delhi,Marketing,Marketing Executive,Bachelor's,831150.0,7.7,2025-03-10,Good,3.0,Yes,6.0,Active,Office,aditya.singh@example.org
+EMP01349,Aditya Singh,36.0,Non-binary,Ghaziabad,Operations,Operations Manager,High School,746339.0,,2018-03-05,Excellent,4.0,Yes,16.0,Active,Office,aditya.singh@example.org
+EMP01350,Kavya Verma,41.0,Prefer not to say,Bengaluru,Human Resources,Recruiter,Master's,1004807.0,8.9,2020-08-19,Average,2.0,Yes,17.0,On Leave,Remote,kavya.verma@company.com
+EMP01351,Ishaan Sharma,44.0,Prefer not to say,Kolkata,Engineering,Software Engineer,Bachelor's,726016.0,10.6,2025-06-10,Excellent,5.0,No,16.0,Active,Remote,ishaan.sharma@example.org
+EMP01352,Farhan Iyer,55.0,Prefer not to say,Kolkata,Marketing,Content Strategist,Master's,963641.0,2.8,2024-10-03,Poor,2.0,Yes,5.0,Active,Remote,farhan.iyer@example.org
+EMP01353,Vikram Saxena,31.0,Non-binary,Bengaluru,Marketing,Content Strategist,High School,642688.0,5.6,2018-01-09,Average,4.0,No,16.0,Active,Remote,vikram.saxena@example.org
+EMP01354,Vikram Joshi,32.0,Male,Hyderabad,Customer Support,Support Lead,Master's,1029941.0,6.5,2018-07-25,Good,5.0,Yes,15.0,Active,Hybrid,vikram.joshi@company.com
+EMP01355,Kavya Gupta,50.0,Female,,IT,Cloud Engineer,Bachelor's,582043.0,0.9,2024-03-09,Average,1.0,Yes,7.0,Active,Office,kavya.gupta@company.com
+EMP01356,Aisha Roy,27.0,Prefer not to say,Chennai,Human Resources,Recruiter,Bachelor's,"₹540,853",5.9,2019-03-10,Excellent,2.0,Yes,12.0,Resigned,Office,aisha.roy@workmail.in
+EMP01357,Aisha Das,41.0,Non-binary,Ghaziabad,Engineering,Data Analyst,Master's,409334.0,6.9,2025-04-18,Excellent,2.0,No,11.0,Active,Office,aisha.das@workmail.in
+EMP01358,Zoya Gupta,32.0,Prefer not to say,Chennai,human resources,HR Executive,Diploma,748619.0,2.6,2020-02-27,Poor,3.0,No,11.0,Active,Hybrid,zoya.gupta@example.org
+EMP01359,Dev Gupta,36.0,Prefer not to say,Bengaluru,Sales,Account Manager,High School,466252.0,1.7,2019-04-15,Excellent,1.0,No,6.0,Active,Hybrid,dev.gupta@example.org
+EMP01360,Aarav Das,41.0,FEMALE,Chennai,Sales,Account Manager,Bachelor's,672551.0,5.0,2023-04-22,Good,3.0,No,15.0,Active,Hybrid,aarav.das@example.org
+EMP01361,Aisha Yadav,40.0,Prefer not to say,Chennai,Engineering,Software Engineer,Master's,448474.0,5.8,2020-07-01,Average,4.0,No,12.0,Active,Hybrid,aisha.yadav@example.org
+EMP01362,Meera Patel,51.0,female,Mumbai,Sales,Account Manager,Master's,972672.0,0.3,2022-03-15,Good,4.0,Yes,14.0,Active,Hybrid,meera.patel@example.org
+EMP01363,Ira Qureshi,38.0,Female,Lucknow,Engineering,Data Analyst,High School,"₹1,604,912",3.5,2025-03-19,Poor,3.0,No,16.0,Active,Office,ira.qureshi@company.com
+EMP01364,Dev Nair,31.0,Non-binary,Jaipur,Human Resources,Recruiter,Diploma,918539.0,1.8,2019-01-04,Poor,5.0,No,9.0,Active,Hybrid,dev.nair@workmail.in
+EMP01365,Aisha Mehta,34.0,Prefer not to say,Ghaziabad,Finance,Payroll Specialist,Bachelor's,645212.0,2.1,2022-04-17,Poor,2.0,Yes,17.0,Resigned,Office,aisha.mehta@example.org
+EMP01366,Rohan Malik,46.0,Prefer not to say,Hyderabad,Finance,Accountant,Diploma,562317.0,5.6,2024-02-16,Poor,4.0,No,10.0,Active,Office,rohan.malik@example.org
+EMP01367,Rahul Verma,39.0,Non-binary,Chennai,Finance,Financial Analyst,Master's,525918.0,4.2,2018-04-29,Poor,3.0,Yes,20.0,Active,Hybrid,rahul.verma@company.com
+EMP01368,Rohan Qureshi,22.0,Prefer not to say,Hyderabad,Engineering,Data Analyst,Bachelor's,930723.0,1.6,2026-04-24,Poor,2.0,No,22.0,Active,Hybrid,rohan.qureshi@example.org
+EMP01369,Ananya Gupta,34.0,Female,Hyderabad,Marketing,SEO Specialist,Bachelor's,1396327.0,1.9,2024-06-03,Average,3.0,Yes,6.0,Active,Remote,ananya.gupta@company.com
+EMP01370,Ira Singh,37.0,Prefer not to say,Kolkata,Customer Support,Support Agent,PhD,649281.0,5.9,2025-05-31,Poor,3.0,Yes,11.0,Active,Office,ira.singh@workmail.in
+EMP01371,Ananya Chopra,41.0,Non-binary,Mumbai,IT,IT Support Engineer,High School,558653.0,4.7,2019-05-03,Average,1.0,Yes,0.0,Active,Remote,ananya.chopra@example.org
+EMP01372,Arjun Joshi,41.0,Male,Delhi,Operations,Operations Executive,Master's,500390.0,2.3,2024-08-03,Excellent,3.0,No,10.0,Active,Hybrid,arjun.joshi@company.com
+EMP01373,Aarav Mehta,38.0,Male,Lucknow,Customer Support,Customer Success Associate,Bachelor's,757972.0,0.5,2025-04-04,Excellent,3.0,No,16.0,Active,Office,aarav.mehta@workmail.in
+EMP01374,Vikram Patel,27.0,Female,Mumbai,Customer Support,Support Lead,Diploma,1176513.0,3.0,2025-09-27,Excellent,4.0,Yes,4.0,Terminated,Office,vikram.patel@company.com
+EMP01375,Ishaan Mehta,28.0,Prefer not to say,Bengaluru,Human Resources,HR Business Partner,Diploma,1002472.0,0.7,2022-03-15,Poor,2.0,No,9.0,Active,Office,ishaan.mehta@example.org
+EMP01376,Priya Joshi,44.0,Prefer not to say,Hyderabad,IT,Cloud Engineer,Diploma,860253.0,7.2,23/09/2022,Good,3.0,No,17.0,Active,Office,priya.joshi@company.com
+EMP01377,Ananya Verma,26.0,Female,Mumbai,Finance,Accountant,High School,860108.0,1.8,2021-04-10,Excellent,4.0,Yes,23.0,Active,Office,ananya.verma@workmail.in
+EMP01378,Aditya Verma,24.0,Prefer not to say,Hyderabad,Operations,Operations Manager,PhD,1436k,6.6,2025-01-10,Average,3.0,No,17.0,Resigned,Office,aditya.verma@company.com
+EMP01379,Neha Saxena,29.0,Non-binary,Hyderabad,Engineering,Software Engineer,PhD,1293548.0,11.0,2022-02-21,Good,4.0,Yes,7.0,On Leave,Hybrid,neha.saxena@company.com
+EMP01380,Rohan Saxena,41.0,Female,Hyderabad,Operations,Operations Manager,Diploma,656140.0,1.7,2019-02-02,Poor,3.0,No,10.0,Active,Office,rohan.saxena@example.org
+EMP01381,Ananya Khan,36.0,Non-binary,Hyderabad,,System Administrator,PhD,566111.0,6.2,2024-06-20,,3.0,No,8.0,Active,Office,ananya.khan@example.org
+EMP01382,Ananya Bose,33.0,Prefer not to say,Chennai,Customer Support,Support Agent,Diploma,1420676.0,11.9,2019-11-23,Poor,3.0,No,18.0,Active,Remote,ananya.bose@workmail.in
+EMP01383,Tara Iyer,29.0,Non-binary,Lucknow,IT,Cloud Engineer,Diploma,991940.0,0.7,08/03/2019,Poor,3.0,Yes,8.0,Active,Office,tara.iyer@workmail.in
+EMP01384,Aarav Qureshi,32.0,Prefer not to say,Jaipur,Human resources,HR Business Partner,Bachelor's,846634.0,6.9,2018-11-21,Poor,3.0,No,10.0,On Leave,Hybrid,aarav.qureshi@example.org
+EMP01385,Farhan Chopra,31.0,Female,Pune,Operations,Operations Executive,High School,-50000.0,1.1,2019-03-18,Poor,5.0,Yes,5.0,Active,Remote,farhan.chopra@example.org
+EMP01386,Rohan Iyer,38.0,Male,,Engineering,QA Engineer,High School,659145.0,1.0,2023-02-28,Average,7.0,Yes,5.0,Active,Hybrid,rohan.iyer@company.com
+EMP01387,Ishaan Malik,30.0,Male,DELHI,Operations,Supply Chain Analyst,PhD,615805.0,6.8,2023-03-04,Average,2.0,Yes,7.0,Active,Hybrid,ishaan.malik@workmail.in
+EMP01388,Kavya Kapoor,22.0,Prefer not to say,Delhi,Marketing,Content Strategist,Master's,581835.0,8.1,2020-12-20,Poor,2.0,Yes,5.0,Active,Remote,kavya.kapoor@company.com
+EMP01389,Farhan Saxena,44.0,Prefer not to say,Jaipur,,Financial Analyst,Diploma,1147313.0,4.0,2018-11-16,Good,5.0,Yes,19.0,Active,Office,farhan.saxena@company.com
+EMP01390,Arjun Qureshi,43.0,Female,Hyderabad,IT,System Administrator,Bachelor's,99999999.0,1.4,2018-05-22,Excellent,4.0,No,10.0,Active,Remote,arjun.qureshi@company.com
+EMP01391,Aarav Iyer,51.0,Prefer not to say,Jaipur,IT,Cloud Engineer,High School,716094.0,2.3,2018-03-03,Poor,3.0,No,5.0,Active,Hybrid,aarav.iyer@workmail.in
+EMP01392,Ishaan Patel,41.0,M,Pune,Customer Support,Support Agent,PhD,804659.0,4.5,2024-03-06,Good,4.0,Yes,9.0,Active,Remote,ishaan.patel@company.com
+EMP01393,Dev Patel,23.0,Male,Delhi,Marketing,SEO Specialist,Diploma,784297.0,2.6,2023-12-09,Excellent,2.0,Yes,20.0,Active,Office,dev.patel@workmail.in
+EMP01394,Aarav Bose,23.0,Non-binary,Hyderabad,IT,IT Support Engineer,PhD,1114951.0,0.8,2019-09-11,Good,3.0,No,9.0,Active,Office,aarav.bose@company.com
+EMP01395,Vikram Singh,28.0,Male,Ghaziabad,Finance,Accountant,Diploma,859582.0,1.5,2020-10-17,Average,2.0,No,23.0,Active,Remote,vikram.singh@workmail.in
+EMP01396,Kavya Chopra,,Male,bengaluru,customer support,Support Agent,Master's,739120.0,3.0,2022-04-13,Poor,3.0,Yes,0.0,On Leave,Hybrid,kavya.chopra@company.com
+EMP01397,Kavya Mehta,49.0,Non-binary,Lucknow,Customer Support,Support Agent,Bachelor's,919965.0,3.3,2022-05-05,Good,4.0,Yes,0.0,Resigned,Hybrid,kavya.mehta@company.com
+EMP01398,Rohan Das,35.0,Female,Ghaziabad,IT,Cloud Engineer,Diploma,499060.0,1.8,2019-06-29,Good,4.0,No,10.0,On Leave,Remote,rohan.das@company.com
+EMP01399,Arjun Saxena,32.0,,Bengaluru,Marketing,Content Strategist,Master's,931320.0,2.2,2026-01-26,Poor,3.0,Yes,2.0,Active,Remote,arjun.saxena@workmail.in
+EMP01400,Zoya Saxena,41.0,Female,Kolkata,IT,Cloud Engineer,Bachelor's,876285.0,11.6,2023-09-29,Poor,3.0,No,9.0,Active,Office,zoya.saxena@example.org
+EMP01401,Farhan Patel,34.0,Male,Hyderabad,Operations,Operations Executive,Diploma,590803.0,1.8,2022-07-12,Average,3.0,Yes,5.0,Active,Office,farhan.patel@example.org
+EMP01402,Ishaan Joshi,23.0,Prefer not to say,Hyderabad,Engineering,Software Engineer,Bachelor's,740875.0,9.1,2022-06-09,Good,3.0,Yes,15.0,Active,Remote,ishaan.joshi@workmail.in
+EMP01403,Zoya Gupta,30.0,Non-binary,Delhi,IT,IT Support Engineer,Master's,556692.0,2.0,2019-03-31,Excellent,3.0,Yes,10.0,Resigned,Remote,zoya.gupta@example.org
+EMP01404,Ira Verma,27.0,Female,Chennai,Engineering,Software Engineer,PhD,1282088.0,1.9,2025-12-23,Average,3.0,Yes,7.0,Active,Hybrid, 
+EMP01405,Dev Iyer,24.0,Prefer not to say,Pune,Operations,Supply Chain Analyst,Bachelor's,1323223.0,9.5,2021-01-18,Poor,3.0,No,12.0,Active,Hybrid,dev.iyer@example.org
+EMP01406,Kavya Khan,45.0,FEMALE,Lucknow,Operations,Operations Executive,Master's,559202.0,2.3,2026-02-04,Poor,3.0,Yes,7.0,Resigned,Remote,kavya.khan@example.org
+EMP01407,Ira Nair,28.0,Female,Lucknow,Operations,Operations Manager,High School,801480.0,9.2,2021-02-07,Average,4.0,Yes,22.0,Active,Remote,ira.nair@company.com
+EMP01408,Ananya Nair,40.0,Prefer not to say,Ghaziabad,Marketing,Marketing Executive,High School,248138.0,4.9,2026-01-04,Poor,2.0,No,2.0,Resigned,Remote,ananya.nair@company.com
+EMP01409,Meera Qureshi,38.0,Female,Lucknow,Human Resources,HR Executive,Diploma,909560.0,5.8,2019-01-13,Excellent,3.0,No,12.0,Active,Hybrid,meera.qureshi@company.com
+EMP01410,Aditya Reddy,39.0,Prefer not to say,Chennai,Engineering,Software Engineer,High School,757820.0,1.3,2026-02-05,Excellent,2.0,Yes,8.0,Active,Hybrid,aditya.reddy@workmail.in
+EMP01411,Aarav Roy,38.0,Prefer not to say,Pune,Engineering,Software Engineer,Bachelor's,1301638.0,4.9,2020-07-02,Average,3.0,No,24.0,Active,Remote,
+EMP01412,Ira Malik,34.0,Male,Delhi,Operations,Operations Manager,Diploma,878834.0,3.5,2021-05-06,Good,3.0,No,13.0,Active,Remote,ira.malik@workmail.in
+EMP01413,Aisha Malik,28.0,Male,Lucknow,IT,Cloud Engineer,Bachelor's,1419254.0,11.1,13/01/2023,Poor,3.0,Yes,14.0,Active,Hybrid,aisha.malik@company.com
+EMP01414,Dev Malik,,Female,Jaipur,Finance,Accountant,PhD,613734.0,0.6,2020-03-13,Good,3.0,No,14.0,Active,Office,person@@company.com
+EMP01415,Ananya Mehta,35.0,Prefer not to say,Mumbai,HR,HR Executive,Master's,474214.0,4.8,2023-10-14,Good,4.0,Yes,14.0,Active,Office,ananya.mehta@workmail.in
+EMP01416,Ira Chopra,34.0,Prefer not to say,Lucknow,Finance,Accountant,Bachelor's,1358137.0,3.3,2022-06-15,Excellent,4.0,Yes,0.0,Active,Remote,ira.chopra@example.org
+EMP01417,Zoya Kapoor,39.0,Male,Hyderabad,Operations,Operations Executive,Diploma,658755.0,2.0,2021-10-04,Poor,2.0,Yes,17.0,Active,Remote,zoya.kapoor@workmail.in
+EMP01418,Vikram Sharma,25.0,Non-binary,Jaipur,Sales,Sales Executive,High School,908120.0,1.8,2023-03-27,Average,4.0,No,18.0,Active,Office,vikram.sharma@workmail.in
+EMP01419,Farhan Joshi,26.0,Female,Ghaziabad,Engineering,QA Engineer,PhD,,10.8,2022-10-30,Poor,2.0,Yes,19.0,Active,Remote,missing-at-sign.com
+EMP01420,Kavya Chopra,32.0,Non-binary,Mumbai,Operations,Operations Manager,Diploma,971562.0,,2023-03-13,Good,2.0,Yes,0.0,Active,Office,kavya.chopra@workmail.in
+EMP01421,Priya Kapoor,42.0,Non-binary,Kolkata,Finance,Accountant,Bachelor's,624131.0,4.3,2022-06-12,Average,4.0,Yes,16.0,Resigned,Hybrid,priya.kapoor@example.org
+EMP01422,Neha Joshi,34.0,Female,Jaipur,Sales,Business Development Rep,Master's,1064299.0,10.1,2020-08-06,Excellent,3.0,No,10.0,Active,Remote,neha.joshi@company.com
+EMP01423,Sana Reddy,38.0,Female,Pune,Human Resources,HR Business Partner,Master's,748447.0,4.7,2021-06-11,Poor,2.0,Yes,14.0,Resigned,Remote,sana.reddy@workmail.in
+EMP01424,Ananya Das,37.0,Non-binary,Kolkata,Marketing,Marketing Executive,High School,370975.0,4.0,07-01-25,Good,5.0,No,18.0,Active,Office,ananya.das@company.com
+EMP01425,Priya Khan,27.0,Prefer not to say,Delhi,Finance,Payroll Specialist,PhD,713830.0,8.9,2023-03-24,Average,3.0,No,17.0,On Leave,Office,priya.khan@example.org
+EMP01426,Aarav Sharma,38.0,Non-binary,Bengaluru,IT,Cloud Engineer,Diploma,554954.0,0.9,2019-05-21,Poor,4.0,Yes,3.0,Active,Hybrid,aarav.sharma@company.com
+EMP01427,Aarav Nair,25.0,Male,,Sales,Account Manager,Bachelor's,865003.0,3.9,2021-06-01,Average,2.0,Yes,6.0,On Leave,Office,aarav.nair@workmail.in
+EMP01428,Ishaan Singh,32.0,Prefer not to say,Lucknow,IT,System Administrator,Diploma,992166.0,2.5,2019-10-23,EXCELLENT,4.0,No,11.0,Active,Remote,ishaan.singh@workmail.in
+EMP01429,Tara Patel,32.0,Non-binary,Jaipur,Finance,Accountant,Master's,887052.0,4.2,2025-04-02,Poor,5.0,No,10.0,Active,Office,tara.patel@example.org
+EMP01430,Ishaan Singh,37.0,Female,Pune,customer support,Support Lead,Bachelor's,917395.0,6.1,2023-10-24,Good,2.0,Yes,4.0,Active,Office,ishaan.singh@workmail.in
+EMP01431,Aarav Qureshi,30.0,Prefer not to say,Ghaziabad,Human Resources,HR Executive,Diploma,764940.0,1.2,2023-10-02,Excellent,3.0,No,18.0,Active,Hybrid,aarav.qureshi@company.com
+EMP01432,Aisha Patel,34.0,Prefer not to say,Pune,Finance,Financial Analyst,PhD,444975.0,7.7,2021-08-22,Excellent,4.0,Yes,14.0,Active,Remote,aisha.patel@company.com
+EMP01433,Kabir Singh,30.0,Prefer not to say,Delhi,Finance,Financial Analyst,High School,631453.0,7.0,2023-10-09,Excellent,1.0,No,25.0,Terminated,Office,kabir.singh@workmail.in
+EMP01434,Dev Nair,36.0,Female,Delhi,Sales,Business Development Rep,Bachelor's,1001061.0,11.8,2025-12-06,Good,3.0,No,17.0,Active,Remote,dev.nair@workmail.in
+EMP01435,Aditya Patel,46.0,Prefer not to say,Delhi,Sales,Account Manager,Master's,915370.0,2.2,2020-05-19,Excellent,3.0,Yes,10.0,Active,Hybrid,aditya.patel@company.com
+EMP01436,Rahul Reddy,19.0,Male,Lucknow,Engineering,QA Engineer,High School,861009.0,1.5,2021-06-03,Good,2.0,Yes,10.0,Active,Hybrid,rahul.reddy@example.org
+EMP01437,Zoya Iyer,49.0,Male,Lucknow,Operations,Supply Chain Analyst,Bachelor's,679380.0,,2023-02-20,Good,1.0,No,8.0,Active,Remote,zoya.iyer@example.org
+EMP01438,Farhan Singh,24.0,,Bengaluru,Customer Support,Customer Success Associate,Master's,632523.0,5.1,2018-04-22,Good,4.0,Yes,8.0,Active,Remote,farhan.singh@company.com
+EMP01439,Aarav Malik,35.0,Female,Lucknow,Operations,Operations Manager,Diploma,734957.0,6.8,2022-05-01,Average,3.0,No,12.0,Resigned,Remote,aarav.malik@company.com
+EMP01440,Priya Saxena,40.0,F,Chennai,Finance,Payroll Specialist,Master's,180000.0,2.7,2022-03-05,Poor,2.0,No,12.0,Active,Office,priya.saxena@workmail.in
+EMP01441,Farhan Joshi,44.0,Male,Jaipur,Finance,Financial Analyst,High School,461329.0,3.0,2018-03-01,Excellent,2.0,No,14.0,Resigned,Office,farhan.joshi@example.org
+EMP01442,Tara Nair,35.0,Female,Mumbai,Human Resources,Recruiter,Diploma,1179912.0,6.6,2020-08-13,Good,2.0,No,3.0,Active,Office,tara.nair@workmail.in
+EMP01443,Priya Bose,44.0,Female,Kolkata,Human Resources,HR Business Partner,Diploma,0.0,0.2,2020-07-02,Average,3.0,No,15.0,Active,Hybrid,priya.bose@example.org
+EMP01444,Rahul Nair,24.0,Female,Delhi,Operations,Operations Manager,PhD,474315.0,7.6,2018-01-30,Poor,2.0,Yes,18.0,Active,Remote,rahul.nair@workmail.in
+EMP01445,Ira Malik,46.0,Male,Pune,Marketing,Marketing Executive,Diploma,1208115.0,7.4,2019-05-20,Good,4.0,No,16.0,Active,Remote,ira.malik@workmail.in
+EMP01446,Dev Saxena,36.0,Female,Chennai,Marketing,Marketing Executive,PhD,549434.0,4.1,2021-12-02,Good,3.0,No,5.0,On Leave,Office,dev.saxena@example.org
+EMP01447,Aditya Das,45.0,Female,Mumbai,Marketing,SEO Specialist,High School,812306.0,2.8,2023-10-11,Poor,3.0,Yes,21.0,Active,Hybrid,aditya.das@example.org
+EMP01448,Kavya Roy,39.0,Prefer not to say,Hyderabad,IT,Cloud Engineer,Bachelor's,906185.0,,2024-11-07,Average,3.0,Yes,15.0,On Leave,Hybrid,kavya.roy@workmail.in
+EMP01449,Aisha Nair,41.0,Prefer not to say,Jaipur,Customer Support,Support Lead,High School,932429.0,0.1,2022-01-28,EXCELLENT,1.0,No,13.0,Active,Remote,aisha.nair@company.com
+EMP01450,Neha Yadav,27.0,Prefer not to say,Kolkata,Engineering,Data Analyst,Bachelor's,677251.0,0.8,2020-02-09,Average,3.0,Yes,5.0,Active,Remote,neha.yadav@workmail.in
+EMP01451,Tara Verma,38.0,Non-binary,bengaluru,Sales,Account Manager,Diploma,735207.0,1.4,2024-01-23,Average,4.0,Yes,18.0,Active,Hybrid,tara.verma@company.com
+EMP01452,Kabir Gupta,38.0,MALE,Ghaziabad,Operations,Operations Manager,PhD,845649.0,6.6,2024-07-22,Average,3.0,Yes,11.0,Active,Office,kabir.gupta@workmail.in
+EMP01453,Ishaan Yadav,41.0,Prefer not to say,Ghaziabad,Sales,Sales Executive,Master's,982443.0,3.0,2025-12-28,Good,2.0,No,4.0,Active,Hybrid,ishaan.yadav@workmail.in
+EMP01454,Arjun Das,38.0,Prefer not to say,Chennai,Marketing,SEO Specialist,Master's,957762.0,7.3,2025-01-10,Poor,2.0,No,18.0,Active,Hybrid,arjun.das@example.org
+EMP01455,Arjun Nair,,male,Lucknow,Engineering,ML Engineer,High School,525217.0,1.3,2019-01-26,Good,,Yes,7.0,Active,Office,arjun.nair@workmail.in
+EMP01044,Tara Joshi,23.0,Male,Kolkata,Marketing,Marketing Executive,Bachelor's,235168.0,3.7,2023-08-29,Average,3.0,Yes,14.0,Active,Hybrid,tara.joshi@example.org
+EMP01457,Zoya Patel,37.0,Female,Delhi,Sales,Business Development Rep,Bachelor's,497282.0,0.5,"Dec 25, 2019",Excellent,5.0,No,14.0,Active,Office,zoya.patel@company.com
+EMP01458,Ira Singh,38.0,Non-binary,Jaipur,Engineering,Data Analyst,Diploma,431812.0,2.0,11-09-18,Good,1.0,No,6.0,Active,Remote,ira.singh@company.com
+EMP01459,Meera Qureshi,27.0,Male,Pune,Customer Support,Support Lead,High School,1521158.0,6.7,2018-01-01,Good,3.0,No,6.0,On Leave,Remote,meera.qureshi@company.com
+EMP01460,Priya Yadav,19.0,Female,Kolkata,IT,Cloud Engineer,Diploma,904693.0,2.2,2025-09-28,Poor,3.0,Yes,11.0,Active,Remote,priya.yadav@workmail.in
+EMP01461,Sana Yadav,19.0,Female,Pune,Sales,Business Development Rep,High School,1014389.0,1.5,2022-01-07,Poor,3.0,Yes,8.0,Active,Office,sana.yadav@example.org
+EMP01462,Vikram Khan,28.0,Non-binary,,Marketing,Marketing Executive,PhD,1078764.0,2.4,2023-07-26,Poor,4.0,No,15.0,Active,Remote,vikram.khan@workmail.in
+EMP01463,Aisha Saxena,39.0,Prefer not to say,Mumbai,Engineering,Data Analyst,Diploma,961614.0,6.9,2023-10-01,Good,3.0,Yes,22.0,Active,Hybrid,aisha.saxena@workmail.in
+EMP01464,Dev Gupta,35.0,Prefer not to say,Delhi,Human Resources,HR Executive,High School,467169.0,1.9,2023-12-03,Good,4.0,Yes,9.0,Active,Remote,dev.gupta@example.org
+EMP01465,Kavya Roy,32.0,Non-binary,Delhi,Engineering,ML Engineer,Diploma,952525.0,4.4,2026-01-10,Poor,5.0,No,17.0,Active,Remote,kavya.roy@workmail.in
+EMP01466,Dev Kapoor,28.0,Prefer not to say,Chennai,Sales,Business Development Rep,Diploma,483273.0,0.9,2023-09-01,Average,4.0,No,15.0,On Leave,Remote,dev.kapoor@workmail.in
+EMP01467,Ishaan Chopra,21.0,Non-binary,Chennai,Sales,Business Development Rep,Diploma,1086022.0,4.7,2020-01-29,Good,2.0,Yes,9.0,Active,Hybrid,ishaan.chopra@workmail.in
+EMP01468,Aditya Iyer,36.0,Male,Jaipur,Finance,Financial Analyst,High School,915911.0,4.9,2020-05-17,Excellent,2.0,Yes,14.0,Active,Office,aditya.iyer@workmail.in
+EMP01469,Ira Verma,32.0,Male,Hyderabad,Customer Support,Support Lead,Bachelor's,1036862.0,9.8,2021-04-04,Excellent,,No,19.0,Active,Office,ira.verma@workmail.in
+EMP01470,Farhan Patel,29.0,Female,Ghaziabad,IT,Cloud Engineer,Master's,657855.0,,2022-07-27,Poor,4.0,Yes,5.0,Active,Remote,farhan.patel@example.org
+EMP01471,Kabir Saxena,20.0,Male,Lucknow,Customer Support,Support Lead,Diploma,1216001.0,4.4,2024-03-04,Average,2.0,No,5.0,Resigned,Office,kabir.saxena@workmail.in
+EMP01472,Neha Khan,,Female,Delhi,Sales,Business Development Rep,Diploma,879975.0,5.7,2021-04-11,Poor,3.0,Yes,10.0,Active,Hybrid,neha.khan@company.com
+EMP01473,Kabir Kapoor,22.0,Female,Ghaziabad,Sales,Sales Executive,Diploma,388507.0,3.7,2025-11-04,Good,2.0,Yes,11.0,Active,Hybrid,kabir.kapoor@company.com
+EMP01474,Zoya Saxena,35.0,Non-binary,Jaipur,Sales,Business Development Rep,Bachelor's,1081620.0,2.3,2023-09-26,Good,3.0,Yes,16.0,Active,Office,zoya.saxena@workmail.in
+EMP01475,Ira Chopra,48.0,MALE,Hyderabad,Sales,Account Manager,High School,1436312.0,1.9,2025-09-29,Excellent,2.0,Yes,12.0,Active,Remote,ira.chopra@workmail.in
+EMP01476,Vikram Roy,35.0,Male,,Human Resources,Recruiter,Diploma,1138928.0,1.4,2025-01-18,Average,4.0,No,0.0,On Leave,Remote,vikram.roy@example.org
+EMP01477,Sana Kapoor,34.0,Non-binary,Bengaluru,IT,System Administrator,Master's,1001688.0,2.7,2025-01-23,Excellent,4.0,Yes,5.0,Active,Office,sana.kapoor@workmail.in
+EMP01478,Ishaan Qureshi,41.0,Female,Lucknow,Sales,Account Manager,Master's,180000.0,8.7,2024-05-29,Excellent,2.0,Yes,11.0,Resigned,Office,ishaan.qureshi@workmail.in
+EMP01479,Arjun Mehta,35.0,Prefer not to say,Jaipur,Finance,Payroll Specialist,PhD,632161.0,7.8,12/05/2021,Good,1.0,Yes,3.0,Active,Remote,arjun.mehta@example.org
+EMP01480,Priya Das,25.0,Female,Chennai,Customer Support,Support Agent,PhD,566286.0,1.2,2024-07-08,Excellent,3.0,No,8.0,Active,Remote,priya.das@example.org
+EMP01481,Aditya Khan,29.0,Prefer not to say,Bengaluru,Customer Support,Customer Success Associate,Diploma,1078566.0,2.5,2023-09-26,,4.0,No,1.0,Terminated,Hybrid,aditya.khan@workmail.in
+EMP01482,Priya Sharma,30.0,Female,Kolkata,IT,System Administrator,High School,575223.0,3.3,"Jul 08, 2025",Good,4.0,No,6.0,Active,Remote,priya.sharma@example.org
+EMP01483,Zoya Qureshi,42.0,Male,Chennai,Engineering,QA Engineer,Bachelor's,1032393.0,3.4,2018-02-25,Excellent,4.0,Yes,21.0,On Leave,Hybrid,zoya.qureshi@company.com
+EMP01484,Zoya Nair,26.0,Male,Lucknow,Human Resources,HR Business Partner,Master's,608330.0,10.2,2019-08-18,Excellent,5.0,No,7.0,Active,Remote,zoya.nair@company.com
+EMP01485,Zoya Bose,36.0,Male,Lucknow,IT,Cloud Engineer,Master's,458227.0,4.8,2018-04-03,Poor,1.0,Yes,15.0,Active,Hybrid,zoya.bose@example.org
+EMP01486,Aisha Das,32.0,Non-binary,Mumbai,IT,Cloud Engineer,Diploma,1183935.0,7.7,2023-07-03,,4.0,No,9.0,Active,Remote,aisha.das@company.com
+EMP01487,Rahul Kapoor,46.0,Prefer not to say,Bengaluru,Customer Support,Customer Success Associate,Diploma,821074.0,0.9,2024-05-02,EXCELLENT,3.0,Yes,9.0,Active,Office,rahul.kapoor@workmail.in
+EMP01488,Farhan Patel,29.0,Male,Delhi,,Operations Manager,Bachelor's,652218.0,2.5,2019-09-23,Average,3.0,No,13.0,Active,Office,farhan.patel@example.org
+EMP01489,Ishaan Roy,28.0,Prefer not to say,Kolkata,Engineering,Data Analyst,Diploma,600346.0,4.0,,Excellent,5.0,No,15.0,Active,Office,ishaan.roy@company.com
+EMP01490,Ira Sharma,30.0,Female,Ghaziabad,Finance,Financial Analyst,Master's,416785.0,14.5,2019-10-06,Good,2.0,No,7.0,Active,Office,ira.sharma@company.com
+EMP01491,Farhan Kapoor,38.0,Prefer not to say,Chennai,Marketing,Marketing Executive,Bachelor's,492552.0,1.3,2025-01-28,Excellent,2.0,No,22.0,Active,Remote,farhan.kapoor@workmail.in
+EMP01492,Aarav Gupta,36.0,Non-binary,Bengaluru,Operations,Supply Chain Analyst,PhD,1052701.0,3.5,2025-10-28,Good,3.0,Yes,17.0,Active,Remote,aarav.gupta@workmail.in
+EMP01265,Rohan Das,27.0,Non-binary,Lucknow,Engineering,ML Engineer,Bachelor's,268233.0,6.7,2020-07-20,Average,2.0,Yes,7.0,Resigned,Remote,rohan.das@example.org
+EMP01494,Tara Mehta,34.0,Male,Pune,Engineering,QA Engineer,Bachelor's,805511.0,5.3,2025-10-31,Good,3.0,Yes,11.0,Active,Hybrid,tara.mehta@workmail.in
+EMP01495,Zoya Mehta,23.0,Female,Pune,Marketing,Marketing Executive,Diploma,1093989.0,2.8,2024-01-05,,2.0,Yes,3.0,Active,Office,zoya.mehta@company.com
+EMP01496,Ishaan Bose,46.0,Female,Delhi,Customer Support,Support Agent,Master's,850762.0,8.7,2021-11-22,Good,2.0,Yes,11.0,Active,Hybrid,ishaan.bose@company.com
+EMP01497,Aarav Mehta,36.0,Prefer not to say,Ghaziabad,Sales,Account Manager,Bachelor's,1352248.0,11.5,2020-11-02,Average,2.0,No,17.0,Active,Remote,aarav.mehta@example.org
+EMP01498,Neha Saxena,37.0,Male,Mumbai,IT,System Administrator,Diploma,625237.0,4.9,,Average,3.0,Yes,19.0,Active,Hybrid,neha.saxena@company.com
+EMP01499,Ishaan Gupta,37.0,Male,Pune,Marketing,Marketing Executive,Bachelor's,427036.0,2.7,2018-10-02,Excellent,2.0,No,7.0,Active,Office,ishaan.gupta@workmail.in
+EMP01500,Zoya Sharma,34.0,female,Ghaziabad,Sales,Account Manager,High School,943120.0,5.6,2025-07-19,Good,3.0,No,23.0,Active,Office,zoya.sharma@company.com
+EMP01466,Dev Kapoor,28.0,Prefer not to say,Chennai,Sales,Business Development Rep,Diploma,483273.0,0.9,2023-09-01,Average,4.0,No,15.0,On Leave,Remote,dev.kapoor@workmail.in
+EMP01058,Meera Iyer,34.0,Female,Chennai,Human Resources,HR Business Partner,PhD,"₹1,238,953",2.3,2022-03-12,Poor,4.0,No,12.0,Active,Office,meera.iyer@company.com
+EMP01159,Kabir Reddy,32.0,Prefer not to say,Chennai,IT,IT Support Engineer,High School,1120949.0,2.8,2021-06-07,Good,3.0,Yes,17.0,Resigned,Hybrid,kabir.reddy@company.com
+EMP01040,Ananya Sharma,23.0,Male,Lucknow,Customer Support,Customer Success Associate,Diploma,772235.0,1.4,2018-07-19,Poor,1.0,Yes,9.0,Active,Office,ananya.sharma@workmail.in
+EMP01272,Zoya Khan,31.0,Female,Kolkata,Operations,Supply Chain Analyst,Bachelor's,1076001.0,0.3,2022-07-18,Average,2.0,No,7.0,On Leave,Office,zoya.khan@workmail.in
+EMP01451,Tara Verma,38.0,Non-binary,bengaluru,Sales,Account Manager,Diploma,735207.0,1.4,2024-01-23,Average,4.0,Yes,18.0,Active,Hybrid,tara.verma@company.com
+EMP01076,Tara Kapoor,39.0,Male,Lucknow,Sales,Business Development Rep,Diploma,1195165.0,4.7,2025-05-19,Excellent,3.0,Yes,6.0,Active,Hybrid,tara.kapoor@workmail.in
+EMP01204,Neha Malik,41.0,Non-binary,Delhi,Finance,Payroll Specialist,PhD,662545.0,1.1,2021-01-31,Average,2.0,Yes,13.0,Active,Remote,neha.malik@company.com
+EMP01109,Ira Gupta,21.0,Male,Mumbai,IT,IT Support Engineer,High School,781797.0,2.2,2021-08-18,Excellent,1.0,No,6.0,Active,Hybrid,ira.gupta@company.com
+EMP01144,Dev Saxena,31.0,Female,Delhi,Sales,Business Development Rep,PhD,659342.0,13.0,2018-06-15,Good,3.0,No,11.0,Active,Remote,dev.saxena@workmail.in
+EMP01006,Priya Mehta,23.0,Male,Jaipur,Human Resources,HR Business Partner,High School,1289581.0,16.7,2024-10-08,Excellent,2.0,No,5.0,Active,Office,
+EMP01233,Kavya Gupta,45.0,Prefer not to say,Hyderabad,Marketing,Content Strategist,Diploma,946055.0,2.0,2023-04-15,Average,3.0,Yes,16.0,Active,Office,kavya.gupta@company.com

@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Customer_Name,Region,Product,Quantity,Unit_Price_INR,Sales_Channel,Order_Status
+S001,2026-01-03,Aarav Mehta,North,Laptop,1,54999.0,Online,Delivered
+S002,2026/01/04,Priya Sharma,south,Smartphone,2,18999.0,Store,Delivered
+S003,05-01-2026,Rohan Verma,East,Headphones,3,1499.0,Online,Shipped
+S004,2026-01-06,Neha Gupta,West,Monitor,1,12999.0,Retail,Pending
+S005,2026-01-07,Kabir Singh,NORTH,Keyboard,2,899.0,Online,Delivered
+S006,2026-01-08,Ananya Rao,South ,Mouse,4,499.0,Store,Delivered
+S007,2026-01-09,Ishaan Patel,East,Tablet,1,24999.0,Online,Returned
+S008,2026-01-10,Meera Joshi,West,Printer,1,7999.0,Retail,Shipped
+S009,2026-01-11,Dev Malhotra,North,USB Drive,5,399.0,Online,Delivered
+S010,2026-01-12,Sara Khan,South,Webcam,2,2199.0,Online/Store,Delivered
+S011,2026-01-13,Arjun Das,East,Laptop,1,57999.0,Online,Pending
+S012,2026-01-14,Tanya Roy,West,Smartphone,1,19999.0,Retail,Delivered
+S013,2026-01-15,Vikram Yadav,North,Headphones,2,1599.0,Online,Shipped
+S014,2026-01-16,Diya Kapoor,South,Monitor,1,13999.0,Store,Delivered
+S015,2026-01-17,Aditya Jain,East,Keyboard,3,999.0,Online,Delivered
+S016,2026-01-18,Pooja Nair,West,Mouse,2,549.0,Retail,Pending
+S017,2026-01-19,Rahul Bose,North,Tablet,1,22999.0,Online,Delivered
+S018,2026-01-20,Ira Sen,South,Printer,1,8499.0,Store,Shipped
+S019,2026-01-21,Manav Gill,East,USB Drive,10,three-forty-nine,Online,Delivered
+S020,2026-01-22,Kavya Reddy,West,Webcam,1,2399.0,Retail,Delivered
+S021,2026-01-23,Nikhil Sinha,North,Laptop,1,54999.0,Online,Delivered
+S022,2026-01-24,Aditi Mishra,South,Smartphone,2,18999.0,Store,Shipped
+S023,2026-01-25,Samar Ali,East,Headphones,1,1499.0,Online,Delivered
+S024,2026-01-26,Riya Chawla,West,Monitor,2,12999.0,Retail,Delivered
+S025,2026-01-27,Yash Thakur,North,Keyboard,1,899.0,Online,Pending
+S026,2026-01-28,Mira Thomas,South,Mouse,3,499.0,Store,Delivered
+S027,2026-01-29,Kunal Bhat,East,Tablet,1,24999.0,Online,Shipped
+S028,2026-01-30,Sana Qureshi,West,Printer,2,7999.0,Retail,Delivered
+S029,2026-01-31,Om Prakash,North,USB Drive,4,399.0,Online,Delivered
+S030,2026-13-01,Leena Dutta,South,Webcam,1,2199.0,Store,Returned
+S031,2026-02-02,Ritwik Ghosh,East,Laptop,1,56999.0,Online,Delivered
+S032,2026-02-03,Naina Arora,West,Smartphone,1,20999.0,Retail,Shipped
+S033,2026-02-04,Harsh Vardhan,North,Headphones,2,1599.0,Online,Delivered
+S034,2026-02-05,Simran Kaur,South,Monitor,1,13999.0,Store,Pending
+S035,2026-02-06,Keshav Iyer,East,Keyboard,2,999.0,Online,Delivered
+S036,2026-02-07,Mahi Bansal,West,Mouse,1,549.0,Retail,Delivered
+S037,2026-02-08,Parth Kulkarni,North,Tablet,1,23999.0,Online,Shipped
+S038,2026-02-09,Zoya Mirza,South,Printer,,8499.0,Store,Delivered
+S039,2026-02-10,Aman Choudhary,East,USB Drive,6,349.0,Online,Delivered
+S040,2026-02-11,Tara Mukherjee,West,Webcam,2,2399.0,Retail,Delivered
+S041,2026-02-12,  Aarav Mehta ,north,Laptop,1,54999.0,Online,Delivered
+S042,2026-02-13,Priya Sharma,South,Smart Phone,2,18999.0,online,delivered
+S043,14/02/2026,Rohan Verma,EAST,Headphones ,3,1499.0,Online ,Shipped
+S044,2026-02-15,Neha Gupta,West,Monitor,0,12999.0,Retail,Pending
+S045,2026-02-16,Kabir Singh,North,Keyboard,-2,899.0,Online,Delivered
+S046,2026-02-17,Ananya Rao,South,Mouse,4,,Store,Delivered
+S047,2026-02-18,Ishaan Patel,Eest,Tablet,1,24999.0,Online,In Transit
+S048,2026-02-19,,West,Printer,1,7999.0,Retail,delivered
+S049,2026-02-20,Dev Malhotra,North,USB Drive,5,399.0,Online,Delivered
+S049,2026-02-21,Sara Khan,South,Webcam,2,2199.0,Store,Delivered

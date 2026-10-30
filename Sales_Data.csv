@@ -1,0 +1,501 @@
+﻿Order_ID,Customer_Name,Age,Gender,City,Department,Product,Quantity,Unit_Price_INR,Discount_Percent,Order_Date,Sales_Channel,Payment_Method,Order_Status,Customer_Email,Customer_Rating,Sales_Region,Total_Amount_INR
+ORD-1000,Kabir Rao,22.0,Other,,Sales,Headphones,1.0,3675.0,15.0,2025-06-10,,Net Banking,Cancelled,dev.yadav0@example.com,3.0,North,3675.0
+ORD-1001,Ananya Bansal,59.0,Female,Pune,Operations,Monitor,5.0,12000.0,15.0,2025-05-16,In-Store,Debit Card,Completed,priya.joshi1@example.com,5.0,North,149281.0
+ORD-1002,Ananya Yadav,55.0,Female,Delhi,Customer Support,Headphones,5.0,3325.0,10.0,2025-08-19,Partner,Net Banking,Cancelled,,2.0,East,16625.0
+ORD-1003,,66.0,Other,Hyderabad,Customer Support,Laptop,3.0,55000.0,10.0,2025-02-26,In-Store,Cash,Pending,priya.mehta3@example.com,4.0,North,165000.0
+ORD-1004,Ishaan Patel,47.0,Other,Chennai,,Phone,3.0,29400.0,0.0,2025-06-23,Partner,Net Banking,Returned,priya.singh4@example.com,4.0,Central,88200.0
+ORD-1005,Simran Singh,30.0,Other,Noida,Sales,Headphones,3.0,4025.0,20.0,2025-05-22,Online,Cash,Completed,pooja.yadav5@example.com,4.0,West,12075.0
+ORD-1006,Kavya Reddy,44.0,Female,Delhi,Sales,Mouse,3.0,,5.0,2025-10-12,Online,Debit Card,Returned,aisha.mehta6@example.com,5.0,East,2565.0
+ORD-1007,Kavya Joshi,22.0,Female,Ghaziabad,IT,Headphones,1.0,3500.0,15.0,2025-08-20,,Credit Card,Pending,nisha.patel7@example.com,2.0,East,3500.0
+ORD-1008,Aditya Sharma,63.0,Male,Chennai,IT,Headphones,5.0,2975.0,10.0,2025-03-27,Phone,UPI,Returned,arjun.yadav8@example.com,5.0,West,
+ORD-1009,,35.0,Male,Mumbai,Sales,Monitor,3.0,12000.0,20.0,2025-10-25,Phone,Net Banking,Pending,dev.khan9@example.com,5.0,East,36000.0
+ORD-1010,Sana Reddy,26.0,,Bengaluru,IT,Phone,5.0,28000.0,20.0,2025-09-12,Phone,Net Banking,Pending,nisha.verma10@example.com,2.0,North,140000.0
+ORD-1011,Sana Malik,42.0,Male,Ghaziabad,Customer Support,Printer,2.0,8075.0,5.0,2025-11-28,Partner,Credit Card,Returned,,4.0,South,16150.0
+ORD-1012,Rohan Reddy,55.0,Male,Ghaziabad,IT,Laptop,1.0,55000.0,20.0,2025-11-26,Phone,Debit Card,Completed,not_an_email,1.0,West,"₹55,000.00"
+ORD-1013,Ishaan Das,25.0,Female, Delhi ,HR,Mouse,3.0,945.0,15.0,2025-06-07,Online,Net Banking,Pending,pooja.sharma13@example.com,1.0,East,2835.0
+ORD-1014,Aisha Verma,27.0,Female,Ghaziabad,Marketing,Tablet,1.0,18900.0,5.0,2025-02-22,Partner,Cash,Returned,kabir.gupta14@example.com,4.0,East,18900.0
+ORD-1015,Kabir Mehta,42.0,Other,Delhi,Sales,Laptop,2.0,46750.0,5.0,2025-12-16,In-Store,Net Banking,Pending,kabir.chopra15@example.com,1.0,East,93500.0
+ORD-1016,Nisha Singh,46.0,Female,Jaipur,Finance,Monitor,3.0,13800.0,5.0,2025-04-08,Online,Credit Card,Cancelled,aarav.bansal16@example.com,3.0,North,41400.0
+ORD-1017,Aisha Malik,24.0,Male,Bengaluru,HR,Keyboard,2.0,1710.0,20.0,2025-02-09,Phone,Cash,,ishaan.verma17@example.com,4.0,Central,3420.0
+ORD-1018,Rohan Joshi,46.0,Female,Hyderabad,,Phone,5.0,26600.0,10.0,2025-01-14,Partner,Cash,,vikram.chopra18@example.com,4.0,South,133000.0
+ORD-1019,Nisha Chopra,27.0,Male,Lucknow,Sales,Keyboard,4.0,2070.0,5.0,2025-04-04,,Cash,Cancelled,ananya.bansal19@example.com,1.0,West,8280.0
+ORD-1020,Rohan Mehta,42.0,Male,Delhi,Operations,Printer,5.0,8075.0,10.0,2025-11-23,Phone,Debit Card,Pending,simran.verma20@example.com,4.0,West,40375.0
+ORD-1021,Karan Patel,19.0,Male,Delhi,Operations,Tablet,2.0,15300.0,25.0,2025-12-08,Online,Net Banking,Completed,meera.joshi21@example.com,4.0,Central,30600.0
+ORD-1022,Nisha Yadav,34.0,Other,Pune,Finance,Phone,1.0,26600.0,10.0,2025-04-24,Online,Cash,Completed,ananya.patel22@example.com,2.0,North,26600.0
+ORD-1023,Neha Mehta,67.0,Other,Ghaziabad,HR,Mouse,1.0,1035.0,10.0,2025-02-14,Online,Cash,Cancelled,aarav.malik23@example.com,1.0,West,1035.0
+ORD-1024,Kavya Bansal,22.0,Female,Chennai,IT,Phone,5.0,28000.0,0.0,2025-02-15,In-Store,Debit Card,Returned,ishaan.chopra24@example.com,3.0,South,140000.0
+ORD-1025,Kavya Joshi,25.0,Female,Jaipur,Sales,Printer,5.0,8500.0,20.0,2025-01-10,Online,Net Banking,Pending,aarav.chopra25@example.com,1.0,East,42500.0
+ORD-1026,Kabir Mehta,51.0,Other,Jaipur,Sales,Printer,1.0,8925.0,15.0,2025-10-21,Online,Credit Card,Cancelled,neha.yadav26@example.com,3.0,South,8925.0
+ORD-1027,Karan Bansal,57.0,Female,Bengaluru,IT,Keyboard,2.0,1890.0,0.0,2025/08/10,In-Store,Cash,Pending,rohan.das27@example.com,5.0,Central,3780.0
+ORD-1028,Neha Patel,70.0,Other,Jaipur,Operations,Monitor,2.0,12000.0,25.0,2025-04-01,Online,Cash,Completed,sana.joshi28@example.com,2.0,North,24000.0
+ORD-1029,Karan Khan,66.0,Other,Lucknow,Marketing,Headphones,1.0,3325.0,0.0,2025-04-24,In-Store,Debit Card,Completed,sana.verma29@example.com,3.0,,3325.0
+ORD-1030,Aditya Sharma,40.0,Female,Lucknow,HR,Laptop,4.0,46750.0,20.0,2025-03-05,In-Store,Cash,Pending,nisha.mehta30@example.com,4.0,Central,187000.0
+ORD-1031,Sana Khan,65.0,Male,BENGALURU,Marketing,Headphones,0.0,3500.0,15.0,2025-01-16,,Cash,Pending,neha.sharma31@example.com,,South,14000.0
+ORD-1032,Priya Rao,23.0,Male,Pune,Customer Support,Keyboard,5.0,2070.0,20.0,2025-02-07,Online,Cash,Cancelled,aditya.bansal32@example.com,2.0,Central,10350.0
+ORD-1033,Rahul Das,50.0,Other,Ghaziabad,Sales,Headphones,2.0,3500.0,20.0,2025-10-12,Phone,Credit Card,Returned,nisha.rao33@example.com,5.0,East,7000.0
+ORD-1034,Vikram Patel,21.0,Male,,Finance,Monitor,4.0,12600.0,105.0,2025-08-22,In-Store,Net Banking,Completed,ishaan.gupta34@example.com,3.0,South,50400.0
+ORD-1035,Ananya Malik,30.0,Male,Ghaziabad,Customer Support,Tablet,,18000.0,20.0,2025-05-19,Partner,Cash,Pending,pooja.singh35@example.com,,East,72000.0
+ORD-1036,Vikram Rao,47.0,Female,Ghaziabad,HR,Headphones,,3500.0,,2025-08-27,In-Store,UPI,Returned,aarav.patel36@example.com,3.0,West,17500.0
+ORD-1037,Nisha Das,51.0,Male,Noida,Operations,Headphones,3.0,4025.0,15.0,2025-02-18,Online,Debit Card,Cancelled,dev.khan37@example.com,5.0,Central,12075.0
+ORD-1038,Kabir Yadav,70.0,Other,Chennai,Customer Support,Headphones,1.0,3500.0,0.0,2025-08-05,In-Store,Net Banking,Returned,priya.verma38@example.com,3.0,West,3500.0
+ORD-1180,Aarav Joshi,43.0,Female,Noida,Finance,,1.0,23800.0,20.0,2025-07-26,Partner,Cash,Cancelled,arjun.mehta39@example.com,2.0,East,167683.0
+ORD-1040,Pooja Verma,56.0,Male,Pune,HR,Printer,1.0,9775.0,20.0,2025-02-13,In-Store,Cash,Cancelled,vikram.malik40@example.com,4.0,South,9775.0
+ORD-1041,Rahul Singh,60.0,Female,Lucknow,IT,Printer,4.0,9775.0,5.0,2025-10-06,Online,Cash,Completed,person@,3.0,East,39100.0
+ORD-1042,Ananya Joshi,,Other,Hyderabad,Operations,Monitor,4.0,10200.0,15.0,2025-09-24,In-Store,UPI,Pending,aisha.chopra42@example.com,1.0,West,40800.0
+ORD-1043,Neha Rao,64.0,Female,Mumbai,Sales,Printer,5.0,8500.0,10.0,2025-02-13,Phone,UPI,Returned,arjun.sharma43@example.com,1.0,East,42500.0
+ORD-1044,Nisha Reddy,34.0,,Delhi,IT,Headphones,4.0,3500.0,15.0,2025-04-18,Partner,Net Banking,Cancelled,arjun.verma44@example.com,2.0,Central,14000.0
+ORD-1045,Pooja Rao,20.0,Male,Noida,Customer Support,Printer,1.0,8925.0,0.0,2025-04-14,Phone,UPI,Returned,rahul.verma45@example.com,4.0,Central,8925.0
+ORD-1046,Sana Khan,63.0,Other,Jaipur,Marketing,Laptop,5.0,52250.0,0.0,2025-03-29,Partner,Credit Card,Returned,karan.sharma46@example.com,1.0,North,261250.0
+ORD-1047,Nisha Rao,69.0,Male,Bengaluru,Operations,Laptop,1.0,63250.0,5.0,2025-08-10,Online,Net Banking,Cancelled,nisha.bansal47@example.com,1.0,West,63250.0
+ORD-1048,Kabir Sharma,42.0,Male,Mumbai,,Mouse,5.0,1035.0,20.0,2025-11-02,Phone,Debit Card,Returned,arjun.das48@example.com,1.0,Central,5175.0
+ORD-1049,Priya Khan,18.0,Male,Delhi,HR,Phone,3.0,32200.0,15.0,2025-09-26,Partner,Net Banking,Returned,arjun.sharma49@example.com,1.0,West,96600.0
+ORD-1050,Sana Malik,39.0,Male,Hyderabad,Sales,Laptop,1.0,52250.0,20.0,2025-11-19,Online,Credit Card,Cancelled,kavya.reddy50@example.com,3.0,West,52250.0
+ORD-1051,Kabir Khan,31.0,Other, Lucknow ,IT,Mouse,2.0,1035.0,,2025-07-28,Phone,Debit Card,Returned,neha.das51@example.com,3.0,Central,2070.0
+ORD-1052,Aisha Reddy,66.0,Female,Mumbai,Sales,Phone,1.0,28000.0,,2025-07-05,Online,,Pending,priya.singh52@example.com,4.0,East,28000.0
+ORD-1053,Nisha Reddy,26.0,Female,Jaipur,Marketing,Keyboard,4.0,1800.0,25.0,,Phone,Net Banking,Pending,karan.sharma53@example.com,2.0,East,7200.0
+ORD-1054,Priya Joshi,36.0,Female,Lucknow,HR,Monitor,3.0,10200.0,15.0,2025-03-24,Phone,,Returned,rahul.singh54@example.com,2.0,West,30600.0
+ORD-1055,Arjun Das,,Female,Chennai,Finance,Keyboard,2.0,1530.0,20.0,2025-06-07,Phone,Debit Card,Cancelled,rohan.bansal55@example.com,5.0,East,3060.0
+ORD-1056,Vikram Singh,45.0,,Hyderabad,Finance,Keyboard,4.0,1710.0,0.0,2025-10-19,Online,UPI,pendng,simran.rao56@example.com,5.0,North,6840.0
+ORD-1057,Sana Khan,56.0,Male,Delhi,Operations,Tablet,1.0,18000.0,25.0,02-May-2025,Online,Debit Card,Cancelled,dev.rao57@example.com,3.0,South,18000.0
+ORD-1058,Aisha Verma,44.0,Female,Lucknow,Customer Support,Phone,4.0,26600.0,0.0,2025-08-08,Partner,Debit Card,Cancelled,person@,4.0,West,106400.0
+ORD-1059,Karan Das,,Male,Noida,Marketing,Mouse,1.0,945.0,20.0,2025-05-22,Phone,Debit Card,In Progress,dev.khan59@example.com,3.0,Central,945.0
+ORD-1060,Vikram Rao,60.0,Other,Noida,Sales,Printer,5.0,9775.0,15.0,2025-07-22,,Cash,Pending,ishaan.verma60@example.com,5.0,West,48875.0
+ORD-1061,Karan Khan,34.0,Male,,Customer Support,Monitor,1.0,12000.0,25.0,2025-06-21,Online,Net Banking,Completed,ananya.singh61@example.com,1.0,East,12000.0
+ORD-1062,Aarav Verma,32.0,Male,Jaipur,Operations,Keyboard,5.0,1890.0,25.0,2025-06-30,Phone,Debit Card,Returned,kabir.malik62@example.com,4.0,,9450.0
+ORD-1063,Dev Joshi,64.0,Female,Chennai,Operations,Laptop,4.0,57750.0,5.0,2025-05-14,In-Store,Debit Card,Cancelled,aisha.rao63@example.com,2.0,East,231000.0
+ORD-1064,Rohan Rao,38.0,Female,Lucknow,Finance,Printer,3.0,,25.0,2025-08-03,Phone,Debit Card,Completed,aarav.gupta64@example.com,5.0,Central,
+ORD-1065,,34.0,Male,Bengaluru,Sales,Mouse,4.0,855.0,15.0,2025-03-06,Partner,Net Banking,Pending,kabir.singh65@example.com,1.0,East,3420.0
+ORD-1066,Ananya Malik,45.0,Female,Ghaziabad,Customer Support,Laptop,3.0,55000.0,20.0,2025-04-12,Phone,Cash,Pending,nisha.yadav66@example.com,4.0,Central,165000.0
+ORD-1067,Rahul Yadav,42.0,Other,Delhi,Sales,Mouse,3.0,855.0,15.0,2025-12-18,Phone,Cash,Pending,rahul.joshi67@example.com,5.0,West,2565.0
+ORD-1068,Ananya Singh,61.0,Other,Chennai,Operations,Printer,3.0,7225.0,15.0,2025-12-26,In-Store,UPI,Completed,neha.sharma68@example.com,3.0,West,21675.0
+ORD-1069,Simran Reddy,35.0,Other,Bengaluru,IT,Monitor,5.0,13800.0,0.0,2025-12-26,Partner,Net Banking,Completed,vikram.joshi69@example.com,3.0,Central,69000.0
+ORD-1070,Vikram Sharma,20.0,Female,Chennai,Human Resources,Printer,2.0,8500.0,10.0,2025-10-28,Online,Cash,Returned,pooja.malik70@example.com,4.0,West,17000.0
+ORD-1071,Meera Rao,38.0,Male,Chennai,Marketing,Headphones,1.0,3675.0,0.0,2025-09-27,Phone,Credit Card,Cancelled,kabir.sharma71@example.com,5.0,East,3675.0
+ORD-1072,Pooja Reddy,55.0,Other,Noida,HR,Mouse,2.0,900.0,5.0,01-11-2025,Online,Debit Card,Cancelled,arjun.gupta72@example.com,4.0,Central,1800.0
+ORD-1073,Kabir Gupta,24.0,Male,Lucknow,Customer Support,Tablet,5.0,18900.0,25.0,2025-08-04,Online,Net Banking,Completed,aisha.gupta73@example.com,3.0,West,94500.0
+ORD-1074,Rahul Singh,59.0,Female,Lucknow,Sales,Headphones,3.0,3500.0,0.0,31/12/2025,Phone,UPI,Cancelled,simran.malik74@example.com,4.0,East,10500.0
+ORD-1075,Vikram Mehta,36.0,Male,Mumbai,IT,Monitor,1.0,12000.0,,2025-12-01,Online,Credit Card,Completed,kavya.sharma75@example.com,2.0,East,12000.0
+ORD-1076,Kabir Reddy,65.0,Other,Chennai,Operations,Mouse,5.0,1035.0,15.0,2025-05-06,Phone,Cash,Pending,ishaan.bansal76@example.com,2.0,South,5175.0
+ORD-1077,Ishaan Mehta,70.0,Other,Bengaluru,HR,Tablet,3.0,20700.0,15.0,2025-11-28,Phone,,,simran.patel77@example.com,2.0,South,62100.0
+ORD-1078,Aarav Singh,21.0,Female,Bengaluru,Operations,Phone,99.0,26600.0,15.0,2025-11-16,Partner,Net Banking,Pending,simran.mehta78@example.com,5.0,Central,26600.0
+ORD-1079,Aisha Bansal,32.0,Other,PUNE,,Mouse,3.0,855.0,5.0,10-25-2025,Phone,Credit Card,Completed,kabir.das79example.com,6.0,,2565.0
+ORD-1080,Rohan Sharma,67.0,Other,Ghaziabad,Sales,Keyboard,4.0,2070.0,5.0,2025-06-08,Online,UPI,Completed,kavya.sharma80@example.com,5.0,East,8280.0
+ORD-1081,Aarav Sharma,63.0,Male,Noida,IT,Keyboard,2.0,1890.0,20.0,2025-04-25,Online,Cash,Returned,kabir.patel81@example.com,,South,3780.0
+ORD-1082,Ananya Sharma,33.0,Male,Pune,Customer Support,Monitor,3.0, INR 11400.0 ,0.0,2025-06-02,,UPI,Returned,neha.mehta82@example.com,1.0,South,34200.0
+ORD-1083,Sana Rao,46.0,Male,Bengaluru,IT,Monitor,3.0,12000.0,150.0,2025/10/12,Online,Cash,Pending,simran.malik83@example.com,2.0,South,36000.0
+ORD-1084,Sana Sharma,44.0,Female,Jaipur,HR,Tablet,4.0,17100.0,5.0,2025-12-06,Online,Net Banking,Completed,person@,1.0,Central,68400.0
+ORD-1085,Aditya Sharma,26.0,Male,Ghaziabad,HR,Laptop,1.0,63250.0,10.0,2025-03-10,,UPI,Returned,vikram.joshi85@example.com,4.0,Central,63250.0
+ORD-1086,Arjun Das,42.0,Male,Jaipur,Operations,Laptop,3.0,52250.0,25.0,2025-11-08,Partner,Credit Card,Pending,vikram.bansal86@example.com,3.0,East,156750.0
+ORD-1087,Priya Gupta,56.0,Other,Mumbai,IT,Keyboard,5.0,2070.0,15.0,2025-12-26,Partner,UPI,Returned,neha.patel87@example.com,3.0,East,10350.0
+ORD-1088,Simran Sharma,57.0,Female,Hyderabad,IT ,Tablet,4.0,20700.0,20.0,,online,Net Banking,Returned,aditya.malik88@example.com,2.0,West,82800.0
+ORD-1089,Rohan Joshi,30.0,Male,Ghaziabad,Marketing,Tablet,5.0,,20.0,2025-11-21,Phone,UPI,Completed,pooja.mehta89@example.com,1.0,Central,76500.0
+ORD-1090,Kavya Chopra,48.0,Female,Hyderabad,Sales,Laptop,2.0,63250.0,15.0,2025-01-07,Partner,UPI,Cancelled,kabir.joshi90@example.com,1.0,West,126500.0
+ORD-1091,Kabir Joshi,24.0,Male,Hyderabad,HR,Tablet,1.0,18900.0,25.0,2025-01-19,Partner,UPI,Completed,priya.joshi91@example.com,1.0,South,18900.0
+ORD-1092,Rahul Das,27.0,Female,LUCKNOW,IT,Headphones,5.0,4025.0,20.0,2025-04-03,online,Debit Card,Returned,pooja.joshi92@example.com,2.0,West,20125.0
+ORD-1093,Karan Mehta,67.0,Male,Delhi,Operations,Printer,4.0,7225.0,10.0,2025-06-03,Phone,Debit Card,Pending,karan.verma93@example.com,4.0,Central,28900.0
+ORD-1094,Sana Khan,37.0,Other,Bengaluru,Marketing,,4.0,10200.0,20.0,2025-09-07,Online,Cash,Cancelled,nisha.bansal94@example.com,2.0,South,40800.0
+ORD-1095,Rahul Bansal,52.0,Female,Pune,Finance,Monitor,2.0,13800.0,0.0,2025-09-25,Phone,Net Banking,Returned,arjun.yadav95@example.com,5.0,East,27600.0
+ORD-1096,Aisha Rao,63.0,Other,Lucknow,Sales,Laptop,3.0,57750.0,0.0,2025-11-26,Online,Debit Card,Returned,sana.sharma96@example.com,,Central,173250.0
+ORD-1097,Karan Bansal,51.0,Female,Noida,IT,Monitor,5.0,13800.0,10.0,,,Debit Card,Returned,meera.reddy97@example.com,1.0,West,69000.0
+ORD-1098,Priya Khan,35.0,Female,Hyderabad,IT,Printer,3.0,8500.0,20.0,2025-06-20,Online,Credit Card,Completed,ishaan.malik98@example.com,1.0,South,25500.0
+ORD-1099,Ananya Verma,43.0,Other,Lucknow,Customer Support,Printer,1.0,8925.0,10.0,2025-03-30,In-Store,Debit Card,Completed,nisha.khan99@example.com,10.0,East,8925.0
+ORD-1100,Rohan Sharma,18.0,Female,,Customer Support,Monitor,1.0,12000.0,5.0,2025-04-05,Phone,Net Banking,cancelled ,simran.verma100@example.com,2.0,South,12000.0
+ORD-1101,Ishaan Bansal,58.0,Other, Mumbai ,Customer Support,Tablet,1.0,17100.0,15.0,2025-10-07,Partner,Credit Card,Cancelled,kavya.verma101@example.com,3.0,North,17100.0
+ORD-1102,Kabir Verma,61.0,Other,Ghaziabad,HR,Tablet,5.0,17100.0,10.0,2025-07-21,Phone,Debit Card,Completed,priya.patel102@example.com,3.0,North,85500.0
+ORD-1103,Arjun Yadav,57.0,Male,Jaipur,IT,Headphones,1.0,,25.0,2025-08-02,In-Store,UPI,Cancelled,aarav.yadav103@example.com,1.0,South,
+ORD-1104,Vikram Bansal,56.0,Male,Hyderabad,Marketing,Printer,4.0,8500.0,5.0,2025-02-14,online,Net Banking,Completed,aisha.reddy104@example.com,1.0,East,34000.0
+ORD-1105,Rohan Rao,48.0,Other,Ghaziabad,,Phone,1.0,32200.0,15.0,09-17-2025,Phone,Net Banking,Completed,ishaan.patel105@example.com,2.0,North,32200.0
+ORD-1106,Aarav Yadav,35.0,Female,Bengaluru,Finance,Printer,1.0,,,21/11/2025,Phone,Credit Card,Returned,aditya.reddy106@example.com,2.0,North,7225.0
+ORD-1107,Priya Mehta,62.0,Other,Mumbai,Marketing,Phone,2.0,"₹23,800.00",10.0,2025-12-14,,Cash,Completed,ananya.patel107@example.com,5.0,North,47600.0
+ORD-1108,Aarav Singh,66.0,Female,,Finance,Laptop,2.0, INR 46750.0 ,25.0,2025-12-01,In-Store,Debit Card,Returned,aisha.khan108@example.com,5.0,Central,93500.0
+ORD-1109,Meera Mehta,62.0,Male,Jaipur,Customer Support,Headphones,0.0,4025.0,20.0,2025-09-28,In-Store,Debit Card,Completed,karan.gupta109@example.com,1.0,West,4025.0
+ORD-1110,Rahul Yadav,61.0,Male,Bengaluru,Customer Support,Keyboard,4.0,1530.0,15.0,2025-10-02,In-Store,Credit Card,Returned,pooja.sharma110@example.com,3.0,Central,6120.0
+ORD-1111,Meera Reddy,,Male,Pune,Marketing,Tablet,2.0,20700.0,20.0,2025-01-23,web,Debit Card,Pending,ananya.bansal111@example.com,4.0,South,
+ORD-1112,Ishaan Das,52.0,Female,Delhi,Finance,Mouse,3.0,945.0,15.0,2025-06-18,Partner,Debit Card,Pending,kavya.khan112@example.com,1.0,West,2835.0
+ORD-1113,Nisha Reddy,150.0,Other,Ghaziabad,Operations,Headphones,5.0,3500.0,5.0,2025-01-15,Partner,Debit Card,Returned,pooja.das113@example.com,1.0,South,17500.0
+ORD-1114,Dev Yadav,38.0,Female,Jaipur,Finance,Printer,2.0,8925.0,0.0,2025-05-14,Phone,Debit Card,Returned,dev.bansal114@example.com,2.0,East,17850.0
+ORD-1115,Aisha Reddy,42.0,Female,Bengaluru,Sales,Mouse,1.0,900.0,20.0,2025/99/01,Online,Credit Card,Returned,rohan.das115@example.com,4.0,West,900.0
+ORD-1116,Aditya Khan,26.0,Other,,Customer Support,Laptop,2.0,63250.0,20.0,2025-04-30,Online,Cash,COMPLETE,ananya.verma116@example.com,5.0,South,126500.0
+ORD-1117,Neha Malik,66.0,Other,Ghaziabad,Marketing,Phone,4.0,26600.0,25.0,2025-04-14,Phone,Debit Card,Returned,pooja.chopra117@example.com,3.0,West,106400.0
+ORD-1118,Priya Singh,56.0,Other,Lucknow,IT,Tablet,4.0,17100.0,10.0,2025-08-17,Phone,Debit Card,Completed,arjun.reddy118@example.com,4.0,Central,68400.0
+ORD-1119,Ananya Chopra,62.0,Other,Hyderabad,IT,Keyboard,5.0,1710.0,25.0,2025-06-12,Phone,Net Banking,Pending,kabir.das119@example.com,5.0,South,8550.0
+ORD-1120,Nisha Bansal,34.0,Other,Chennai,Customer Support,Phone,5.0,28000.0,0.0,2025-11-30,Phone,Cash,Cancelled,,,East,140000.0
+ORD-1121,Rahul Das,,Male,Hyderabad,Marketing,Monitor,0.0,12600.0,10.0,2025-03-29,Phone,Credit Card,completed,neha.patel121@example.com,6.0,Central,50400.0
+ORD-1122,Meera Sharma,20.0,Female,Pune,Operations,Headphones,2.0,3500.0,0.0,2025-03-03,Partner,Credit Card,Completed,aisha.yadav122@example.com,4.0,,7000.0
+ORD-1123,Neha Khan,68.0,Male,,IT,Monitor,1.0,12000.0,10.0,2025-12-31,Phone,Cash,Cancelled,neha.chopra123@example.com,4.0,North,12000.0
+ORD-1124,Vikram Singh,43.0,Other,Bengaluru,HR,Phone,5.0,28000.0,10.0,2025-10-16,Online,Net Banking,Cancelled,kavya.khan124@example.com,1.0,East,140000.0
+ORD-1125,Neha Malik,60.0,male,Delhi,Customer Support,Keyboard,3.0,1710.0,0.0,2025-07-02,Partner,UPI,Returned,rohan.verma125@example.com,4.0,West,5130.0
+ORD-1126,Neha Reddy,27.0,Female,Bengaluru,Sales,Printer,1.0,8075.0,10.0,2025-04-27,Phone,Net Banking,Pending,ishaan.yadav126@example.com,4.0,Central,8075.0
+ORD-1127,Meera Singh,30.0,Other,Ghaziabad,Operations,Headphones,5.0,4025.0,5.0,2025-06-02,In-Store,Credit Card,Cancelled,neha.khan127@example.com,3.0,,20125.0
+ORD-1128,Ishaan Joshi,32.0,Male,Lucknow,Sales,Laptop,5.0,52250.0,5.0,2025-02-26,Online,UPI,Pending,simran.yadav128@example.com,,North,261250.0
+ORD-1129,Ishaan Khan,19.0,Male,Delhi,Customer Support,Mouse,2.0,945.0,5.0,2025-10-28,Partner,Debit Card,Returned,sana.rao129@example.com,1.0,North,1890.0
+ORD-1331,Kavya Patel,35.0,Other,Bengaluru,Finance,Monitor,3.0,"12,000.00",15.0,2025-09-27,Partner,Net Banking,pendng,ishaan.gupta130@example.com,3.0,South,36000.0
+ORD-1131,Nisha Verma,58.0,Male,Hyderabad,Marketing,Phone,4.0,29400.0,0.0,2025-10-02,Online,UPI,Cancelled,priya.gupta131@example.com,4.0,Central,117600.0
+ORD-1132,Ananya Reddy,66.0,Female,Mumbai,Customer Support,Phone,5.0,32200.0,25.0,,online,Cash,Cancelled,sana.khan132@example.com,4.0,South,161000.0
+ORD-1133,Neha Yadav,18.0,Female,,Finance,Mouse,3.0,1035.0,10.0,2025-04-16,Partner,Credit Card,,sana.sharma133@example.com,3.0,North,3105.0
+ORD-1134,Rahul Patel,33.0,female ,Bengaluru,,Keyboard,5.0,1710.0,0.0,2025-06-27,Partner,Credit Card,Returned,ananya.gupta134@example.com,4.0,South,8550.0
+ORD-1135,Sana Joshi,51.0,Other, Jaipur ,Sales,Keyboard,1.0,1530.0,10.0,2025-04-25,,UPI,Completed,kavya.bansal135@example.com,4.0,West,1530.0
+ORD-1136,Priya Mehta,61.0,Female,Jaipur,Customer Support,Phone,4.0,32200.0,10.0,,Online,Credit Card,COMPLETE,,3.0,North,128800.0
+ORD-1137,Simran Verma,39.0,Male,Mumbai,IT,Mouse,2.0,765.0,15.0,2025-03-20,Online,UPI,Completed,aisha.rao137@example.com,1.0,South,1530.0
+ORD-1138,Arjun Gupta,36.0,Male,Chennai,HR,Tablet,2.0,17100.0,10.0,2025-01-21,Online,Cash,Cancelled,,4.0,North,34200.0
+ORD-1139,Sana Das,39.0,Male,,Operations,Laptop,4.0,46750.0,25.0,2025-02-12,Partner,UPI,,missing-at-symbol.example.com,1.0,Central,187000.0
+ORD-1140,Priya Singh,42.0,M,Delhi,HR,Laptop,3.0,52250.0,25.0,2025-05-27,Partner,Cash,Completed,aditya.chopra140@example.com,2.0,East,156750.0
+ORD-1141,Nisha Gupta,0.0,Female,Ghaziabad,Mktg,Monitor,3.0,11400.0,10.0,2025-12-21,Online,Net Banking,Pending,vikram.khan141@example.com,5.0,North,34200.0
+ORD-1142,Kavya Gupta,53.0,Female,Pune,Finance,Headphones,4.0,2975.0,20.0,2025-08-04,Phone,Credit Card,Cancelled,aditya.bansal142@example.com,4.0,South,
+ORD-1143,Nisha Joshi,38.0,Female,Bengaluru,HR,Tablet,4.0,17100.0,10.0,2025-06-14,Phone,,pendng,nisha.gupta143@example.com,1.0,South,
+ORD-1144,Arjun Malik,69.0,Female,Jaipur,Marketing,Laptop,3.0,52250.0,20.0,2025-03-02,online,Net Banking,Cancelled,arjun.patel144@example.com,3.0,Central,156750.0
+ORD-1145,Rohan Malik,70.0,Male,Noida,Customer Support,Printer,5.0,7225.0,25.0,2025-08-07,In-Store,UPI,Cancelled,karan.joshi145@example.com,5.0,North,36125.0
+ORD-1146,Karan Joshi,,Male,Hyderabad,Operations,Laptop,4.0,63250.0,0.0,2025-09-06,Partner,Credit Card,Pending,vikram.reddy146@example.com,3.0,North,253000.0
+ORD-1147,Simran Bansal,,Female,Jaipur,Finance,Headphones,3.0,4025.0,0.0,2025-05-01,In-Store,Net Banking,Completed,kabir.yadav147@example.com,1.0,East,12075.0
+ORD-1148,Priya Chopra,59.0,Other,Jaipur,Marketing,Keyboard,2.0,1710.0,25.0,2025-12-19,Phone,Cash,Cancelled,kavya.gupta148@example.com,1.0,North,3420.0
+ORD-1149,Vikram Joshi,51.0,Other,Ghaziabad,HR,Headphones,2.0,3500.0,25.0,2025-06-25,In-Store,Cash,Pending,rohan.reddy149@example.com,1.0,North,7000.0
+ORD-1150,Priya Singh,55.0,Male,Ghaziabad,Customer Support,Headphones,5.0,3325.0,,02-Nov-2025,Online,Cash,Returned,arjun.reddy150@example.com,3.0,West,16625.0
+ORD-1151,Rohan Gupta,59.0,Female,Mumbai,Sales,Phone,3.0,29400.0,15.0,2025-09-01,In-Store,Cash,,karan.patel151@example.com,3.0,North,88200.0
+ORD-1152,Ananya Verma,45.0,Other,Mumbai,IT,,3.0,28000.0,5.0,2025-05-06,Partner,Debit Card,Cancelled,vikram.verma152@example.com,0.0,West,66429.0
+ORD-1153,Meera Reddy,25.0,Female,Hyderabad,Sales,Headphones,5.0,4025.0,5.0,2025-08-20,Phone,Credit Card,Cancelled,sana.chopra153@example.com,4.0,North,20125.0
+ORD-1154,Arjun Bansal,38.0,,Hyderabad,Customer Support,Mouse,2.0, INR 900.0 ,20.0,2025-04-21,Partner,Cash,Completed,neha.sharma154@example.com,1.0,Central,1800.0
+ORD-1155,Priya Bansal,64.0,Female,Ghaziabad,IT,Phone,5.0,29400.0,20.0,2025-07-15,In-Store,Cash,Completed,ananya.chopra155@example.com,2.0,South,141617.0
+ORD-1156,Ananya Chopra,28.0,male, Noida ,Customer Support,Phone,4.0,28000.0,-10.0,2025-04-15,Phone,Debit Card,Cancelled,rohan.chopra156@example.com,4.0,Central,112000.0
+ORD-1157,Karan Yadav,33.0,Female,Hyderabad,Finance,Printer,2.0,8925.0,25.0,2025-02-16,Partner,Credit Card,Cancelled,kabir.malik157@example.com,4.0,,17850.0
+ORD-1158,Neha Gupta,28.0,Female,Mumbai,Sales,Monitor,3.0,13800.0,20.0,2025-05-22,Online,Debit Card,Cancelled,,1.0,Central, INR 41400.0 
+ORD-1159,Ishaan Khan,63.0,Male,Bengaluru,Customer Support,Keyboard,5.0,1530.0,20.0,2025-01-13,Online,Credit Card,Returned,aisha.chopra159@example.com,5.0,Central, INR 7650.0 
+ORD-1160,Meera Khan,67.0,Male,Mumbai,Marketing,Phone,1.0,28000.0,0.0,2025-01-18,Phone,Credit Card,Cancelled,neha.joshi160@example.com,4.0,West, INR 28000.0 
+ORD-1161,Simran Das,52.0,Other,Noida,Customer Support,Phone,4.0,28000.0,0.0,2025-10-20,In-Store,UPI,Completed,sana.patel161@example.com,3.0,East,112000.0
+ORD-1044,Ishaan Yadav,24.0,Female,Pune,Marketing,Printer,4.0,9775.0,15.0,2025-05-19,In-Store,UPI,Returned,,1.0,East,24917.0
+ORD-1163,Karan Khan,55.0,Other,Ghaziabad,Marketing,Phone,5.0,29400.0,20.0,2025-09-21,Online,Debit Card,Pending,arjun.mehta163@example.com,1.0,East,147000.0
+ORD-1164,Priya Mehta,45.0,Female,Chennai,IT,Monitor,5.0,,25.0,,Online,Net Banking,Returned,vikram.patel164@example.com,4.0,West,57000.0
+ORD-1165,Aarav Mehta,44.0,Other,Bengaluru,Finance,Laptop,4.0,55000.0,20.0,2025-12-25,Online,Cash,Cancelled,dev.das165@example.com,6.0,West,220000.0
+ORD-1110,Ananya Rao,58.0,Female,Hyderabad,IT,Monitor,5.0,12000.0,10.0,2025-08-21,Phone,Net Banking,Returned,karan.chopra166@example.com,4.0,South,60000.0
+ORD-1167,Meera Mehta,20.0,Other,Pune,Finance,Monitor,3.0,"₹12,600.00",15.0,2025-10-24,Online,Debit Card,Returned,,2.0,North,37800.0
+ORD-1168,Vikram Bansal,56.0,Male,Lucknow,Sales,Mouse,2.0,765.0,0.0,2025-09-30,Partner,Cash,Completed,@example.com,,South,1530.0
+ORD-1169,Dev Yadav,26.0,Other,Jaipur,Sales ,Keyboard,2.0,1530.0,20.0,2025-11-19,In-Store,Net Banking,Pending,aditya.khan169@example.com,2.0,South,
+ORD-1170,Dev Joshi,61.0,Other,Mumbai,Sales,Tablet,2.0,17100.0,10.0,2025-02-16,In-Store,Credit Card,Cancelled,@example.com,1.0,Central,34200.0
+ORD-1171,Neha Patel,36.0,Female, Mumbai ,Marketing,Monitor,2.0,12000.0,5.0,2025-10-27,ONLINE,Credit Card,Pending,dev.patel171@example.com,5.0,West,24000.0
+ORD-1172,Meera Verma,18.0,Female,Ghaziabad,IT,Tablet,1.0,15300.0,25.0,2025-04-10,In-Store,Cash,In Progress,arjun.yadav172@example.com,,Central,15300.0
+ORD-1173,Aarav Bansal,51.0,Other,Pune,HR,Monitor,2.0,"12,600.00",10.0,2025-08-23,,Cash,Cancelled,arjun.yadav173@example.com,2.0,East,25200.0
+ORD-1174,Kavya Mehta,42.0,Female,Pune,IT,Laptop,4.0,57750.0,10.0,2025-01-06,Phone,Net Banking,Returned,rahul.rao174@example.com,5.0,North,231000.0
+ORD-1175,Priya Rao,58.0,Other,Noida,Customer Support,Phone,4.0,23800.0,0.0,2025-10-17,Partner,UPI,Pending,rohan.reddy175@example.com,4.0,South,95200.0
+ORD-1176,Kabir Gupta,70.0,Female,Noida,IT,Keyboard,5.0,1890.0,5.0,2025-12-09,Online,Credit Card,Completed,dev.sharma176@example.com,4.0,Central,9450.0
+ORD-1177,Aarav Malik,53.0,male,Ghaziabad,Marketing,Monitor,4.0,10200.0,5.0,2025-11-01,Partner,Cash,Pending,karan.bansal177@example.com,4.0,North,40800.0
+ORD-1178,Kabir Patel,68.0,Male,Hyderabad,Customer Support,,2.0,1035.0,15.0,2025-10-25,In-Store,UPI,Pending,nisha.reddy178@example.com,4.0,South,2070.0
+ORD-1179,Kavya Gupta,57.0,Other,Jaipur,Marketing,Headphones,4.0,3675.0,20.0,2025-10-09,Online,Debit Card,Returned,meera.chopra179@example.com,5.0,North,"14,700.00"
+ORD-1180,Dev Rao,58.0,Male,Mumbai,IT,Phone,2.0,32200.0,10.0,2025-07-09,Phone,UPI,Pending,vikram.khan180@example.com,1.0,North,64400.0
+ORD-1181,Dev Rao,45.0,Female,Ghaziabad,HR,Monitor,3.0,12000.0,0.0,2025-06-24,Partner,UPI,Pending,aisha.reddy181@example.com,2.0,Central,36000.0
+ORD-1182,Priya Yadav,69.0,Male,Pune,Finance,Phone,1.0,32200.0,0.0,2025-09-24,web,UPI,Completed,kabir.reddy182@example.com,2.0,South,
+ORD-1183,Arjun Rao,51.0,Male,Noida,Marketing,Headphones,1.0,3325.0,0.0,2025-11-28,In-Store,Credit Card,Completed,aarav.chopra183@example.com,3.0,East,3325.0
+ORD-1184,Rahul Gupta,31.0,Male,Delhi,Marketing,Phone,5.0,28000.0,20.0,2025-11-06,Phone,Debit Card,Cancelled,ananya.patel184@example.com,2.0,Central,140000.0
+ORD-1185,Priya Patel,45.0,Male,Jaipur,Customer Support,Headphones,4.0,3325.0,15.0,2025-11-06,In-Store,UPI,Returned,arjun.yadav185@example.com,4.0,North,13300.0
+ORD-1186,Rohan Malik,69.0,Female,Delhi,Customer Support,Headphones,1.0,2975.0,5.0,2025-12-09,Phone,Cash,Returned,aarav.rao186@example.com,1.0,West,2975.0
+ORD-1187,Nisha Patel,34.0,Female,Noida,Finance,Tablet,4.0,18000.0,15.0,2025-02-13,Phone,Cash,Pending,aditya.yadav187@example.com,5.0,Central,72000.0
+ORD-1188,Neha Malik,31.0,Female,Ghaziabad,Marketing,Phone,4.0,29400.0,10.0,2025-09-26,Partner,Debit Card,Cancelled,aarav.malik188@example.com,5.0,Central,117600.0
+ORD-1189,Meera Das,52.0,Female,Delhi,Customer Support,Printer,1.0,8075.0,5.0,2025-05-09,Online,Debit Card,Pending,rahul.bansal189@example.com,1.0,South,8075.0
+ORD-1190,Rahul Chopra,43.0,Other,Ghaziabad,IT,Headphones,3.0,3675.0,5.0,2025-05-20,Partner,Credit Card,,vikram.das190@example.com,2.0,West,11025.0
+ORD-1191,Sana Patel,66.0,Other,Hyderabad,Finance,Headphones,5.0,4025.0,15.0,2025-01-09,In-Store,Debit Card,Completed,sana.gupta191@example.com,5.0,Central,20125.0
+ORD-1192,Kabir Chopra,63.0,Male,Hyderabad,Operations,Laptop,4.0,63250.0,15.0,2025-05-25,In-Store,Debit Card,Cancelled,vikram.yadav192@example.com,4.0,Central,253000.0
+ORD-1193,Kabir Yadav,60.0,Male,Ghaziabad,Marketing,Phone,2.0,28000.0,10.0,2025-07-13,Online,Credit Card,Cancelled,kabir.malik193@example.com,1.0,West,56000.0
+ORD-1194,Rohan Mehta,24.0,Female,Delhi,HR,Mouse,2.0,1035.0,5.0,2025-07-14,Online,UPI,In Progress,aditya.rao194@example.com,1.0,South,2070.0
+ORD-1195,Neha Chopra,26.0,Other, Noida ,Customer Support,Keyboard,5.0,1530.0,20.0,2025-02-21,In-Store,Cash,Completed,neha.patel195@example.com,1.0,North,7650.0
+ORD-1196,Priya Chopra,22.0,Male,Delhi,Sales,Laptop,1.0,52250.0,15.0,2025-01-27,Partner,Net Banking,Returned,priya.yadav196@example.com,1.0,West,52250.0
+ORD-1197,Kabir Mehta,67.0,Other,Pune,Finance,Printer,3.0,8075.0,20.0,2025-08-22,In store,UPI,Pending,priya.khan197@example.com,3.0,West,24225.0
+ORD-1198,,60.0,Other,Noida,IT,Tablet,4.0,,25.0,2025-02-26,Phone,Net Banking,Cancelled,simran.verma198@example.com,5.0,West,72000.0
+ORD-1199,Sana Malik,52.0,Other,MUMBAI,IT,Tablet,2.0,18900.0,25.0,2025-03-21,Phone,Credit Card,Pending,,2.0,West,37800.0
+ORD-1200,Karan Khan,35.0,Other,Noida,HR,Keyboard,3.0,1530.0,15.0,16-Aug-2025, partner,Net Banking,Completed,pooja.reddy200@example.com,1.0,,4590.0
+ORD-1201,Ishaan Reddy,62.0,Other,Ghaziabad,Marketing,Laptop,3.0,63250.0,25.0,2025-03-23,Partner,Debit Card,Returned,aarav.yadav201@example.com,5.0,East,189750.0
+ORD-1202,Dev Bansal,67.0,Female,Chennai,Finance,Monitor,3.0,10200.0,15.0,2025-08-15,Phone,Cash,Returned,rohan.verma202@example.com,3.0,,30600.0
+ORD-1203,Ishaan Mehta,47.0,Female,Chennai,Customer Support,Monitor,4.0,12000.0,15.0,2025-12-03,In-Store,,Completed,kabir.patel203@example.com,1.0,North,48000.0
+ORD-1204,Meera Yadav,46.0,Other,Ghaziabad,Sales,Laptop,3.0,57750.0,5.0,2025-06-07,online,Cash,Completed,rohan.chopra204@example.com,5.0,North,173250.0
+ORD-1205,Meera Das,34.0,Female,Bengaluru,Operations,Mouse,3.0,765.0,-10.0,2025-04-30,Online,Credit Card,Cancelled,,1.0,West,2295.0
+ORD-1206,Aditya Patel,56.0,Male,Hyderabad,Marketing,Headphones,3.0,3325.0,20.0,2025-12-31,In-Store,Net Banking,Returned,pooja.chopra206@example.com,,Central,9975.0
+ORD-1207,Dev Rao,39.0,Other,Hyderabad,Marketing,Keyboard,1.0,1710.0,10.0,2025-08-22,Phone,Net Banking,Cancelled,vikram.singh207@example.com,5.0,East,1710.0
+ORD-1208,Karan Bansal,48.0,,Chennai,Marketing,Printer,2.0,8500.0,0.0,2025-12-26,In-Store,Net Banking,Returned,priya.joshi208example.com,1.0,East,17000.0
+ORD-1209,Aisha Yadav,60.0,Female,Pune,IT,Mouse,3.0,900.0,15.0,2025-05-30,Online,Debit Card,Completed,arjun.rao209@example.com,5.0,East,2700.0
+ORD-1210,Nisha Joshi,27.0,Male,Chennai,IT,Phone,1.0,23800.0,0.0,2025-10-05,Online,Credit Card,Returned,,4.0,North,125173.0
+ORD-1211,Aditya Sharma,,Other,Mumbai,Marketing,Laptop,,63250.0,15.0,2025-08-01,Phone,Credit Card,Pending,aisha.reddy211@example.com,,North,63250.0
+ORD-1212,Rohan Sharma,47.0,Male,Lucknow,Customer Support,Headphones,3.0,3675.0,,2025-11-22,Phone,Net Banking,Completed,simran.patel212@example.com,5.0,West,"₹11,025.00"
+ORD-1213,Nisha Chopra,64.0,Female,Lucknow,IT,Mouse,1.0,765.0,25.0,2025-08-07,,Net Banking,Pending,dev.patel213@example.com,4.0,North,765.0
+ORD-1214,Meera Sharma,35.0,Female,Lucknow,HR,Tablet,1.0,,5.0,2025-09-17,Phone,Net Banking,COMPLETE,,,West,"₹18,000.00"
+ORD-1215,Rahul Das,54.0,Male,Mumbai,Sales,,1.0,63250.0,25.0,2025-06-23,Online,Debit Card,Pending,ananya.reddy215@example.com,1.0,North,63250.0
+ORD-1216,Kabir Patel,50.0,Other,Lucknow,Sales,Headphones,1.0,3500.0,5.0,04-Dec-2025,In store,Debit Card,Cancelled,missing-at-symbol.example.com,5.0,West,3500.0
+ORD-1217,Vikram Chopra,28.0,Female,GHAZIABAD,Sales,Printer,4.0,7225.0,0.0,2025-11-27,Partner,UPI,completed,karan.das217@example.com,,East,28900.0
+ORD-1218,,55.0,Male,Ghaziabad,Operations,Keyboard,4.0,1800.0,5.0,2025-02-26,Partner,Debit Card,Pending,dev.mehta218@example.com,3.0,South,7200.0
+ORD-1219,Aarav Gupta,69.0,Male,Hyderabad,Marketing,Printer,5.0,7225.0,20.0,2025-09-25,In-Store,Debit Card,Cancelled,arjun.yadav219@example.com,1.0,South,36125.0
+ORD-1220,Ananya Rao,59.0,Male,Lucknow,HR,Headphones,5.0,3675.0,10.0,2025-05-19,Partner,UPI,,,4.0,Central,18375.0
+ORD-1221,Aisha Malik,63.0,Female,Hyderabad,Sales,Phone,3.0,28000.0,10.0,2025-02-02,In-Store,Net Banking,Cancelled,rohan.singh221@example.com,3.0,South,84000.0
+ORD-1222,Ishaan Rao,19.0,Female,Jaipur,Customer Support,Headphones,1.0,3675.0,5.0,2025-07-09,Phone,,Completed,meera.bansal222@example.com,4.0,East,3675.0
+ORD-1223,,25.0,Male,Lucknow,IT,Phone,2.0,26600.0,10.0,2025-02-25,Online,Credit Card,Pending,aisha.reddy223@example.com,3.0,East,53200.0
+ORD-1224,Aisha Das,34.0,Female,Hyderabad,HR,Tablet,2.0,18000.0,20.0,2025-01-12,Online,Debit Card,Completed,sana.patel224@example.com,2.0,East,36000.0
+ORD-1225,Aarav Gupta,62.0,Female,Bengaluru,HR,Monitor,2.0,12600.0,0.0,2025-10-23,Online,Net Banking,Returned,pooja.gupta225@example.com,5.0,East,25200.0
+ORD-1226,Aditya Chopra,35.0,Male,,HR,Laptop,4.0,46750.0,5.0,2025-10-13,Partner,Cash,Pending,pooja.yadav226@example.com,,West,
+ORD-1227,Dev Sharma,37.0,Female, Chennai ,Finance,Printer,2.0,,15.0,2025-12-25,Online,Net Banking,Pending,priya.chopra227@example.com,1.0,North,"₹19,550.00"
+ORD-1228,,18.0,Female, Mumbai ,Customer Support,Monitor,1.0,10200.0,5.0,2025-11-04,Mobile app,UPI,Completed,vikram.sharma228@example.com,4.0,Central,10200.0
+ORD-1229,Aarav Verma,47.0,Female,Delhi,Customer Support,Tablet,5.0,18900.0,20.0,2025-07-03,Phone,Cash,Cancelled,nisha.patel229@example.com,,East,49943.0
+ORD-1230,Rohan Singh,39.0,Other,Jaipur,IT,Headphones,4.0,"2,975.00",5.0,2025-06-13,Phone,Cash,Cancelled,vikram.khan230@example.com,4.0,South,11900.0
+ORD-1231,Kavya Patel,55.0,Other,Pune,Marketing,Laptop,1.0,55000.0,15.0,2025-05-24,Phone,Credit Card,Pending,arjun.gupta231@example.com,3.0,South,55000.0
+ORD-1232,Aisha Gupta,23.0,Other,Delhi,HR,Mouse,2.0,900.0,5.0,20/06/2025,Online,UPI,Cancelled,,4.0,North,1800.0
+ORD-1233,Nisha Patel,53.0,Other,Hyderabad,Sales,Monitor,3.0,12000.0,,2025-02-15,,Cash,Cancelled,vikram.das233@example.com,1.0,West,36000.0
+ORD-1234,Sana Gupta,45.0,Male,Mumbai,Finance,Mouse,3.0,945.0,20.0,2025-12-29,Phone,Net Banking,Completed,kabir.das234@example.com,2.0,North,2835.0
+ORD-1235,Neha Sharma,68.0,Male,,Marketing,Printer,1.0,8925.0,10.0,2025-04-07,In-Store,Cash,Completed,meera.singh235@example.com,2.0,North,8925.0
+ORD-1236,Nisha Gupta,36.0,,,Sales,Monitor,5.0,12000.0,15.0,,Online,Credit Card,Completed,neha.yadav236@example.com,3.0,Central,60000.0
+ORD-1237,Pooja Mehta,67.0,Male,Delhi,Operations,Printer,2.0,7225.0,0.0,2025-07-04,Phone ,Net Banking,Cancelled,sana.bansal237@example.com,1.0,East,14450.0
+ORD-1238,Pooja Singh,21.0,Other,Pune,Sales,Headphones,1.0,3675.0,25.0,2025-10-22,Partner,Debit Card,Cancelled,aarav.verma238@example.com,2.0,West,3675.0
+ORD-1239,Dev Yadav,60.0,Female,Lucknow,Operations,Laptop,1.0,57750.0,10.0,2025-10-09,Online,Net Banking,Pending,nisha.reddy239@example.com,5.0,North,57750.0
+ORD-1240,Nisha Gupta,63.0,Female,Delhi,Customer Support,Monitor,4.0,12000.0,5.0,2025-04-07,In-Store,Cash,completed,karan.reddy240@example.com,,South,48000.0
+ORD-1241,Sana Patel,37.0,female ,Delhi,Marketing,Keyboard,4.0,1530.0,20.0,2025-06-02,In-Store,Net Banking,Returned,kavya.reddy241@example.com,3.0,Central,6120.0
+ORD-1242,Aarav Yadav,44.0,Other,Lucknow,operations,Tablet,-3.0,18900.0,0.0,2025-12-20,Online,Cash,Returned,kavya.khan242@example.com,2.0,Central,94500.0
+ORD-1243,Ananya Bansal,67.0,Male,Hyderabad,Sales ,Keyboard,2.0,1710.0,10.0,2025-04-07,Phone,Credit Card,Completed,ishaan.joshi243@example.com,1.0,Central,3420.0
+ORD-1244,Neha Patel,21.0,Female,HYDERABAD,Sales,Laptop,1.0,55000.0,10.0,2025-07-06,Partner,Credit Card,Cancelled,neha.khan244@example.com,2.0,South,55000.0
+ORD-1245,Sana Reddy,42.0,Male,Ghaziabad,Sales,Keyboard,1.0,1710.0,20.0,2025-09-20,Partner,Net Banking,Pending,ishaan.bansal245@example.com,2.0,East,1710.0
+ORD-1051,Simran Verma,48.0,, Noida ,Customer Support,Printer,4.0,9775.0,10.0,2025-02-02,In-Store,Credit Card,Pending,aisha.reddy246@example.com,4.0,East,39100.0
+ORD-1247,Simran Patel,43.0,Other,Noida,Sales,Phone,2.0,28000.0,15.0,,Online,UPI,Returned,rohan.gupta247@example.com,3.0,West,167458.0
+ORD-1248,Simran Yadav,,,Pune,Sales,Laptop,3.0,57750.0,25.0,2025-12-13,In-Store,Cash,Pending,person@,3.0,South,173250.0
+ORD-1249,Arjun Patel,53.0,Female,MUMBAI,Marketing,Laptop,5.0,55000.0,20.0,2025/05/15,In-Store,Credit Card,Returned,ishaan.gupta249@example.com,2.0,South,275000.0
+ORD-1250,Aarav Gupta,33.0,Female, Bengaluru ,Customer Support,Keyboard,,2070.0,5.0,2025-10-09,Phone,UPI,Cancelled,karan.yadav250@example.com,2.0,North,8280.0
+ORD-1251,Arjun Chopra,60.0,Female,Delhi,Sales,Monitor,4.0,13800.0,10.0,2025-09-12,Phone,UPI,Completed,dev.yadav251@example.com,1.0,East,55200.0
+ORD-1252,Kavya Das,67.0,Female,Pune,Operations,Mouse,1.0,1035.0,15.0,2025-11-14,Partner,Debit Card,Cancelled,aarav.sharma252@example.com,1.0,East,1035.0
+ORD-1253,Pooja Das,43.0,Female,Delhi,Marketing,Phone,4.0,23800.0,25.0,2025-11-11,In-Store,Net Banking,Returned,ishaan.patel253@example.com,4.0,North,95200.0
+ORD-1254,Priya Khan,32.0,Male,Mumbai,Customer Support,Printer,3.0,8925.0,0.0,2025-10-06,Phone,Debit Card,Returned,vikram.singh254@example.com,4.0,South,26775.0
+ORD-1255,Rahul Sharma,65.0,Male,Chennai,Operations,Laptop,4.0,46750.0,25.0,2025-09-23,Partner,Credit Card,Cancelled,vikram.mehta255@example.com,2.0,East,187000.0
+ORD-1256,Pooja Mehta,47.0,Female,Bengaluru,Mktg,Monitor,5.0,10200.0,15.0,2025-04-29,Partner,Net Banking,Cancelled,aditya.verma256@example.com,2.0,South,51000.0
+ORD-1257,Rohan Singh,32.0,Male,Mumbai,Operations,Phone,1.0,29400.0,20.0,2025-05-09,Phone ,Net Banking,Cancelled,aditya.sharma257@example.com,5.0,North,"₹29,400.00"
+ORD-1258,Neha Patel,39.0,Other,Hyderabad,Marketing,Monitor,1.0,"12,600.00",0.0,30-Jan-2025,Online,UPI,Returned,kabir.mehta258@example.com,5.0,East,12600.0
+ORD-1259,Ishaan Khan,57.0,Female,Delhi,HR,Monitor,1.0,11400.0,5.0,2025-10-29,Partner,Cash,Pending,kavya.joshi259@example.com,4.0,North,"₹11,400.00"
+ORD-1260,Arjun Malik,68.0, unknown,DELHI,Operations,Phone,2.0,29400.0,0.0,2025-01-26,Online,Cash,COMPLETE,dev.rao260@example.com,1.0,North,58800.0
+ORD-1261,Arjun Rao,56.0,Male,Pune,Finance,Laptop,2.0,63250.0,20.0,2025-01-21,In-Store,Credit Card,Cancelled,simran.mehta261@example.com,1.0,East,126500.0
+ORD-1262,Kavya Rao,68.0,Male,Bengaluru,Finance,Printer,5.0,8500.0,0.0,2025-02-24,Partner,UPI,Returned,karan.malik262@example.com,4.0,South,42500.0
+ORD-1263,Ishaan Mehta,32.0,Female,Pune,IT,Monitor,5.0,10200.0,20.0,2025-05-14,In-Store,Net Banking,cancelled ,simran.gupta263@example.com,1.0,North,51000.0
+ORD-1264,Kavya Khan,41.0,Other,Chennai,Operations,Headphones,5.0,3325.0,0.0,2025/08/08,web,Debit Card,Completed,kavya.sharma264@example.com,1.0,North,143314.0
+ORD-1265,Neha Sharma,35.0,Other,Mumbai,Sales,Headphones,2.0,2975.0,25.0,2025-12-27,Phone,Credit Card,Cancelled,aditya.gupta265@example.com,3.0,North,5950.0
+ORD-1266,Nisha Patel,39.0,Male,Lucknow,Sales,Keyboard,2.0,1530.0,10.0,28-Dec-2025,,Net Banking,Returned,vikram.yadav266@example.com,4.0,West,3060.0
+ORD-1267,Vikram Patel,45.0,Female,Ghaziabad,IT,Printer,,8075.0,25.0,2025/10/22,In-Store,Debit Card,Cancelled,arjun.malik267@example.com,5.0,Central,24225.0
+ORD-1268,Karan Mehta,36.0,Male,HYDERABAD,Marketing,Monitor,3.0,10200.0,25.0,2025-07-16,Phone,UPI,Completed,simran.bansal268@example.com,4.0,North,30600.0
+ORD-1269,Aditya Verma,26.0,Other,Chennai,Operations,Phone,1.0,29400.0,0.0,2025-10-07,Online,UPI,Returned,aditya.das269@example.com,2.0,West,29400.0
+ORD-1270,Simran Joshi,42.0,Male,Chennai,HR,Headphones,1.0,4025.0,5.0,2025-09-20,Partner,UPI,Returned,ananya.das270@example.com,3.0,East,4025.0
+ORD-1271,Sana Khan,,Male,Noida,Finance,Headphones,4.0,3325.0,10.0,2025-12-31,In-Store,Cash,Returned,priya.sharma271@example.com,3.0,East,13300.0
+ORD-1272,Ishaan Das,50.0,Other,Mumbai,HR,Keyboard,5.0,1890.0,5.0,2025-08-02,Partner,Net Banking,Returned,karan.joshi272@example.com,1.0,West,9450.0
+ORD-1273,Aditya Mehta,69.0,Other,Lucknow,HR,Laptop,4.0,46750.0,5.0,2025-04-10,Online,Credit Card,Returned,ananya.patel273@example.com,1.0,West,187000.0
+ORD-1274,Nisha Joshi,33.0,Female,Ghaziabad,Finance,Headphones,5.0,3325.0,25.0,05/08/2025,Partner,UPI,Returned,meera.mehta274@example.com,2.0,South,16625.0
+ORD-1275,Meera Khan,26.0,Female,Chennai,Customer Support,Laptop,2.0,57750.0,10.0,2025-02-22,Phone,Cash,Completed,karan.verma275@example.com,2.0,South,115500.0
+ORD-1276,Aditya Yadav,60.0,Other,Lucknow,Sales,Headphones,1.0,4025.0,25.0,2025-05-20,Phone,Cash,Cancelled,ananya.reddy276@example.com,1.0,North,4025.0
+ORD-1277,Rahul Mehta,70.0,Female,Noida,Marketing,Printer,5.0,9775.0,20.0,2025-11-19,Partner,Net Banking,Pending,ananya.sharma277@example.com,4.0,West,48875.0
+ORD-1278,Dev Singh,62.0,Male,Lucknow,,Printer,4.0, INR 8500.0 ,15.0,2025-10-30,Partner,UPI,Returned,pooja.das278@example.com,5.0,East,34000.0
+ORD-1279,Neha Verma,55.0,Male,Hyderabad,Operations,Monitor,4.0,13800.0,10.0,2025-02-13,Online,UPI,Completed,karan.joshi279example.com,5.0,South,55200.0
+ORD-1280,Aditya Gupta,58.0,Female,Bengaluru,Customer Support,Phone,2.0,26600.0,10.0,2025-07-25,Online,Cash,Cancelled,aarav.bansal280@example.com,5.0,Central,53200.0
+ORD-1281,Rahul Das,45.0,Other,Lucknow,Sales,Mouse,2.0,900.0,0.0,2025-13-40,Partner,Cash,Returned,ananya.yadav281@example.com,,South,1800.0
+ORD-1282,Ishaan Mehta,18.0,Female,Lucknow,IT,Laptop,2.0,63250.0,20.0,2025-07-06,Online,UPI,Returned,simran.gupta282@example.com,1.0,Central,126500.0
+ORD-1283,Karan Singh,47.0,Female,Bengaluru,Finance,Phone,3.0,29400.0,0.0,2025-04-27,,,Cancelled,ishaan.singh283@example.com,3.0,West,88200.0
+ORD-1284,Neha Reddy,64.0,Male,Jaipur,Human Resources,Laptop,-3.0,52250.0,15.0,2025-04-06,Phone,UPI,Returned,vikram.mehta284@example.com,4.0,West,261250.0
+ORD-1285,Dev Verma,42.0,Female,Delhi,Customer Support,Monitor,2.0,12000.0,10.0,2025-01-16,Online,Net Banking,Returned,rahul.yadav285@example.com,3.0,Central,24000.0
+ORD-1286,Neha Malik,60.0,Other,Chennai,Sales,Keyboard,2.0,1530.0,0.0,2025-08-15,Partner,Credit Card,Completed,neha.rao286@example.com,2.0,North,3060.0
+ORD-1287,Rahul Reddy,-5.0,Female,Bengaluru,Marketing,Phone,4.0,"26,600.00",5.0,2025-01-02,In-Store,UPI,Pending,simran.yadav287@example.com,4.0,Central,106400.0
+ORD-1288,Aditya Singh,56.0,Other,Pune,Sales,Mouse,4.0,1035.0,10.0,2025-02-15,In-Store,Cash,Cancelled,kavya.chopra288@example.com,3.0,East,4140.0
+ORD-1289,Dev Yadav,44.0,Male,Mumbai,Marketing,Mouse,5.0,900.0,10.0,2025-06-16,Phone,Cash,Completed,pooja.das289@example.com,1.0,South,4500.0
+ORD-1290,Arjun Mehta,34.0,Other,Delhi,Marketing,Printer,2.0,9775.0,150.0,2025-10-27,In-Store,Credit Card,Completed,meera.rao290@example.com,3.0,Central,
+ORD-1291,Karan Chopra,36.0,Male,Lucknow,Customer Support,Printer,5.0,8075.0,25.0,2025-11-17,Phone,UPI,Pending,dev.joshi291@example.com,2.0,South,40375.0
+ORD-1292,Nisha Verma,49.0,Female,Jaipur,Customer Support,Tablet,1.0,18900.0,15.0,2025-03-30,Phone,Net Banking,pendng,ananya.reddy292@example.com,2.0,East,18900.0
+ORD-1293,Meera Khan,55.0,Other,Jaipur,Operations,Phone,4.0,26600.0,25.0,2025-10-28,Phone,Credit Card,Cancelled,neha.singh293@example.com,5.0,Central,106400.0
+ORD-1294,Aarav Das,27.0,Other,Delhi,Customer Support,Mouse,2.0,1035.0,5.0,2025/10/19,In-Store,Credit Card,Cancelled,meera.yadav294@example.com,1.0,East,"2,070.00"
+ORD-1295,Kabir Joshi,46.0,Male,Ghaziabad,Marketing,Printer,5.0,8075.0,5.0,2025-05-24,Partner,Net Banking,Pending,karan.gupta295@example.com,3.0,South,40375.0
+ORD-1296,Meera Bansal,50.0,Male,Ghaziabad,HR,Monitor,1.0,12000.0,10.0,2025-10-22,Phone ,Credit Card,Returned,kavya.reddy296@example.com,2.0,South,128242.0
+ORD-1297,Vikram Mehta,24.0,Female,Ghaziabad,Operations,Monitor,3.0,11400.0,20.0,2025-08-01,Phone,UPI,Pending,aisha.rao297@example.com,3.0,Central,34200.0
+ORD-1298,Aisha Singh,59.0,,Hyderabad,Marketing,Phone,2.0,23800.0,20.0,2025-08-01,Phone,UPI,Pending,sana.mehta298@example.com,1.0,,47600.0
+ORD-1299,Vikram Chopra,44.0,Other,Mumbai,Marketing,Monitor,2.0,10200.0,20.0,2025-11-16,Partner,Debit Card,Completed,karan.gupta299@example.com,5.0,Central,"20,400.00"
+ORD-1300,Aarav Gupta,56.0,Other,Lucknow,operations,Mouse,5.0,945.0,0.0,07-14-2025,In-Store,Debit Card,Cancelled,ishaan.patel300@example.com,6.0,North,4725.0
+ORD-1301,Priya Patel,33.0,Male,Jaipur,Sales,Mouse,3.0,1035.0,0.0,2025-12-21,Partner,Cash,Completed,person@,,Central,3105.0
+ORD-1302,Arjun Mehta,66.0,Other,Bengaluru,IT,Laptop,3.0,55000.0,20.0,2025-07-23,In-Store,Debit Card,Completed,neha.yadav302@example.com,5.0,West,165000.0
+ORD-1303,Arjun Bansal,65.0,Male,Ghaziabad,IT,Phone,2.0, INR 23800.0 ,5.0,2025-05-24,Phone,UPI,Pending,kavya.singh303@example.com,3.0,East,47600.0
+ORD-1304,Neha Malik,,Female,CHENNAI,Sales,Phone,4.0,23800.0,5.0,2025-07-13,Partner,Debit Card,Completed,vikram.yadav304@example.com,5.0,South,95200.0
+ORD-1305,,58.0,Female,Chennai,Sales,Headphones,3.0,2975.0,25.0,2025-03-17,Online,UPI,Returned,arjun.rao305@example.com,1.0,North,8925.0
+ORD-1306,Karan Bansal,44.0,Other,Lucknow,HR,Printer,3.0,8500.0,15.0,,Phone,Debit Card,Returned,pooja.bansal306@example.com,4.0,North,25500.0
+ORD-1307,Kavya Chopra,44.0,Female,Delhi,HR,Tablet,3.0,15300.0,0.0,2025-01-27,Partner,Cash,Cancelled,neha.khan307@example.com,2.0,West,"45,900.00"
+ORD-1308,Vikram Yadav,49.0,Female,Noida,it,Printer,2.0,7225.0,15.0,2025-01-18,Phone,UPI,Pending,arjun.khan308@example.com,3.0,North,14450.0
+ORD-1309,Vikram Gupta,0.0,Male,Ghaziabad,HR,Laptop,4.0,46750.0,5.0,2025-08-21,Phone,Net Banking,Returned,kavya.chopra309@example.com,3.0,South,187000.0
+ORD-1310,Sana Yadav,29.0,,Jaipur,Operations,Headphones,3.0,3675.0,0.0,,Phone,Debit Card,Returned,simran.gupta310@example.com,3.0,West,11025.0
+ORD-1311,Aarav Mehta,50.0, unknown,Pune,HR,Headphones,4.0,3325.0,15.0,,Online,Credit Card,Completed,rahul.singh311@example.com,3.0,West,"₹13,300.00"
+ORD-1312,Aarav Sharma,28.0,Other,Bengaluru,HR,Phone,4.0,32200.0,10.0,2025-03-02,Online,Debit Card,Completed,sana.joshi312@example.com,3.0,South,128800.0
+ORD-1313,Rohan Bansal,57.0,Male,Noida,HR,Keyboard,4.0,1710.0,15.0,2025-06-08,Online,Cash,In Progress,nisha.chopra313@example.com,5.0,West,6840.0
+ORD-1314,Aditya Rao,45.0,Other,Mumbai,Marketing,Monitor,1.0,11400.0,25.0,2025-03-22,In-Store,Debit Card,Pending,vikram.rao314@example.com,4.0,West,
+ORD-1315,Sana Singh,45.0,Female,Noida,Sales,Mouse,2.0,1035.0,5.0,2025-08-26,Partner,Credit Card,Pending,arjun.reddy315@example.com,4.0,South,2070.0
+ORD-1316,Simran Patel,,Male,Delhi,Operations,Phone,4.0,26600.0,20.0,2025-08-03,In-Store,Net Banking,Pending,neha.reddy316@example.com,10.0,Central,106400.0
+ORD-1317,Neha Chopra,42.0,Female,Chennai,Finance,Tablet,3.0,18000.0,5.0,2025-10-04,Phone,UPI,Pending,nisha.reddy317@example.com,4.0,East,54000.0
+ORD-1318,Kabir Reddy,62.0, unknown,Jaipur,IT,Tablet,2.0,18000.0,15.0,2025-02-08,Phone,Credit Card,Cancelled,vikram.sharma318@example.com,4.0,West,36000.0
+ORD-1319,Kabir Patel,66.0,,Jaipur,Marketing,Monitor,5.0,"₹10,200.00",0.0,2025-01-08,In-Store,UPI,Pending,ishaan.mehta319@example.com,3.0,North,51000.0
+ORD-1320,Ishaan Joshi,34.0,Male,Pune,Finance,Phone,1.0,23800.0,5.0,2025-02-04,Online,Debit Card,Return,sana.chopra320@example.com,2.0,North,23800.0
+ORD-1321,Simran Chopra,48.0,Female,Noida,HR,Phone,,23800.0,15.0,2025-02-23,In store,Net Banking,Completed,meera.chopra321@example.com,3.0,South,95200.0
+ORD-1322,Rohan Gupta,41.0,Other,Hyderabad,Marketing,Keyboard,5.0,1800.0,10.0,2025-06-03,Partner,Debit Card,Pending,aisha.das322@example.com,2.0,Central,9000.0
+ORD-1323,Meera Joshi,-5.0,Other,Jaipur,Marketing,Laptop,3.0,55000.0,15.0,2025-12-03,Phone,UPI,Returned,rohan.reddy323@example.com,2.0,North,165000.0
+ORD-1324,Simran Sharma,125.0,Other,Ghaziabad,Customer Support,Phone,5.0,26600.0,15.0,2025-11-08,Online,Cash,Completed,rohan.malik324@example.com,4.0,North,133000.0
+ORD-1325,Kabir Joshi,43.0,Female,Hyderabad,HR,Keyboard,1.0,1710.0,15.0,2025-09-07,Phone,Debit Card,Completed,karan.joshi325@example.com,4.0,Central,1710.0
+ORD-1326,Dev Singh,55.0,Male,Chennai,Marketing,Mouse,5.0,945.0,15.0,2025-06-22,Online,UPI,Cancelled,aditya.patel326@example.com,1.0,Central,4725.0
+ORD-1327,Dev Reddy,24.0,Male,Lucknow,,Phone,5.0,29400.0,0.0,2025-04-14,Partner,Net Banking,Cancelled,karan.khan327@example.com,1.0,West,147000.0
+ORD-1328,Pooja Mehta,28.0,male,Noida,Marketing,Phone,1.0,28000.0,15.0,2025-11-30,Online,Credit Card,Completed,aisha.bansal328@example.com,1.0,West,28000.0
+ORD-1329,Dev Joshi,23.0,Male,CHENNAI,Finance,Printer,4.0,"9,775.00",10.0,2025-02-06,In-Store,Cash,,ananya.joshi329@example.com,5.0,North,39100.0
+ORD-1330,,31.0,Other,Chennai,Finance,Monitor,,10200.0,10.0,2025-08-26,Partner,UPI,Returned,aisha.malik330@example.com,2.0,West,20400.0
+ORD-1331,Aditya Singh,57.0,,Ghaziabad,HR,Printer,,7225.0,5.0,2025-08-12,Online,Net Banking,Completed,sana.sharma331@example.com,5.0,East,28900.0
+ORD-1332,Rahul Yadav,67.0,Other,Mumbai,IT,Phone,5.0,26600.0,25.0,2025-08-11,,Cash,Returned,aarav.mehta332@example.com,5.0,West,133000.0
+ORD-1333,Pooja Verma,50.0,Other,Noida,HR,Phone,1.0,32200.0,10.0,2025-12-24,Online,Credit Card,Returned,priya.verma333@example.com,2.0,West,32200.0
+ORD-1334,Ishaan Verma,58.0,Other,Bengaluru,IT,Keyboard,4.0,1800.0,5.0,2025-02-10,Partner,Debit Card,Cancelled,kabir.malik334@example.com,3.0,South,7200.0
+ORD-1335,Vikram Verma,48.0,Male,Pune,Marketing,Mouse,5.0,945.0,,2025-12-13,In-Store,Credit Card,,missing-at-symbol.example.com,1.0,East,4725.0
+ORD-1336,Meera Singh,63.0,Other,DELHI,HR,Tablet,1.0,18000.0,15.0,2025-02-21,In-Store,Debit Card,Cancelled,meera.sharma336@example.com,2.0,South,18000.0
+ORD-1337,Rohan Malik,56.0,Female,,Sales,Phone,2.0,23800.0,5.0,2025-12-26,Online,Debit Card,Returned,simran.gupta337@example.com,2.0,Central,47600.0
+ORD-1338,Meera Yadav,29.0,Other,,Finance,Headphones,4.0,3500.0,5.0,2025-06-13,Phone,Net Banking,,pooja.patel338@example.com,2.0,Central,14000.0
+ORD-1339,Aarav Yadav,50.0,Female,Jaipur,Finance,Laptop,3.0,63250.0,10.0,2025-08-25,Phone,UPI,,aditya.patel339@example.com,3.0,South,189750.0
+ORD-1340,Rohan Patel,26.0,Other,Hyderabad,IT,Keyboard,2.0,2070.0,0.0,2025-06-11,In-Store,Cash,Pending,aisha.khan340@example.com,1.0,West,4140.0
+ORD-1341,Arjun Chopra,21.0,Other,,Operations,Monitor,1.0,11400.0,-10.0,01-06-2025,Phone ,,Cancelled,aisha.gupta341@example.com,1.0,West,11400.0
+ORD-1342,Vikram Patel,125.0,Male,Bengaluru,HR,Keyboard,1.0,1890.0,5.0,2025-04-08,ONLINE,Cash,Cancelled,arjun.singh342@example.com,5.0,South,1890.0
+ORD-1343,Pooja Bansal,38.0,Other,Mumbai,Customer Support,Monitor,3.0,12600.0,5.0,2025-07-19,Partner,Credit Card,Cancelled,rohan.reddy343@example.com,5.0,North,37800.0
+ORD-1344,Rahul Patel,26.0,Male,Chennai,Customer Support,Laptop,2.0,52250.0,5.0,2025-05-23,Online,UPI,Cancelled,dev.yadav344@example.com,2.0,West,104500.0
+ORD-1345,Dev Das,41.0,Male,Delhi,Human Resources,Mouse,1.0,900.0,5.0,2025-05-01,,Net Banking,Pending,meera.malik345@example.com,3.0,West,900.0
+ORD-1346,Ananya Khan,58.0,Other,Jaipur,it,Monitor,1.0,12000.0,25.0,2025-08-19,In-Store,Net Banking,Completed,karan.singh346@example.com,5.0,South,12000.0
+ORD-1347,Aisha Khan,32.0,Female,Bengaluru,Sales,Monitor,0.0,10200.0,15.0,2025-03-11,Phone,Net Banking,COMPLETE,rohan.reddy347@example.com,2.0,Central,40800.0
+ORD-1348,Neha Malik,44.0,Other,Lucknow,Operations,Laptop,3.0,57750.0,15.0,2025-01-16,Online,UPI,Cancelled,aarav.gupta348@example.com,1.0,South,173250.0
+ORD-1349,Priya Sharma,32.0,Other,Pune,HR,Phone,3.0,28000.0,0.0,2025-12-30,Phone,UPI,Returned,rohan.rao349@example.com,2.0,North,84000.0
+ORD-1350,Ishaan Gupta,60.0, unknown,Hyderabad,Marketing,Laptop,2.0,46750.0,,2025-08-07,In-Store,UPI,Completed,simran.sharma350@example.com,4.0,Central,93500.0
+ORD-1351,Rohan Chopra,68.0,,Delhi,Mktg,Tablet,3.0,18900.0,0.0,2025-12-25,Phone,UPI,Returned,vikram.verma351@example.com,1.0,North,56700.0
+ORD-1352,Neha Chopra,52.0,Other,Mumbai,HR,Laptop,3.0,63250.0,15.0,2025-08-09,Partner,Debit Card,Returned,,1.0,Central,189750.0
+ORD-1353,Aarav Mehta,51.0,Other,Ghaziabad,Marketing,Tablet,4.0,18900.0,20.0,2025-01-02,In-Store,Cash,Completed,aarav.sharma353@example.com,5.0,North,75600.0
+ORD-1354,Rohan Khan,48.0,Male,Bengaluru,Marketing,Mouse,5.0,765.0,15.0,2025-11-12,Online,Credit Card,Returned,sana.malik354@example.com,2.0,West,3825.0
+ORD-1355,Kavya Verma,47.0,Male,,Customer Support,Monitor,4.0,11400.0,15.0,2025-07-22,Partner,Credit Card,Cancelled,aditya.bansal355@example.com,4.0,West,45600.0
+ORD-1356,Priya Sharma,30.0,Male,Bengaluru,Sales,Printer,3.0,9775.0,25.0,2025-06-02,Online,Net Banking,Pending,ananya.malik356@example.com,5.0,West,29325.0
+ORD-1357,Simran Yadav,31.0,Female,Noida,Sales,Keyboard,5.0,1890.0,20.0,2025-02-23,In-Store,UPI,Pending,,3.0,Central,9450.0
+ORD-1358,Ananya Khan,59.0,Other,Chennai,HR,Headphones,1.0,3325.0,10.0,2025/09/11,Online,Credit Card,Returned,ishaan.mehta358@example.com,1.0,East,3325.0
+ORD-1359,Meera Verma,45.0,Male,Delhi,Sales,Laptop,2.0,46750.0,,2025-07-09,Partner,Credit Card,Pending,,4.0,South,93500.0
+ORD-1360,Dev Bansal,59.0,Male,Mumbai,Sales,Printer,4.0,9775.0,25.0,2025-07-25,Phone,Credit Card,Pending,,4.0,Central,39100.0
+ORD-1361,Arjun Joshi,39.0,Male,Chennai,Finance,Monitor,2.0,10200.0,20.0,2025-12-21,Online,Credit Card,Cancelled,,5.0,South,20400.0
+ORD-1362,Aarav Verma,26.0,Other,Bengaluru,Sales,Keyboard,2.0,1530.0,0.0,2025-01-16,In-Store,Cash,Pending,priya.patel362@example.com,3.0,North,3060.0
+ORD-1363,Ishaan Khan,67.0,Other,Hyderabad,HR,Headphones,5.0,3325.0,5.0,2025-12-14,Phone,Net Banking,Returned,kavya.malik363@example.com,3.0,Central, INR 16625.0 
+ORD-1364,Rohan Singh,68.0,Male,Noida,HR,Monitor,,12000.0,10.0,2025-07-14,Online,UPI,Pending,rohan.verma364@example.com,1.0,North,12000.0
+ORD-1365,Rohan Reddy,,Male,Mumbai,Finance,Mouse,5.0,765.0,10.0,2025-08-18,In-Store,Net Banking,Returned,dev.joshi365@example.com,3.0,East,3825.0
+ORD-1366,Meera Yadav,68.0,Female,Jaipur,Finance,Monitor,2.0,10200.0,0.0,2025-12-19,Online,UPI,Cancelled,sana.singh366@example.com,3.0,South,20400.0
+ORD-1367,Ishaan Sharma,66.0,Male,Bengaluru,Sales,Printer,5.0,7225.0,10.0,2025-09-20,Phone,Credit Card,Completed,rohan.chopra367@example.com,5.0,Central,36125.0
+ORD-1368,Kabir Singh,43.0,Male,Mumbai,Operations,Keyboard,3.0,1890.0,25.0,08-14-2025,Online,UPI,Completed,pooja.singh368@example.com,2.0,North,5670.0
+ORD-1369,Rohan Rao,47.0,Female,Bengaluru,Operations,Monitor,5.0,12600.0,25.0,2025-09-16,In-Store,UPI,Cancelled,simran.mehta369@example.com,3.0,South,63000.0
+ORD-1370,Aisha Sharma,125.0,Male,Pune,IT,Printer,1.0,8500.0,5.0,2025-04-11,In-Store,Credit Card,Returned,,5.0,South,8500.0
+ORD-1371,Dev Rao,37.0,Male,Mumbai,Sales,Keyboard,5.0,1530.0,20.0,2025-05-05,Phone,Debit Card,Returned,aditya.yadav371@example.com,1.0,East,7650.0
+ORD-1372,Simran Sharma,45.0,Male,Jaipur,Sales,Headphones,5.0,3325.0,0.0,2025-05-24,In-Store,Credit Card,Pending,not_an_email,3.0,East,16625.0
+ORD-1373,Ananya Malik,63.0,male,Mumbai,IT,Monitor,5.0,12000.0,5.0,2025-09-05,Phone,Cash,In Progress,rohan.singh373@example.com,4.0,South,60000.0
+ORD-1374,Meera Khan,37.0,Female,Delhi,Customer Support,Mouse,3.0,855.0,15.0,2025-08-25,Online,Cash,Cancelled,aarav.khan374@example.com,2.0,East,2565.0
+ORD-1375,Aisha Bansal,45.0,Female,Bengaluru,Customer Support,Monitor,4.0,12600.0,0.0,2025-01-04,In-Store,UPI,Cancelled,sana.bansal375@example.com,4.0,East,50400.0
+ORD-1376,Nisha Joshi,67.0,Other,Lucknow,,Phone,3.0,28000.0,0.0,2025-09-08,In-Store,Cash,Completed,meera.malik376@example.com,2.0,Central,84000.0
+ORD-1377,Simran Bansal,,Male,Ghaziabad,Sales,Laptop,4.0,52250.0,0.0,28/09/2025,Phone,Debit Card,Returned,simran.verma377@example.com,3.0,Central,209000.0
+ORD-1378,Aarav Bansal,61.0,Other,Pune,Finance,Keyboard,3.0,1800.0,10.0,2025-11-28,In-Store,Cash,Returned,,4.0,West,5400.0
+ORD-1379,Arjun Sharma,43.0,Male,Noida,Marketing,Phone,,28000.0,10.0,2025-07-06,Phone,UPI,Cancelled,dev.sharma379@example.com,1.0,Central,140000.0
+ORD-1380,,23.0,Female,Hyderabad,Marketing,Headphones,2.0,3500.0,10.0,05-05-2025,Phone,Net Banking,Completed,simran.bansal380@example.com,4.0,Central,7000.0
+ORD-1381,Ananya Joshi,65.0,Other,Pune,Marketing,Headphones,3.0,3675.0,20.0,2025-07-25,Online,UPI,Returned,nisha.singh381@example.com,3.0,South,11025.0
+ORD-1382,Ishaan Patel,58.0,Male,Delhi,Sales,Laptop,3.0, INR 55000.0 ,25.0,2025-08-06,In-Store,UPI,Cancelled,rohan.gupta382@example.com,1.0,,165000.0
+ORD-1383,Karan Rao,19.0,Other,Jaipur,Finance,Headphones,4.0,3325.0,15.0,2025-04-30,Online,UPI,Completed,ananya.chopra383@example.com,4.0,West,13300.0
+ORD-1384,Aarav Sharma,22.0,Other,Bengaluru,operations,Printer,2.0,7225.0,10.0,2025-11-26,Partner,Credit Card,Completed,meera.singh384@example.com,4.0,West,14450.0
+ORD-1385,Meera Singh,43.0,Male,Ghaziabad,Customer Support,Headphones,1.0,2975.0,20.0,2025-08-15,In-Store,Debit Card,Pending,pooja.joshi385@example.com,3.0,East,2975.0
+ORD-1386,Aditya Rao,40.0,Other,MUMBAI,Customer Support,Keyboard,2.0,1890.0,5.0,2025-06-07,Phone,Credit Card,Pending,ishaan.malik386@example.com,1.0,Central,3780.0
+ORD-1387,Ananya Yadav,29.0,Other,Hyderabad,Operations,Keyboard,5.0,1800.0,20.0,13-Sep-2025,Online,Net Banking,Pending,neha.joshi387@example.com,,North,9000.0
+ORD-1388,Meera Verma,48.0,Other,Bengaluru,Operations,Headphones,5.0,3500.0,20.0,2025-08-11,Partner,Credit Card,Pending,kabir.rao388@example.com,5.0,East,
+ORD-1389,,69.0,Other,Delhi,Finance,Keyboard,5.0,1710.0,20.0,2025-01-01,Mobile app,Debit Card,Cancelled,rahul.malik389@example.com,3.0,South,8550.0
+ORD-1390,Rohan Chopra,30.0,Other,Pune,Customer Support,Printer,3.0,8925.0,25.0,2025-09-16,Mobile app,Cash,Returned,aditya.khan390@example.com,1.0,East,26775.0
+ORD-1391,Rahul Bansal,62.0,F,Lucknow,IT,Headphones,5.0,3500.0,20.0,2025-07-10,Phone,Cash,Pending,aisha.verma391@example.com,5.0,North,17500.0
+ORD-1392,Sana Sharma,69.0,Male,Delhi,Finance,Headphones,2.0,4025.0,0.0,06-26-2025,Online,Net Banking,Returned,neha.yadav392@example.com,4.0,South,8050.0
+ORD-1393,Vikram Singh,36.0,Other,Ghaziabad,Finance,Keyboard,4.0,2070.0,15.0,2025-02-26,Partner,Debit Card,Completed,rohan.singh393@example.com,4.0,,8280.0
+ORD-1032,Ananya Verma,30.0,Other,Pune,Customer Support,Monitor,3.0,13800.0,15.0,2025-12-31,Phone,Credit Card,Pending,,-1.0,South,41400.0
+ORD-1395,Arjun Bansal,45.0,Female,Pune,Finance,Headphones,1.0,4025.0,15.0,2025-07-01,Phone,Net Banking,Returned,priya.bansal395@example.com,5.0,North,4025.0
+ORD-1396,Pooja Rao,18.0,Female,Lucknow,Operations,Printer,2.0,8075.0,5.0,2025-10-24,In-Store,UPI,Cancelled,nisha.khan396@example.com,2.0,South,16150.0
+ORD-1397,Kavya Gupta,25.0,Other,Pune,Marketing,Monitor,5.0,11400.0,20.0,2025-04-28,Phone,UPI,Completed,aarav.yadav397@example.com,4.0,West,57000.0
+ORD-1398,Meera Bansal,65.0,Other,Chennai,IT,Monitor,4.0,12000.0,0.0,2025-09-21,In-Store,Net Banking,Cancelled,@example.com,3.0,Central,48000.0
+ORD-1399,Sana Verma,31.0,Male,Pune,Customer Support,Tablet,1.0,17100.0,15.0,2025-10-22,Partner,Net Banking,Cancelled,ishaan.chopra399@example.com,2.0,East,17100.0
+ORD-1400,Aarav Mehta,70.0,Male,Pune,,Tablet,4.0,17100.0,20.0,2025-02-17,Online,Debit Card,Completed,vikram.patel400@example.com,4.0,North,68400.0
+ORD-1401,Meera Singh,45.0,Female,Delhi,Customer Support,Phone,2.0,26600.0,25.0,2025-08-28,Phone,Debit Card,Returned,kabir.gupta401@example.com,2.0,North,53200.0
+ORD-1402,Arjun Das,31.0,Male,Ghaziabad,Finance,Tablet,5.0,17100.0,0.0,2025-12-18,Partner,Debit Card,Returned,ishaan.joshi402@example.com,4.0,Central,85500.0
+ORD-1403,Rohan Khan,28.0,Male,Ghaziabad,Customer Support,Mouse,2.0,1035.0,15.0,2025-08-23,Phone,Net Banking,Pending,sana.joshi403@example.com,2.0,North,2070.0
+ORD-1404,Neha Rao,44.0,Female,Noida,Marketing,Headphones,3.0,2975.0,,2025-03-21,Online,UPI,Cancelled,aisha.khan404@example.com,3.0,North,8925.0
+ORD-1405,Vikram Gupta,32.0,Male,Pune,Customer Support,Headphones,4.0,3325.0,20.0,2025-05-08,In-Store,Cash,Completed,karan.singh405@example.com,3.0,South,13300.0
+ORD-1406,Arjun Khan,65.0,Female,Noida,Customer Support,Tablet,4.0,20700.0,15.0,2025-01-31,Online,Credit Card,Completed,karan.bansal406@example.com,3.0,Central,"₹82,800.00"
+ORD-1407,Neha Reddy,36.0,Male,Hyderabad,Sales,Mouse,2.0,855.0,25.0,2025-03-29,In-Store,UPI,Returned,simran.gupta407@example.com,5.0,West,1710.0
+ORD-1408,Karan Yadav,59.0,Other, Hyderabad ,IT,,4.0,15300.0,25.0,2025-05-07,Phone,Credit Card,Pending,simran.sharma408@example.com,1.0,West,61200.0
+ORD-1409,Dev Mehta,22.0,Male,Ghaziabad,Sales,Phone,1.0,32200.0,15.0,2025-06-05,In-Store,,Cancelled,@example.com,2.0,South,32200.0
+ORD-1410,Rahul Verma,59.0,Female,Bengaluru,Operations,Laptop,4.0,52250.0,25.0,not available,In-Store,Credit Card,Pending,kavya.sharma410@example.com,3.0,North,209000.0
+ORD-1411,Priya Patel,40.0,Female,Chennai,HR,Monitor,1.0,12600.0,15.0,2025-11-19,online,UPI,Completed,aisha.singh411@example.com,2.0,West,12600.0
+ORD-1412,Dev Bansal,27.0,Other,Chennai,Customer Support,Monitor,5.0,13800.0,15.0,2025-09-25,Partner,Cash,Cancelled,simran.rao412@example.com,2.0,West,69000.0
+ORD-1413,Kavya Mehta,26.0,Female,Lucknow,Finance,Headphones,3.0,4025.0,20.0,2025-12-08,Partner,UPI,Pending,missing-at-symbol.example.com,4.0,West,12075.0
+ORD-1414,Kavya Malik,,Other,Lucknow,Customer Support,Printer,5.0,8925.0,5.0,2025-04-01,Partner,Debit Card,Returned,aisha.joshi414@example.com,5.0,North,44625.0
+ORD-1415,Sana Malik,68.0,Other,Ghaziabad,Finance,,4.0,8075.0,,2025-04-04,Online,Debit Card,completed,aarav.rao415@example.com,5.0,East,32300.0
+ORD-1416,Vikram Patel,63.0,Other,Ghaziabad,IT,,1.0,46750.0,15.0,2025-09-19,Phone ,Cash,Completed,dev.mehta416@example.com,4.0,East,46750.0
+ORD-1417,Meera Gupta,43.0,Male,Bengaluru,Marketing,Headphones,1.0,3675.0,0.0,2025-06-19,Partner,Credit Card,Completed,ananya.chopra417@example.com,3.0,South,3675.0
+ORD-1418,Aditya Sharma,40.0,Other,Jaipur,Finance,,3.0,52250.0,5.0,2025-04-01,In-Store,Credit Card,Returned,,4.0,Central,156750.0
+ORD-1419,Aisha Rao,42.0,Other,Hyderabad,Finance,Printer,2.0,8500.0,10.0,,Phone,Net Banking,Completed,aditya.yadav419@example.com,1.0,Central,17000.0
+ORD-1420,Neha Bansal,40.0,,Hyderabad,Finance,Laptop,4.0,55000.0,20.0,2025-11-02,Partner,UPI,Cancelled,arjun.verma420@example.com,5.0,South,220000.0
+ORD-1421,Aisha Singh,18.0,Male, Jaipur ,Marketing,Mouse,4.0,765.0,0.0,2025-03-22,Phone,UPI,Returned,arjun.das421@example.com,3.0,West,3060.0
+ORD-1170,Rohan Sharma,32.0,Male,Delhi,IT,Monitor,4.0,10200.0,15.0,2025-04-10,Online,Credit Card,Completed,priya.khan422@example.com,3.0,West,40800.0
+ORD-1423,Neha Yadav,,Female,Jaipur,Sales,Mouse,4.0,945.0,25.0,2025/12/08,Phone,Credit Card,cancelled ,dev.reddy423@example.com,2.0,South,3780.0
+ORD-1424,Rohan Malik,60.0,Other,Noida,Operations,Monitor,5.0,10200.0,10.0,2025-04-13,Phone,UPI,,kavya.sharma424@example.com,,West,51000.0
+ORD-1425,Rohan Singh,,Other,Noida,HR,Keyboard,2.0,1710.0,15.0,2025-04-09,In-Store,Debit Card,Returned,,3.0,East,3420.0
+ORD-1426,Dev Malik,70.0,M,Ghaziabad,Operations,Tablet,2.0,15300.0,,2025-06-10,In-Store,Credit Card,,simran.das426@example.com,3.0,West,30600.0
+ORD-1427,Simran Mehta,37.0,Other,Noida,HR,Keyboard,1.0,,15.0,2025-12-17,Online,UPI,Pending,arjun.reddy427@example.com,3.0,South,"₹1,530.00"
+ORD-1428,Kabir Das,31.0,Male,Hyderabad,Operations,Tablet,5.0,20700.0,0.0,2025-05-23,In-Store,Net Banking,Returned,kabir.verma428@example.com,1.0,East,103500.0
+ORD-1429,Aarav Gupta,29.0,Other, Lucknow ,it,Laptop,5.0,63250.0,5.0,not available,Phone,UPI,Pending,ananya.das429@example.com,4.0,East,316250.0
+ORD-1430,Ananya Verma,61.0,Male,Lucknow,,Tablet,1.0,20700.0,15.0,,online,Credit Card,Completed,ananya.chopra430@example.com,1.0,North,20700.0
+ORD-1431,Arjun Bansal,42.0,,Jaipur,Finance,Monitor,5.0,11400.0,5.0,2025-09-19,Partner,,Completed,kavya.chopra431@example.com,1.0,Central,57000.0
+ORD-1432,Arjun Khan,62.0,Female,Pune,Finance,Printer,5.0,8500.0,20.0,2025-04-03,Phone,Cash,Cancelled,karan.das432@example.com,4.0,South,42500.0
+ORD-1433,Arjun Khan,40.0,Male,Ghaziabad,Human Resources,Monitor,1.0,13800.0,-10.0,2025-02-18,Phone,Credit Card,Returned,rohan.gupta433@example.com,3.0,West,13800.0
+ORD-1434,Arjun Joshi,54.0,Other,Mumbai,Mktg,Headphones,1.0,3500.0,,2025-11-18,In-Store,Cash,Cancelled,neha.gupta434@example.com,3.0,South,3500.0
+ORD-1435,Karan Joshi,38.0,Female,Ghaziabad,Finance,Tablet,1.0,18000.0,10.0,2025-07-09,Online,Cash,Cancelled,ananya.gupta435@example.com,2.0,Central,18000.0
+ORD-1436,Vikram Joshi,57.0,Other,Delhi,operations,Phone,1.0,26600.0,0.0,2025-07-24,Partner,Net Banking,Returned,pooja.joshi436@example.com,2.0,East,26600.0
+ORD-1437,Priya Patel,41.0,Female,Bengaluru,HR,Laptop,4.0,57750.0,10.0,2025-07-01,In-Store,Net Banking,Completed,meera.verma437@example.com,5.0,North,231000.0
+ORD-1438,Aditya Khan,29.0,Other,Hyderabad,IT ,Phone,5.0,26600.0,20.0,2025-08-11,Online,Cash,Cancelled,simran.singh438@example.com,1.0,East,133000.0
+ORD-1439,Pooja Malik,23.0,Male,DELHI,HR,Printer,2.0,8925.0,5.0,,Partner,UPI,Cancelled,aisha.verma439@example.com,1.0,South,17850.0
+ORD-1440,Rohan Malik,70.0,Male,Chennai,IT,Tablet,2.0,18000.0,10.0,2025-02-17,Online,Debit Card,Pending,aisha.khan440@example.com,1.0,East,36000.0
+ORD-1441,Kavya Khan,70.0,Female,Ghaziabad,Marketing,Phone,1.0,29400.0,15.0,2025-12-15,Online,Net Banking,Return,karan.sharma441@example.com,4.0,North,29400.0
+ORD-1442,Meera Verma,49.0,Female,Delhi,HR,Monitor,4.0,13800.0,5.0,2025-08-26,Online,UPI,Pending,vikram.verma442@example.com,3.0,South,55200.0
+ORD-1443,Sana Chopra,64.0,Other,Lucknow,IT,Monitor,1.0,10200.0,20.0,2025-12-28,Online,Cash,Pending,aarav.patel443@example.com,2.0,North,10200.0
+ORD-1444,Dev Gupta,24.0,Male,NOIDA,Operations,Laptop,4.0,63250.0,5.0,2025-06-15,In-Store,Cash,Cancelled,kabir.patel444@example.com,2.0,East,253000.0
+ORD-1445,Pooja Khan,39.0,Male,Bengaluru,HR,Phone,3.0,"₹23,800.00",5.0,2025-06-30,In-Store,Cash,Completed,ananya.bansal445@example.com,,North,71400.0
+ORD-1446,Rahul Patel,61.0,Female,Chennai,Sales,Keyboard,3.0,1710.0,5.0,2025-07-20,Phone,Cash,Completed,nisha.khan446@example.com,3.0,South,5130.0
+ORD-1447,Neha Chopra,41.0,Female,Noida,HR,Printer,3.0,8925.0,15.0,2025-10-18,In-Store,Net Banking,Cancelled,meera.mehta447@example.com,1.0,South,26775.0
+ORD-1448,Aditya Verma,21.0,Female,Noida,IT,Mouse,4.0,855.0,20.0,,Partner,Debit Card,Pending,aarav.rao448@example.com,5.0,East,3420.0
+ORD-1449,Aisha Bansal,57.0,Female,Lucknow,Marketing,Headphones,3.0,3675.0,15.0,2025/02/19,Online,Credit Card,Pending,ishaan.gupta449@example.com,1.0,West,11025.0
+ORD-1450,Ananya Joshi,44.0,Female,Noida,Operations,Printer,3.0,7225.0,5.0,2025-09-02,Partner,UPI,COMPLETE,ishaan.chopra450@example.com,1.0,South,21675.0
+ORD-1451,Dev Malik,57.0,Male,Pune,HR,Headphones,3.0,3500.0,5.0,2025-12-19,Online,UPI,Cancelled,aisha.singh451@example.com,4.0,West,10500.0
+ORD-1452,Pooja Gupta,39.0,Female,Noida,IT,Printer,5.0,9775.0,25.0,03-08-2025,online,UPI,cancelled ,aditya.reddy452@example.com,3.0,West,48875.0
+ORD-1453,Karan Reddy,26.0,Female,HYDERABAD,Marketing,Keyboard,3.0,1530.0,,2025-02-27,Phone,UPI,Pending,sana.joshi453@example.com,5.0,Central,4590.0
+ORD-1454,Ananya Verma,53.0,Male,Pune,Sales,Keyboard,,,20.0,2025-08-14,Partner,Debit Card,Cancelled,kabir.khan454@example.com,1.0,South,3060.0
+ORD-1241,Rohan Das,35.0,Other,Lucknow,Customer Support,Tablet,2.0,17100.0,10.0,2025-08-04,In-Store,Debit Card,Returned,kabir.joshi455@example.com,3.0,South,34200.0
+ORD-1456,Nisha Malik,20.0,Other,Lucknow,Customer Support,,2.0,8925.0,10.0,2025-02-04,Phone,Credit Card,Pending,rahul.rao456@example.com,5.0,West,17850.0
+ORD-1457,Ishaan Singh,63.0,Female,Hyderabad,Customer Support,Keyboard,4.0,1710.0,150.0,2025-10-08,In-Store,,Pending,dev.chopra457@example.com,3.0,,6840.0
+ORD-1458,Kabir Chopra,50.0,Male,Delhi,Finance,Printer,3.0,8500.0,20.0,2025-05-21,In-Store,Debit Card,Cancelled,arjun.bansal458@example.com,4.0,West,25500.0
+ORD-1459,Rohan Mehta,25.0,Female,Hyderabad,Sales,Mouse,4.0,765.0,0.0,2025-06-06,,UPI,Cancelled,pooja.malik459@example.com,1.0,West,3060.0
+ORD-1460,Pooja Sharma,20.0,Female,Lucknow,Finance,Monitor,4.0,10200.0,10.0,2025-07-13,In-Store,UPI,Completed,priya.malik460@example.com,4.0,East,40800.0
+ORD-1461,Sana Joshi,35.0,Female,Pune,Finance,Monitor,1.0,13800.0,20.0,2025/04/02,Phone,UPI,Completed,kabir.bansal461@example.com,1.0,North,13800.0
+ORD-1462,Aisha Mehta,51.0,Male,Lucknow,Customer Support,Monitor,4.0,11400.0,5.0,2025-03-17,In-Store,UPI,Returned,aarav.patel462@example.com,4.0,North,45600.0
+ORD-1463,Rahul Reddy,64.0,Other,Bengaluru,HR,Monitor,5.0,11400.0,5.0,2025-07-15,Partner,Credit Card,Pending,dev.yadav463@example.com,1.0,East,57000.0
+ORD-1464,Karan Das,54.0,Other,Mumbai,Operations,Keyboard,2.0,1800.0,20.0,2025-12-26,Online,Cash,Returned,ishaan.mehta464@example.com,3.0,Central,3600.0
+ORD-1465,Karan Khan,26.0,Male,Chennai,Finance,Headphones,5.0,3675.0,5.0,2025-02-08,Online,Debit Card,Returned,not_an_email,4.0,Central,18375.0
+ORD-1466,Karan Verma,23.0,Other,Noida,Marketing,Tablet,5.0,20700.0,25.0,2025-07-09,Online,Net Banking,Completed,priya.rao466@example.com,5.0,North,103500.0
+ORD-1467,Karan Yadav,30.0,Male,Noida,Sales,Keyboard,1.0,1530.0,15.0,2025-09-30,In-Store,Net Banking,Completed,pooja.malik467@example.com,2.0,South,1530.0
+ORD-1468,Kavya Joshi,22.0,Male,Delhi,HR,Monitor,1.0,"₹11,400.00",10.0,2025-02-11,Online,UPI,Cancelled,neha.malik468@example.com,3.0,North,11400.0
+ORD-1469,Sana Khan,61.0,Male,Lucknow,Customer Support,Laptop,2.0,57750.0,20.0,2025-05-03,Phone,Cash,Completed,nisha.joshi469@example.com,3.0,South,115500.0
+ORD-1470,Sana Malik,39.0,Other,Ghaziabad,Sales,Printer,4.0,8925.0,15.0,2025-01-12,Online,Debit Card,Pending,aditya.bansal470@example.com,3.0,East,35700.0
+ORD-1471,Nisha Rao,,Female,Pune,Finance,Mouse,4.0,945.0,15.0,2025-10-13,Phone,Debit Card,Pending,sana.rao471@example.com,2.0,North,3780.0
+ORD-1472,Neha Gupta,32.0,Male, Mumbai ,Marketing,Phone,5.0,29400.0,10.0,2025-10-20,Phone,UPI,Cancelled,aisha.verma472@example.com,5.0,North,147000.0
+ORD-1473,Karan Singh,48.0,Other,Ghaziabad,Customer Support,Monitor,3.0,12000.0,10.0,2025-12-16,In-Store,Debit Card,Cancelled,karan.malik473@example.com,4.0,East,36000.0
+ORD-1474,Kavya Yadav,19.0,Other,Lucknow,Customer Support,Monitor,2.0,12000.0,10.0,2025-10-25,Mobile app,UPI,Cancelled,dev.rao474@example.com,1.0,South,24000.0
+ORD-1475,Karan Rao,65.0,Male,Lucknow,HR,Laptop,5.0,55000.0,25.0,2025-05-28,,Cash,Pending,rohan.das475@example.com,4.0,North,275000.0
+ORD-1476,Karan Bansal,70.0,Male,,Customer Support,Printer,1.0,9775.0,25.0,2025-02-27,Phone,UPI,Completed,neha.sharma476@example.com,1.0,North,9775.0
+ORD-1477,Kabir Reddy,28.0,Female,Mumbai,HR,Keyboard,4.0,1800.0,,10-23-2025,In store,Credit Card,Returned,aditya.mehta477@example.com,2.0,West,7200.0
+ORD-1478,Dev Sharma,28.0,Male,Hyderabad,Finance,Printer,1.0,8075.0,5.0,2025-05-08,In-Store,Net Banking,Cancelled,,1.0,East,8075.0
+ORD-1479,Pooja Rao,32.0,Male,Pune,HR,Headphones,5.0,3325.0,10.0,2025-04-05,Partner,Cash,Cancelled,aarav.rao479@example.com,4.0,South,16625.0
+ORD-1480,Aarav Das,54.0,Male,Jaipur,Marketing,Headphones,,,25.0,2025-07-21, partner,Credit Card,Completed,aarav.yadav480@example.com,2.0,Central,12075.0
+ORD-1481,Rahul Chopra,35.0,Male,Jaipur,Finance,Printer,2.0,9775.0,0.0,2025-02-07,Partner,Net Banking,Completed,neha.sharma481@example.com,5.0,North,19550.0
+ORD-1482,Simran Verma,18.0,Male,Noida,Finance,Keyboard,4.0,1800.0,0.0,2025-10-24,Online,Debit Card,Returned,ishaan.chopra482@example.com,5.0,West,7200.0
+ORD-1483,Kabir Rao,47.0,Male,Chennai,Sales,Printer,3.0,8925.0,20.0,2025-07-09,Phone,Debit Card,Completed,sana.bansal483@example.com,2.0,West,26775.0
+ORD-1484,Aisha Mehta,51.0,Other,Ghaziabad,Marketing,Printer,5.0,8500.0,20.0,2025/99/01,Phone,Cash,Returned,simran.chopra484@example.com,5.0,West,42500.0
+ORD-1485,Pooja Joshi,41.0,Male,Ghaziabad,Finance,Laptop,3.0,52250.0,0.0,2025-06-23,Mobile app,Cash,Completed,kabir.mehta485@example.com,1.0,North,156750.0
+ORD-1486,Kabir Malik,,Male,Ghaziabad,Customer Support,Keyboard,5.0,1710.0,5.0,2025-03-03,Online,Cash,Returned,pooja.singh486@example.com,2.0,South,8550.0
+ORD-1487,Arjun Bansal,44.0,Male,Lucknow,Marketing,Monitor,2.0,10200.0,20.0,2025-11-04,Phone,UPI,Returned,arjun.patel487@example.com,1.0,West,20400.0
+ORD-1488,Aarav Gupta,46.0,Female,Noida,,Keyboard,2.0, INR 1710.0 ,10.0,2025-08-27,Partner,,Completed,aditya.yadav488@example.com,4.0,West,3420.0
+ORD-1489,Kavya Singh,58.0,Female,Chennai,HR,Mouse,4.0,900.0,15.0,2025-01-08,Partner,Debit Card,Pending,meera.bansal489@example.com,4.0,North,3600.0
+ORD-1000,Kabir Rao,22.0,Other,,Sales,Headphones,1.0,3675.0,15.0,2025-06-10,,Net Banking,Cancelled,dev.yadav0@example.com,3.0,North,3675.0
+ORD-1001,Ananya Bansal,59.0,Female,Pune,Operations,Monitor,5.0,12000.0,15.0,2025-05-16,In-Store,Debit Card,Completed,priya.joshi1@example.com,5.0,North,149281.0
+ORD-1002,Ananya Yadav,55.0,Female,Delhi,Customer Support,Headphones,5.0,3325.0,10.0,2025-08-19,Partner,Net Banking,Cancelled,,2.0,East,16625.0
+ORD-1003,,66.0,Other,Hyderabad,Customer Support,Laptop,3.0,55000.0,10.0,2025-02-26,In-Store,Cash,Pending,priya.mehta3@example.com,4.0,North,165000.0
+ORD-1004,Ishaan Patel,47.0,Other,Chennai,,Phone,3.0,29400.0,0.0,2025-06-23,Partner,Net Banking,Returned,priya.singh4@example.com,4.0,Central,88200.0
+ORD-1005,Simran Singh,30.0,Other,Noida,Sales,Headphones,3.0,4025.0,20.0,2025-05-22,Online,Cash,Completed,pooja.yadav5@example.com,4.0,West,12075.0
+ORD-1006,Kavya Reddy,44.0,Female,Delhi,Sales,Mouse,3.0,,5.0,2025-10-12,Online,Debit Card,Returned,aisha.mehta6@example.com,5.0,East,2565.0
+ORD-1007,Kavya Joshi,22.0,Female,Ghaziabad,IT,Headphones,1.0,3500.0,15.0,2025-08-20,,Credit Card,Pending,nisha.patel7@example.com,2.0,East,3500.0
+ORD-1008,Aditya Sharma,63.0,Male,Chennai,IT,Headphones,5.0,2975.0,10.0,2025-03-27,Phone,UPI,Returned,arjun.yadav8@example.com,5.0,West,
+ORD-1009,,35.0,Male,Mumbai,Sales,Monitor,3.0,12000.0,20.0,2025-10-25,Phone,Net Banking,Pending,dev.khan9@example.com,5.0,East,36000.0
